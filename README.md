@@ -1,4 +1,4 @@
-## https://facebook.tracking.exposd
+## https://facebook.tracking.exposed
 ## public repository of datasets
 
 The dataset here published aim to show the potential outcome of an analysis done with [fbtrex](https://facebook.tracking.exposed), they are published only because:
