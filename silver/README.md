@@ -1,13 +1,11 @@
 
 The files in the directory **silver** are encrypted, they are available upon explicit agreement.
-The files here will be deleted and the repository `git reset --hard`, when the data become public.
-
 **Confidentiality**: the filename with (.zip) at the end, are encrypted, their leakage should be avoid until the report is not ready.
 
 ## Files
 
-  * fbtrex-data-0.json.zip: It is **not necessay use this file**, has been cleaned and reduced as documented below.
-  * semantic-entities.json.zip: semantic analysis of all the externally linked url
+  * fbtrex-data-0.json.zip: it is the first exported data, is outdated now. It is **not necessay use this file**, has been cleaned as documented below. from a file with suffix -0 has been generated two files with suffix -1.
+  * semantic-entities.json.zip: It contains semantic analysis of all the externally linked url
 
 ### reduction and cleaning of file -0
 
@@ -26,15 +24,15 @@ using the file "Media and Influences.ods(.zip)" the sources has been verified.
 Using the command: `STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo-scripts/silver.js`
 
   * This has produced the file **fbtrex-data-1.json(.zip)** which is the one you should use for your analysis, contains all the improvement described above.
-  * a list of all the posts, ordered by first appearence (publicationTime), and their appearence map, their text display, is in **post-publication-0.json(.zip)**
+  * a list of all the posts, ordered by first appearence (publicationTime), and their appearence map, their text display, is in **post-publication-1.json(.zip)**
 
-# Sample
+# Data Format Sample
 
-They are all collections, here is explained the internal format
+All the .json files contains a list of object, below is reported one of the object, in order to highlight the relationship between the three files.
 
 ### fbtrex-data-1.json 
 
-every object represent an impression, there are 57686 impressions collected from 9 different profiles following 45 sources
+every object represent an **impression**, there are 57686 impressions collected from 9 different profiles following 45 sources
 
 ```
   {
@@ -76,11 +74,11 @@ every object represent an impression, there are 57686 impressions collected from
 
 ### semantic-entities.json
 
-using the `externals.id` from the object above, you can find the semantic analysis of all the externally linked URLs:
+**relationships**: using the `externals.id` from the object above, you can find the semantic analysis of all the externally linked URLs. also `original` contains the same URL of `externals.link`
 
 ```
   {
-    "id": $THIS_IS_THE_ID_REFERENCED,
+    "id": "c26b59f275872774e32f7ce8bc46f570e9c73fc7",
     "original": "http://bit.ly/4444UDX",
     "time": IGNORE IT, depends on the third party services,
     "annotation": [ list of entities extracted, position, and wikipedia references ],
@@ -91,9 +89,11 @@ using the `externals.id` from the object above, you can find the semantic analys
   }
 ```
 
-### post-publication-0.json
+### post-publication-1.json
 
 every object represent a facebook post, there are 13291 unique fb posts; for example, this means the post above it is appear to *Claudio*, and then to *Andrea* and *Juan*.
+
+**relationships**:  `postId` (it is even a relationship toward facebook),  `appears[].id` reference to an unique ID from the impressions.
 
 ```
   {
