@@ -6,10 +6,12 @@ The dataset here published aim to show the potential outcome of an analysis done
   * we made profiles on our own, without associate it with any real person
   * we were following public profiles and official mainstream newspaper
 
-The data collected by fbtrex are protected because:
+The data collected by fbtrex are NOT published, because they are protected:
 
-  * the are not sensible in the first place (only public posts)
   * only the supporter using fbtrex has complete decision on the data provided
   * if analysis are done over the global dataset, the subject can't be "the users" but only phenomenas, and the users are anonymized in the process
+  * the protection has not the same accuracy of personal data, because they are public posts in the hand of facebook in the first place
 
+## documentation
 
+In every subdirectory you'll find a README.md explaining a basic documentation of the test.
