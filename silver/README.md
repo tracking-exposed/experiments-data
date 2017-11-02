@@ -2,7 +2,7 @@
 The files in the directory **silver** are encrypted, they are available upon explicit agreement.
 The files here will be deleted and the repository `git reset --hard`, when the data become public.
 
-**Confidentiality**: the filename with (.zip) at the end, are encrypted, their leakage should be reduced until the report is not ready.
+**Confidentiality**: the filename with (.zip) at the end, are encrypted, their leakage should be avoid until the report is not ready.
 
 ## Files
 
@@ -27,4 +27,100 @@ Using the command: `STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo
 
   * This has produced the file **fbtrex-data-1.json(.zip)** which is the one you should use for your analysis, contains all the improvement described above.
   * a list of all the posts, ordered by first appearence (publicationTime), and their appearence map, their text display, is in **post-publication-0.json(.zip)**
+
+# Sample
+
+They are all collections, here is explained the internal format
+
+### fbtrex-data-1.json 
+
+every object represent an impression, there are 57686 impressions collected from 9 different profiles following 45 sources
+
+```
+  {
+    "pageName": "nytimes",
+    "profile": "Claudio",
+    "postId": "17744444444666666",
+    "externals": [
+      {
+        "link": "http://bit.ly/4444UDX",
+        "id": "c26b59f275872774e32f7ce8bc46f570e9c73fc7"
+      }
+    ],
+    "impressionTime": "2017-10-21T15:02:41-03:00",
+    "publicationTime": "2017-10-21T14:10:02-03:00",
+    "visualizationDiff": 3159,
+    "type": "photo",
+    "love": 1,
+    "like": 6,
+    "sad": 0,
+    "haha": 0,
+    "wow": 0,
+    "angry": 0,
+    "thankful": 0,
+    "_keywordWeLookForNumberOne": 0,
+    "_keywordWeLookForNumberTwo": 0,
+    "_keywordWeLookForNumberThree": 0,
+    "_keywordWeLookForNumberFour": 0,
+    "_keywordWeLookForNumberFive": 4,
+    "impressionOrder": 34,
+    "id": "ca2c2fa65199e1e29495de455453689293fc5c1a",
+    "permaLink": "/nytimes/photos/a.126983925862.111686.51631931312/10151115811551563/?type=3",
+    "rtotal": "7",
+    "comments": "1",
+    "shares": "0",
+    "timelineId": "37bf45dae7481f29bfc7790778b12342b295c1a2"
+  }
+
+```
+
+### semantic-entities.json
+
+using the `externals.id` from the object above, you can find the semantic analysis of all the externally linked URLs:
+
+```
+  {
+    "id": $THIS_IS_THE_ID_REFERENCED,
+    "original": "http://bit.ly/4444UDX",
+    "time": IGNORE IT, depends on the third party services,
+    "annotation": [ list of entities extracted, position, and wikipedia references ],
+    "lang": "es",
+    "text": FULL TEXT of the ARTICLE
+    "url": "https://nytimes.com/blah",
+    "publicationTime": this will differ from the publicationTime above, it talks on the URL publication, not of the facebook publication
+  }
+```
+
+### post-publication-0.json
+
+every object represent a facebook post, there are 13291 unique fb posts; for example, this means the post above it is appear to *Claudio*, and then to *Andrea* and *Juan*.
+
+```
+  {
+    "postId": "17744444444666666",
+    "publicationTime": "2017-10-21T14:10:02-03:00",
+    "pageName": "nytimes",
+    "text": could or could not be present, depends on the post type
+    "appears": [
+      {
+        "visualizationDiff": 246630,
+        "impressionOrder": 42,
+        "profile": "Claudio",
+        "id": "ca2c2fa65199e1e29495de455453689293fc5c1a",
+      },
+      {
+        "visualizationDiff": 247791,
+        "impressionOrder": 37,
+        "profile": "Andrea",
+        "id": "12cc5ee87ca3424240dd0465f129862bcd479a36"
+      },
+      {
+        "visualizationDiff": 331341,
+        "impressionOrder": 73,
+        "profile": "Juan",
+        "id": "e6345ec885edd8adbd774dd98b2403938cf660ce"
+      }
+    ]
+  }
+```
 
