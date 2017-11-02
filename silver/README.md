@@ -19,10 +19,12 @@ The files here will be deleted and the repository `git reset --hard`, when the d
 
 using the file "Media and Influences.ods(.zip)" the sources has been extracted and put in pages.json(.zip)
 
-  * some posts belonging to pages not followed by the profiles are been found (Facebook decision, we are not following these)
+  * some posts had not the displayName and pageName properly extracted, this was happening on `album`, now is fixed.
 
---- work in progress
+### results
 
-This has produced the file **fbtrex-data-1.json.zip** which is the one you should use for your analysis
+Using the command: `STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo-scripts/silver.js`
 
+  * This has produced the file **fbtrex-data-1.json(.zip)** which is the one you should use for your analysis, contains all the improvement described above.
+  * a list of all the posts, ordered by first appearence (publicationTime), and their appearence map, their text display, is in **post-publication-0.json(.zip)**
 
