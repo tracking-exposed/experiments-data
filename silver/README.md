@@ -74,7 +74,7 @@ every object represent an **impression**, there are 57686 impressions collected 
 
 ### semantic-entities.json
 
-**relationships**: using the `externals.id` from the object above, you can find the semantic analysis of all the externally linked URLs. also `original` contains the same URL of `externals.link`
+**relationships**: using the `externals.id` from the object above, you can find the semantic analysis of all the externally linked URLs. also `original` contains the same URL of `externals.link`. The format is the one documented on the third party webiste we relay on (dandelion.eu)[https://dandelion.eu/docs/api/datatxt/nex/v1/].
 
 ```
   {
