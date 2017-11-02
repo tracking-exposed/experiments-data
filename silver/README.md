@@ -17,7 +17,7 @@ The files here will be deleted and the repository `git reset --hard`, when the d
 
 ### content check
 
-using the file "Media and Influences.ods(.zip)" the sources has been extracted and put in pages.json(.zip)
+using the file "Media and Influences.ods(.zip)" the sources has been verified.
 
   * some posts had not the displayName and pageName properly extracted, this was happening on `album`, now is fixed.
 
