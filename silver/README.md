@@ -1,6 +1,7 @@
 
 The files in the directory **silver** are encrypted, they are available upon explicit agreement.
 **Confidentiality**: the filename with (.zip) at the end, are encrypted, their leakage should be avoid until the report is not ready.
+**Data format**: read the file named *columns-content.md*, it explains the fields in the JSONs
 
 ## Files
 
@@ -30,21 +31,16 @@ Using the command: `STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo
 
 All the .json files contains a list of object, below is reported one of the object, in order to highlight the relationship between the three files.
 
-### fbtrex-data-1.json 
+### fbtrex-data-2.json
 
 every object represent an **impression**, there are 57686 impressions collected from 9 different profiles following 45 sources
+Note: following the suggestion of #1, the `external` fields has been moved from **impression** to this collection (the file got the new suffix of -2)
 
 ```
   {
     "pageName": "nytimes",
     "profile": "Claudio",
     "postId": "17744444444666666",
-    "externals": [
-      {
-        "link": "http://bit.ly/4444UDX",
-        "id": "c26b59f275872774e32f7ce8bc46f570e9c73fc7"
-      }
-    ],
     "impressionTime": "2017-10-21T15:02:41-03:00",
     "publicationTime": "2017-10-21T14:10:02-03:00",
     "visualizationDiff": 3159,
@@ -89,15 +85,31 @@ every object represent an **impression**, there are 57686 impressions collected 
   }
 ```
 
-### post-publication-1.json
+Import made easy:
+
+```
+node
+> fs = require('fs');
+> a = JSON.parse(fs.readFileSync("semantic-entities.json", "utf-8"))
+
+```
+
+### post-publication-2.json
 
 every object represent a facebook post, there are 13291 unique fb posts; for example, this means the post above it is appear to *Claudio*, and then to *Andrea* and *Juan*.
+Note: following the suggestion of #1, the `external` fields has been moved from **impression** to this collection, and the file got the new suffix of -2
 
 **relationships**:  `postId` (it is even a relationship toward facebook),  `appears[].id` reference to an unique ID from the impressions.
 
 ```
   {
     "postId": "17744444444666666",
+    "externals": [
+      {
+        "link": "http://bit.ly/4444UDX",
+        "id": "c26b59f275872774e32f7ce8bc46f570e9c73fc7"
+      }
+    ],
     "publicationTime": "2017-10-21T14:10:02-03:00",
     "pageName": "nytimes",
     "text": could or could not be present, depends on the post type
