@@ -10,19 +10,6 @@ The files in the directory **silver** are encrypted, they are available upon exp
 
 ## Files
 
-### content check
-
-using the file "Media and Influences.ods(.zip)" the sources has been verified.
-
-  * some posts had not the displayName and pageName properly extracted, this was happening on `album`, now is fixed.
-
-### results
-
-Using the command: `STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo-scripts/silver.js`
-
-  * This has produced the file **fbtrex-data-1.json(.zip)** which is the one you should use for your analysis, contains all the improvement described above.
-  * a list of all the posts, ordered by first appearence (publicationTime), and their appearence map, their text display, is in **post-publication-1.json(.zip)**
-
 # Data Format Sample
 
 All the .json files contains a list of object, below is reported one of the object, in order to highlight the relationship between the three files.
@@ -136,3 +123,13 @@ Note: following the suggestion of #1, the `external` fields has been moved from 
   }
 ```
 
+
+### Users (bots) profiles
+
+The file "Media and Influences.ods(.zip)" constains, in the green column, all the 45 sources the bots were following.
+
+### data extraction
+
+technical note, the data has been extracted using this command:
+
+    STARTDAY="2017-10-08" ENDDAY="2017-10-24" DEBUG=* node mongo-scripts/silver.js
