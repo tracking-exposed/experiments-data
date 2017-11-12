@@ -1,18 +1,14 @@
+# The 6th of Novemember a new version has been released! 
+
+Read it below, the most important change is the separation of absolute posts and impressions
+
+### welcome message
 
 The files in the directory **silver** are encrypted, they are available upon explicit agreement.
 **Confidentiality**: the filename with (.zip) at the end, are encrypted, their leakage should be avoid until the report is not ready.
 **Data format**: read the file named *columns-content.md*, it explains the fields in the JSONs
 
 ## Files
-
-  * fbtrex-data-0.json.zip: it is the first exported data, is outdated now. It is **not necessay use this file**, has been cleaned as documented below. from a file with suffix -0 has been generated two files with suffix -1.
-  * semantic-entities.json.zip: It contains semantic analysis of all the externally linked url
-
-### reduction and cleaning of file -0
-
-  * reactions and interactions stop to be dictionary and collections, making the object flat.
-  * hrefType is a too much technical working, now is type
-  * the total amount of reaction collected by the post at `impressionTime`, (sum of all the *likes*, *HaHa*, *Wow!*, *Sad*, *Love*, *Thankful* buttons) is named `rtotal`
 
 ### content check
 
@@ -93,6 +89,10 @@ node
 > a = JSON.parse(fs.readFileSync("semantic-entities.json", "utf-8"))
 
 ```
+
+### semantic-entities.json.zip
+
+It contains semantic analysis of all the externally linked url, the format is the one produced by https://dandelion.eu/docs/api/datatxt/nex/v1/
 
 ### post-publication-2.json
 
