@@ -32,7 +32,7 @@ merge()
         
         #print(rightdf['externals'])
     newlist = []
-    for key,value in rightdf:
+    for key in rightdf:
         newlist.append(key)
         print(newlist)
         
