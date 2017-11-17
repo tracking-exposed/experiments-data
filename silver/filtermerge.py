@@ -39,10 +39,11 @@ def doSemanticFilter(semantics):
 
 def loadJSON(fileName):
     print("loadJSON %s" % fileName)
-    with file(fileName, 'r') as fp:
-        content = json.load(fp)
-        print("loadJSON Loaded %d entries from %s" % (len(content), fileName))
-        return content
+    fp = open(fileName, 'r')
+    content = json.load(fp)
+    print("loadJSON Loaded %d entries from %s" % (len(content), fileName))
+    fp.close()
+    return content
 
 
 # Here begin the code
@@ -81,8 +82,6 @@ for po in posts:
 
 print("Extended post list is composed by %d" % len(selected))
 
-with file(outputF, 'w+') as fp:
-    json.dump(selected, fp);
-    print("Written %s with results" % outputF);
-
-
+fp = open(outputF, 'w+')
+json.dump(selected, fp)
+print("Written %s with results" % outputF)
