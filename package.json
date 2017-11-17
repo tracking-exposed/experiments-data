@@ -1,0 +1,25 @@
+{
+  "name": "experiments-data",
+  "version": "1.0.0",
+  "description": "This is a repository of public dataset from facebook.tracking.exposed experiment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracking-exposed/experiments-data.git"
+  },
+  "keywords": [
+    "facebook.tracking.exposed",
+    "dataset"
+  ],
+  "author": "Claudio Agosti",
+  "license": "SEE LICENSE IN <CC-BY.txt>",
+  "bugs": {
+    "url": "https://github.com/tracking-exposed/experiments-data/issues"
+  },
+  "homepage": "https://github.com/tracking-exposed/experiments-data#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "debug": "^3.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.2"
+  }
+}
