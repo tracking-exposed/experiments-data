@@ -1,3 +1,4 @@
+#!/usr/bin/env nodejs
 var _ = require('lodash');
 var moment = require('moment');
 var Promise = require('bluebird');
@@ -15,16 +16,38 @@ function loadJSONfile(fname) {
         });
 };
 
+function loadList() {
+    var pages = "page-list.txt"
+    return fs
+        .readFileAsync(pages, "utf-8")
+	.then(function(pl) {
+            return _.compact(_.split(pl, '\n'));
+	})
+	.map(_.toLower);
+}
+
 var impressionsF = "impressions - 16 days.json"
-var postsF = "posts - 16 days.json"
-var semanticF = "semantic-entities.json"
-var gaussF = "gauss.json"
 
 /*
  * competition among posts can be seen as "the top 10 posts which
  * ignored chronological order 
  */
-return loadJSONfile(impressionsF)
+return Promise.all([
+	loadJSONfile(impressionsF),
+	loadList()
+    ])
+    .then(function(x) {
+        /* partiont creates two array: the first for which the function return true */
+        return _.partition(x[0], function(impression) {
+ 	    var check = _.toLower(impression.pageName);
+            return x[1].indexOf(check) === -1;
+	});
+    })
+    .tap(function(partition) {
+	debug("Accepted pageName %d, unrecognized %d", _.size(partition[1]), _.size(partition[0]));
+	console.log(JSON.stringify(_.countBy(partition[0], 'pageName'), undefined, 2));
+        debugger;
+    })
     .map(function(impression) {
         var fields = ['pageName', 'postId', 'profile', 'impressionTime'];
         var ret = _.pick(impression, fields);
