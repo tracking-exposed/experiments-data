@@ -30,6 +30,10 @@ function loadCSVfile(day, fname) {
             tobecl.from_id = tobecl.from_id.replace(/_/, '');
             tobecl.author_id = combo[0];
             tobecl.postId = combo[1];
+            tobecl.uniq = _.join([
+                sname.substring(0, 5),
+                moment(tobecl.created_time).valueOf() 
+            ], '--');
             // tobecl.pageName = sname;
             // ^^^^^^^^^^^^^^^^^^^^^^^
             // This is not very clean, there are numbers at the end of
@@ -97,6 +101,14 @@ return Promise.map(days, function(d) {
     return _.uniqBy(all, 'postId');
 })
 .then(function(clean) {
+    var e = _.countBy(clean, 'uniq');
+    var f = _.filter(e, function(o, k) {
+        if(o !== 1)
+            console.log(k);
+        return o !== 1;
+    });
+    console.log(JSON.stringify(f, undefined, 3));
+    debug("Unique id not postId %d in a dataset of %d", _.size(e), _.size(clean));
     return _.orderBy(clean, 'created_time');
 })
 .tap(function(result) {
