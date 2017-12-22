@@ -16,8 +16,8 @@ function loadJSONfile(fname) {
         });
 };
 
-var impressionsF = "impressions - 14 days.json"
-var postsF = "posts - 14 days.json"
+var impressionsF = "impressions - 13 days.json"
+var postsF = "posts - 13 days.json"
 var gaussF = "gauss.json"
 
 /*

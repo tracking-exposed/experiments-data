@@ -20,8 +20,8 @@ The file gauss.json analyze the visualizationDiff value, rounding the value in h
 
 ```
 user@user:~/experiments-data/wto$ DEBUG=* ../competition.js 
-  competition Opening file impressions - 14 days.json +0ms
-  competition Writings gauss.json, 13905 visualization object: done! +1s
+  competition Opening file impressions - 13 days.json +0ms
+  competition Writings gauss.json, 12670 visualization object: done! +825ms
 ```
 
 it is based on the impressions.

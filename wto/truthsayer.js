@@ -26,7 +26,7 @@ function filtertime(collection) {
             moment(e.publicationTime).isBefore(endday);
     });
 
-    debug("Kept fbtrex posts published between %s and %s, now are just %d",
+    debug("Kept fbtrex posts published between %s and %s, now are %d",
         startday.format(), endday.format(), _.size(nc));
     return nc;
 };
@@ -44,22 +44,21 @@ var truthF = "truthcheck.json";
 
 return Promise
     .all([ loadJSONfile(postsF), loadJSONfile(APIF) ])
-    .then(function(mixed) {
+    .tap(function(mixed) {
         var cleanPosts = filtertime(mixed[0]);
         debug("Starting with %d posts from API and %d from fbtrex (%d timef)",
             _.size(mixed[1]), _.size(mixed[0]), _.size(cleanPosts) );
         var sidecheck = 0;
-        var retv = _.map(mixed[1], function(apie) {
+        var result = _.map(mixed[1], function(apie) {
             var x = _.find(cleanPosts, {postId: apie.postId});
             var r = _.pick(apie, ['postId', 'pageName', 'created_time']);
             if(x) sidecheck++;
             r.outreach = x ? _.size(_.uniq(_.map(x.appears, 'profile'))) : 0;
             return r;
         });
-        debug("Check, all the post found are %d", sidecheck);
-        return retv;
-    })
-    .tap(function(result) {
+        debug("Check, all the post found are %d (%d missing)",
+            sidecheck, _.size(mixed[0]) - sidecheck);
+
         var c = _.countBy(result, 'outreach');
         debug("Stats: %s, %s",
             JSON.stringify(c, undefined, 2),
@@ -73,4 +72,17 @@ return Promise
             .tap(function() {
                 debug("Writings %s, %d visualization object: done!", truthF, _.size(result));
             });
+    })
+    .tap(function(mixed) {
+        var cleanPosts = filtertime(mixed[0]);
+        debug("Doublecheck %d posts from API and %d from fbtrex (%d timef)",
+            _.size(mixed[1]), _.size(mixed[0]), _.size(cleanPosts) );
+        var errors = 0;
+        _.each(cleanPosts, function(visualized) {
+            var x = _.find(mixed[1], { postId: visualized.postId });
+            if(!x) 
+                errors++;
+                // debug("Error with %s %s %s %d", visualized.postId, visualized.pageName, visualized.publicationTime, _.size(visualized.appears));
+        });
+        debug("Error so far: %d", errors);
     });
