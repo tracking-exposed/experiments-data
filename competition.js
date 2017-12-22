@@ -1,3 +1,4 @@
+#!/usr/bin/env nodejs
 var _ = require('lodash');
 var moment = require('moment');
 var Promise = require('bluebird');
@@ -15,9 +16,8 @@ function loadJSONfile(fname) {
         });
 };
 
-var impressionsF = "impressions - 16 days.json"
-var postsF = "posts - 16 days.json"
-var semanticF = "semantic-entities.json"
+var impressionsF = "impressions - 14 days.json"
+var postsF = "posts - 14 days.json"
 var gaussF = "gauss.json"
 
 /*
