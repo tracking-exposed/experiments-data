@@ -86,9 +86,13 @@ return Promise
 
         var impressions = timeconv(filtertime(mixed[0]));
         var merged = [];
-        var impf = [ 'impressionOrder', 'timelineId', 'profile', 'pageName' ];
+        var impf = [ 'impressionOrder', 'timelineId', 'profile', 'pageName',
+          "visualizationDiff", "love", "like", "sad", "haha", "wow", "angry",
+          "thankful", "id", "permaLink", "rtotal", "comments", "shares" ];
+
         var apif = [ 'from', 'from_id', 'message', 'picture', 'link', 'name', 'description', 'type', 'author_id', 'postId' ];
 
+        /*
         _.each(mixed[1], function(apie) {
             var e = _.pick(apie, apif);
             e.sortBy = moment(apie.created_time);
@@ -96,11 +100,11 @@ return Promise
             merged.push(e);
         });
         debug("Imported the API source: %d entries", _.size(merged));
-
+*/
         _.each(impressions, function(impression) {
             /* link the impression to the post, if exists.
              * and if not: it is an issue */
-*           var matches = _.filter(mixed[1], {uniq: impression.uniq});
+            var matches = _.filter(mixed[1], {uniq: impression.uniq});
             var correctOne = selectMatch(matches, impression.postId, impression.permaLink);
             
             var e = _.merge({
@@ -130,10 +134,11 @@ return Promise
     })
     .then(function(coll) {
 
+        var ImpOnly = "impression-extended-table.csv";
         jsonexport(coll ,function(err, csv){
             if(err) return console.log(err);
             return fs
-                .writeFileAsync('API-only-table.csv', csv, "utf-8");
+                .writeFileAsync(ImpOnly, csv, "utf-8");
         });
     });
 
