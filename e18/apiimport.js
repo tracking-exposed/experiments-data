@@ -7,7 +7,7 @@ var fs = Promise.promisifyAll(require('fs'));
 var CSV = require('csv-string');
 
 function loadCSVfile(day, fname) {
-    var fpath = 'feeds/' + day + '/' + fname;
+    var fpath = 'collected/' + day + '/' + fname;
     var sname = fname.replace(/\(\d+\)/, '').replace(/\.csv$/, '');
     return fs
         .readFileAsync(fpath, "utf-8")
@@ -50,8 +50,8 @@ function loadCSVfile(day, fname) {
 
 function filtertime(collection) {
     /* This because my computer is in CET */
-    var startday = moment("2017-12-07").utcOffset(60);
-    var endday = moment("2017-12-21").utcOffset(60);
+    var startday = moment("2018-01-05").utcOffset(60);
+    var endday = moment("2018-03-09").utcOffset(60);
 
     var nc = _.filter(collection, function(e) {
         return moment(e.created_time).isAfter(startday) &&
@@ -63,11 +63,13 @@ function filtertime(collection) {
     return nc;
 };
 
-var days = _.map(_.range(7, 22), function(day) {
-    return moment({
-        year: 2017,
-        month: 12 - 1, // WTF
+var days = _.map(_.range(5, 80), function(day) {
+    var x = moment({
+        year: 2018,
+        month: day / 2, // WTF, start from 0
         day: day}).format("YYYY-MM-DD");
+    debug("test %d %s", day, x);
+    return x;
 });
 
 var destF = "API-collected-posts.json";
@@ -76,7 +78,7 @@ return Promise.map(days, function(d) {
     var csvimport = _.partial(loadCSVfile, d);
 
     return fs
-        .readdirAsync("feeds/" + d)
+        .readdirAsync("collected/" + d)
         .map(csvimport)
         .then(function(dailycollection) {
             var total = _.flatten(dailycollection);
