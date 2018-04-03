@@ -1,3 +1,10 @@
+# Files
+
+  * opendata-e18.array.json.gz: this is a collection, like `[{},{},{}]` it is the proper JSON format
+  * opendata-e18.tableau.json.gz: this is a file with `{}\n{}\n{}\n`, has one object every line, it works for Tableau while the one above doesn't
+
+### Object structure 
+
 The collection contains 193808 object with these fields:
 
     "_id" : ObjectId("5ab919032076215038537c36"),
@@ -22,7 +29,7 @@ The collection contains 193808 object with these fields:
     "publisherOrientation" : "right",
     "observed" : 1
 
-## Fields description
+### Fields description
 
 Every object represent a Facebook post appear in the profile timeline. The profiles are six, the pages they were following 30.
 All the objects are a combo of these two lists. These object take name of **impression** because the post is a unique publication
