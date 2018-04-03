@@ -2,8 +2,10 @@
 
   * opendata-e18.array.json.gz: this is a collection, like `[{},{},{}]` it is the proper JSON format
   * opendata-e18.tableau.json.gz: this is a file with `{}\n{}\n{}\n`, has one object every line, it works for Tableau while the one above doesn't
+  * api-posts-e18.array.json.gz: this file follow the same format of the Facebook API, plus there is a `publisherOrientation` field.
+  * api-posts-e18.tableau.json.gz: this file has the same format `{}\n{}\n{}\n` usable by Tableau.
 
-### Object structure 
+### Object "opendata-e18" structure 
 
 The collection contains 193808 object with these fields:
 
