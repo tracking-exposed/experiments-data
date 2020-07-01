@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/JNWFM08bfEbUoVsjgtfsei56WSI\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "IT",
+ "pageInfo": {
+  "totalResults": 111,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/spN4LU7Jn41cLH6KmFBiHoQUgqI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l_pnfgfvwvQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T15:02:14.000Z",
+    "channelId": "UCP391YRAjSOdM_bwievgaZA",
+    "title": "Jornal da Manhã 2a. Edição  - 26/03/2020",
+    "description": "#EuFicoEmCasa #JovemPan\n\nInscreva-se no nosso canal:\nhttp://www.youtube.com/c/jovempannews\n\nEntre no nosso site:\nhttp://jovempan.com.br/\n\nFacebook:\nhttps://www.facebook.com/jovempannews\n\nSiga no Twitter:\nhttps://twitter.com/JovemPanNews\n\nInstagram:\nhttps://www.instagram.com/jovempannewsoficial/\n\n#JovemPan #JovemPanNews",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l_pnfgfvwvQ/default_live.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l_pnfgfvwvQ/mqdefault_live.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l_pnfgfvwvQ/hqdefault_live.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jovem Pan News",
+    "liveBroadcastContent": "live"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zFGfXNhYUCcVid8wrWS7B78hZEs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QPJ3eVAo-7Y"
+   },
+   "snippet": {
+    "publishedAt": "2015-12-19T01:36:06.000Z",
+    "channelId": "UCzANEY54dzal6jaCgKp4e2g",
+    "title": "Ator famoso sobrevive vendendo picolés",
+    "description": "Descubra quem é o famoso ator que já fez muito sucesso e foi esquecido.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QPJ3eVAo-7Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QPJ3eVAo-7Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QPJ3eVAo-7Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Domingo Show",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9uK21txbxsgK5OfKj99XHXISh28\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G1LoovRQQS4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-06T18:21:49.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Coronavírus: 10 boas notícias em meio à \"epidemia de medo\"",
+    "description": "Pandemia ou não, o novo coronavírus é grave, tem matado muita gente e deixado outras tantas doentes. Não dá para diminuir a importância, mas também não é motivo para pânico. \n\nÉ necessário informar o que está acontecendo, mas também precisamos divulgar boas notícias.\n\nLeia mais: https://www.bbc.com/portuguese/geral-51736012\n\n\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G1LoovRQQS4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G1LoovRQQS4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G1LoovRQQS4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/LuSVEZHuNylquK_9OD5vwHEtbw4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oJJud15LZhw"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-02T01:53:09.000Z",
+    "channelId": "UCAXUk8BQRT0YILZ6q47sgpg",
+    "title": "Bomba Manual para Poço(Bomba Rosário/Bomba de Soga) Como fazer Passo a Passo, Vídeo 1 de 2",
+    "description": "Vídeo da Bomba manual para poço caipira sendo mostrado o passo a passo de como fazer sua construção com todos os detalhes.\nFaça você mesmo está bomba que também é conhecida como bomba rosário ou bomba de soga, sendo uma excelente opção para quem quer economizar energia ou não tem energia elétrica em sua propriedade e necessita retirar água do poço.\n\nAssistam a continuação no vídeo 2\n\nCurta nossas páginas:\nFacebook: https://www.facebook.com/fabiovarao.oficinagaragem/\n\nInstagram: https://www.instagram.com/Oficina.garagem\n\nEspero que gostem e não esqueça de dar aquele joinha e se inscrever no canal.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oJJud15LZhw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oJJud15LZhw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oJJud15LZhw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Oficina Garagem",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/sAbNL-NslfnZrMTlqGRIN8EG5Fg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "riYB5xFRHgg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-16T19:03:30.000Z",
+    "channelId": "UCXdXYG8dUmEv6jhEji_lSHg",
+    "title": "Epicentro - 24h em Wuhan | Documentário",
+    "description": "Neste documentário produzido pela CGTN - China Global Television Network, saiba mais sobre o início da crise de saúde pública na China que se transformou numa pandemia: o COVID-19. \n\nO novo coronavírus começou a circular durante a temporada de viagens mais movimentada na China, na qual milhões visitam suas famílias no feriado do Ano Novo Lunar. Em meio ao crescimento da epidemia, uma Wuhan sitiada se mobiliza para salvar aqueles que estão no epicentro da emergência. Numa manobra sem precedentes, a China isolou a grande metrópole na esperança de impedir a disseminação do vírus. \n\nCurta as páginas do Jornalismo TV Cultura nas redes sociais!\nInstagram: http://instagram.com/jornalismotvcultura\nFacebook: https://www.facebook.com/jornalismotvcultura/\nTwitter: https://twitter.com/jornal_cultura\nAcesse o site da TV Cultura: http://tvcultura.com.br",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/riYB5xFRHgg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/riYB5xFRHgg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/riYB5xFRHgg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jornalismo TV Cultura",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/iNBLJe4g-J98yj19cFirxZZ0IB8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "79OGOlJw-VQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T19:20:14.000Z",
+    "channelId": "UCXMe2Oq7uSxEJ6Cm75yxryw",
+    "title": "Peguei o Coronavírus! Sintomas que senti e tratamento. 🇺🇸",
+    "description": "Fiz o teste 🙌🏻🙌🏻 e update da situação. Tbm reapondi a maioria das perguntas q vcs fizeram aqui nos comentários.                    https://youtu.be/CKKko_foO9k",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/79OGOlJw-VQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/79OGOlJw-VQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/79OGOlJw-VQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Christine Bueno",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/cR5o46yvFMvTkuH_pKgkCxsRaYY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tcrZd5uxajw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T22:19:51.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Coronavírus: como diferenciar sintomas da covid-19 de uma gripe, um resfriado ou uma rinite?",
+    "description": "As dúvidas sobre os sintomas da doença covid-19 aumentaram com a chegada do outono, mas, na maioria dos casos, eles são semelhantes aos de uma gripe comum. Entenda melhor neste vídeo da repórter Camilla Costa.\n\nLeia mais: https://www.bbc.com/portuguese/brasil-51946693\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tcrZd5uxajw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tcrZd5uxajw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tcrZd5uxajw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/O9AzpS4iSQlJJzmIyHiYYT5piOY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dpSc-ETSDyc"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T20:39:26.000Z",
+    "channelId": "UCtmBoasiD85ET6GeHJjaFvg",
+    "title": "O que acontece com seu corpo quando você pega coronavírus?",
+    "description": "Não importa onde você vive, certamente a sua vida já foi afetada de alguma maneira pela pandemia de coronavírus que vem causando pânico no mundo inteiro. A Covid-19, doença provocada pelo novo coronavírus, é nova no mundo da medicina, e por isso muitos médicos e pesquisadores têm dificuldade em traçar estratégias de combate ao patógeno.\n\nFontes: \n\nVisão geral sobre o coronavírus, sintomas e grupos de risco: https://www.who.int/health-topics/coronavirus\n\nVisão geral sobre a ação dos vírus através das proteínas ACE2 para infectar células humanas: https://www.cell.com/cell/pdf/S0092-8674(20)30229-4.pdf\n\nEstudo sobre perda da função pulmonar em casos graves recuperados:\nhttps://www.sciencealert.com/even-those-who-recover-from-corona-can-be-left-gasping-for-breath-afterwards\n\nEstudo sobre outros efeitos além da pneumonia no corpo humano: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30211-7/fulltext\n\n\nInscreva-se no Mistérios do Mundo:\nhttps://bit.ly/2QfjoJy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dpSc-ETSDyc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dpSc-ETSDyc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dpSc-ETSDyc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mistérios do Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/8_n-OJDdWVdP9edICdxqIOeWA8Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QTsU-8R5LUA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T23:10:11.000Z",
+    "channelId": "UCeHsnxC0B4HukzrxkF9ofbw",
+    "title": "Blitz da Patrulha do Consumidor encontra álcool em gel e máscaras vendidos a preços abusivos",
+    "description": "Diante da pandemia de coronavírus, máscaras e, especialmente, o álcool em gel se tornaram produtos fundamentais para a saúde de toda a população, e muitas pessoas aproveitaram a crise para ganhar mais dinheiro. Com o Procon de São Paulo e a Guarda Metropolitana, Celso Russomanno esteve em estabelecimentos comerciais da capital paulista e conta como o consumidor deve se proteger. \n\nNosso Whatsapp: https://cidadealerta.r7.com/whatsapp\nInscreva-se no canal Cidade Alerta:   http://r7.com/0Fhv\nAssista às íntegras no PlayPlus:   https://www.playplus.com\nFacebook:    https://www.facebook.com/CidadeAlertaRecord/\nInstagram: https://www.instagram.com/cidadealerta/   \nTwitter:   https://twitter.com/cidadealerta\nSite oficial:   https://recordtv.r7.com/cidade-alerta\n\n#CidadeAlerta #CelsoRussomanno #Coronavírus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QTsU-8R5LUA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QTsU-8R5LUA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QTsU-8R5LUA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "CidadeAlertaRecord",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/os5gFMESyh8KUf823XpU5JmmLsc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5BA-zjmk62o"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T15:06:22.000Z",
+    "channelId": "UCN-opsqqDunWO6h5uCp9Y4g",
+    "title": "Sobrevivente da Covid-19 conta o drama de quem convive com a doença",
+    "description": "A produção do Hoje Em Dia conversou com o empreendedor Renato Correa, de 29 anos, que foi diagnosticado com coronavírus e ficou oito dias internado. O rapaz, que se recupera em casa, foi orientado a ficar confinado em casa e longe dos familiares, principalmente, os mais idoso. Confira na reportagem! \n\nInscreva-se no canal Hoje em Dia:   http://r7.com/DUqw\nAssista às íntegras no PlayPlus:   https://www.playplus.com\nFacebook:    https://www.facebook.com/ProgramaHojeEmDia/\nInstagram:    https://www.instagram.com/hojeemdia/\nTwitter:   https://twitter.com/hojeemdia\nSite oficial:    https://recordtv.r7.com/hoje-em-dia\n\n#HojeemDia #Coronavirus #EntrevistaComSobrevivente",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5BA-zjmk62o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5BA-zjmk62o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5BA-zjmk62o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hoje em Dia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/jAvTzPHwiL9ecr2us1g7MYBtxp8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "55WvuKrtgwY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T18:52:19.000Z",
+    "channelId": "UCqZN-NqgP7bhbctbyThSVUA",
+    "title": "Paciente diagnosticada com coronavírus fala dos primeiros sintomas da doença",
+    "description": "O Balanço Geral entrou em contato com uma mulher, de 35 anos, que está internada desde a última quarta-feira (18), após ser diagnosticada com coronavírus. Em entrevista, Vanessa Chahad falou sobre o começo dos sintomas e fez um alerta para que as pessoas mais jovens se cuidassem. \n\nNosso Whatsapp: https://balancogeraltarde.r7.com/whatsapp\ne  https://balancogeralmanha.r7.com/whatsapp\nInscreva-se no canal Balanço Geral:   http://r7.com/KKyb\nAssista às íntegras no PlayPlus:   https://www.playplus.com\nFacebook:    https://www.facebook.com/BalancoGeral/\nInstagram:    https://www.instagram.com/balancogeral/\nTwitter:   https://twitter.com/balancogeral\nSite oficial:    https://recordtv.r7.com/balanco-geral\n\n#BalançoGeral #Coronavirus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/55WvuKrtgwY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/55WvuKrtgwY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/55WvuKrtgwY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Balanço Geral",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/XknnRmeZ8iQnUPjKbcsbLAOka14\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KmTGylRZN6Q"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-10T14:20:35.000Z",
+    "channelId": "UClGI_T5ZXjHNBbpKrERbFHQ",
+    "title": "Como a cocaína reage no corpo humano? - Que Droga é Essa?  #06",
+    "description": "APOIE NOSSO CROWDFUNDING PARA VIABILIZARMOS FUTUROS EPISÓDIOS: https://www.catarse.me/quedrogaeessa\n\nA cocaína é uma substância ilícita muito utilizada, entretanto, por falta de um diálogo aberto na sociedade muitos não sabem dos seus riscos, ou formas de utilização. Mais um programa focado em redução de danos pra vocês! Não esqueça de curtir o vídeo e seguir o canal do Just!\n\n\nAssine o +MaisJustificando e tenha acesso completo a todos os conteúdos Pandora. \n\npandora.justificando.com/assinar\n\nAcesse todos os conteúdos do Justificando:\n\nInstagram do programa: [@quedrogaeessa]\n\nSite: [http://www.justificando.com] \n\nFacebook: [https://www.facebook.com/justificando]\n\nTwitter: [https://twitter.com/_Justificando]\n\nInstagram: [https://instagram.com/_justificando/]\n\n[FICHA TÉCNICA]\nDireção: André Zanardo\nApresentação e roteiro: Gabriel Pedroza\nEdição: Renan Almeida\nProdução: Isabella Barboza e Paula Macedo\nArte: Akuosa Solução",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KmTGylRZN6Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KmTGylRZN6Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KmTGylRZN6Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Justificando",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/VoZd0f4Srle0qlC4W6YsoGEJS3g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YEvPmAu8u14"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T20:10:14.000Z",
+    "channelId": "UCFsWuKSvaK3IG1fcoxpVLCw",
+    "title": "Coronavírus: O Que NÃO Estão Dizendo | Pedro Superti",
+    "description": "Coronavírus será o maior teste de nossa geração. Enquanto muitos focam no óbvio, o que me assusta de verdade é algo muito maior. Mais impactante e letal e que só será visível em alguns meses. \n\nComo o vírus tem impactado sua vida? Me conta nos comentários!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YEvPmAu8u14/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YEvPmAu8u14/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YEvPmAu8u14/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pedro Superti",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/I99-Nnr4hqsHmnvENDUPb2iMVeQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7WW5sY7VNlc"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-03T18:31:37.000Z",
+    "channelId": "UCF-4abYiGtu9kfjq2ON5rgA",
+    "title": "Matéria de Capa | China: O Gigante Ameaçado | 02/02/2020",
+    "description": "Um novo vírus e uma epidemia que se espalha por diversos países ameaçam a segunda maior economia do planeta. A locomotiva do comércio mundial, da qual dezenas de países dependem para movimentar a produção agrícola e industrial, de repente, é colocada em xeque por uma questão sanitária. A preocupação agora é com os possíveis efeitos do coronavírus, que pode prejudicar gravemente alguns centros de produção industrial. Isso e muito mais, nesta edição do Matéria de Capa.\n\nCurta a página do Matéria de Capa no Facebook!\nhttps://www.facebook.com/ProgramaMateriaDeCapa\n\nSiga a TV Cultura:\n- Facebook: https://www.facebook.com/tvcultura\n- Twitter: https://twitter.com/tvcultura\n- Instagram: https://www.instagram.com/tvcultura",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7WW5sY7VNlc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7WW5sY7VNlc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7WW5sY7VNlc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Matéria de Capa",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_M7w6hX_lniQRxZz7UM1nTa8-1c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wYLmqnA2pxU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T15:42:21.000Z",
+    "channelId": "UCpJTpokFKdUY9wx_Jrb1Bow",
+    "title": "Trabalhadores Rodoviários Encontraram Esta Estranha Caixa Enterrada. Veja o Que Havia Dentro Dela!",
+    "description": "A civilização humana existe há muito mais de mil anos e a profissão de construtor existe basicamente a mesma quantidade de tempo. As pessoas começaram a construir prédios arquitetônicos na antiguidade e foram passando essa experiência inestimável de geração em geração. Um belo exemplo são as pirâmides egípcias que tem segredos de construção que não foram descobertos até hoje. Em casos raros, o construtor também pode se tornar um arqueólogo, se durante o trabalho algo inesperado foi descoberto acidentalmente no solo. No vídeo de hoje, falaremos justamente sobre as descobertas mais incríveis, encontradas na terra por trabalhadores comuns.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wYLmqnA2pxU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wYLmqnA2pxU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wYLmqnA2pxU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BRAIN TIME",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Z1H_4YJ57ZC9Hj-n266TACNRD0Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-pqsw4cr6DU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T01:21:22.000Z",
+    "channelId": "UC376n347Ob5Lwzq2WGzF1AA",
+    "title": "Itália supera China em números de mortes provocadas pelo coronavírus | SBT Brasil (19/03/20)",
+    "description": "A Itália superou, nesta quinta-feira (19), a China no número total de mortes provocadas pelo novo coronavírus. Mesmo em quarentena há dez dias, os italianos não conseguem controlar o ritmo de contaminações no país. Foram mais de cinco mil novos casos nas últimas 24 horas.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-pqsw4cr6DU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-pqsw4cr6DU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-pqsw4cr6DU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SBT Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/A_WL58asBO2-jq5KSbwZ0uXBaFw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "v7xWliG-Hoo"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T13:50:47.000Z",
+    "channelId": "UCAe2PRos4bfBxfaODzhufPA",
+    "title": "Remédios apresentam bons resultados na cura do coronavírus | AQUI NA BAND",
+    "description": "Em meio à pandemia de coronavírus, resultados positivos de medicamentos no tratamento da doença têm sido uma luz no fim do túnel.\nINSCREVA-SE NO CANAL E NÃO PERCA NADA DO AQUI NA BAND! \n\nQuer ver o programa todinho ao vivo? Não perca, de segunda à sexta, às 9h: http://bit.ly/AquiNaBandVivo\n\nSiga o Aqui na Band nas redes sociais: \n\nInstagram: https://www.instagram.com/aquinaband/\nTwitter: https://twitter.com/aquinaband\nFacebook: https://www.facebook.com/aquinaband",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v7xWliG-Hoo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v7xWliG-Hoo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v7xWliG-Hoo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Aqui na Band",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/z8n7hueGVQs4sFqhHFByfkBH-c8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kCbYl5pQlVo"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T15:54:07.000Z",
+    "channelId": "UC9U4nIDyIzzelXrjNQXNvxA",
+    "title": "Pondé explica como a China CONTROLOU O CORONAVÍRUS",
+    "description": "Pondé explica como a China CONTROLOU O CORONAVÍRUS\n\n\nInscreva-se no nosso canal:\n\nhttp://www.youtube.com/panicojovempan \n\nEntre no nosso site:\n\nhttp://jovempanfm.com.br/\n\nFacebook:\n\nhttps://www.facebook.com/radiojovempan\n\nSiga no Twitter:\n\nhttps://twitter.com/radiojovempan\n\nInstagram:\n\nhttps://www.instagram.com/radiojovempanoficial/\n\n\n#JovemPan #Pânico",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kCbYl5pQlVo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kCbYl5pQlVo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kCbYl5pQlVo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Pânico Jovem Pan",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/TU4_lpxdqItQWZwN3oJnpurqhRc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tQ1WV30EQyA"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-07T20:58:35.000Z",
+    "channelId": "UCrtOL8bJsh-csozGS2aV77Q",
+    "title": "Mamífero em extinção pode ser transmissor do novo coronavírus",
+    "description": "Enquanto pesquisadores da Universidade de Agricultura do sul da China identificaram o pangolim como um possível ‘hospedeiro intermediário’ para o novo coronavírus, o presidente americano elogiou o trabalho chinês de contenção da doença",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tQ1WV30EQyA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tQ1WV30EQyA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tQ1WV30EQyA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Estadão",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yDbcmquwleyS4mBAqcjGBsnW0QE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ePiRtMx6ulQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-14T22:15:48.000Z",
+    "channelId": "UCSZOaC7a_L9eyC6DeV4h_8A",
+    "title": "Por que muitas doenças surgem na China?",
+    "description": "COVID19, SARS, Gripe asiática, Influenza A, H2N2... tudo doenças originárias na Ásia e a maioria na China, inclusive a pandemia mais recente. Mas, por quê? Há algo político, biológico ou histórico que possa explicar os últimos surtos?\n\n-----------\nEpisódio da Netflix - Explicando: A próxima pandemia: https://www.netflix.com/watch/81062202\n\nVídeo que me inspirei para fazer este (em inglês): https://www.youtube.com/watch?v=TPpoJGYlW54\n\nAcompanhamento de casos (em inglês): https://www.worldometers.info/coronavirus/\n\nDoenças que VOLTARAM a ameaçar o Brasil: https://agenciabrasil.ebc.com.br/saude/noticia/2018-07/saiba-quais-doencas-voltaram-ameacar-o-brasil\n\nCasos NYC: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html\n\nGripe Asiática de 1957 (em inglês): https://www.britannica.com/event/Asian-flu-of-1957\n\nO que são os mercados chineses de animais silvestres? https://super.abril.com.br/sociedade/o-que-sao-os-mercados-chineses-de-animais-silvestres/\n\nCantinas obrigatórias da China (em inglês): https://www.atlasobscura.com/articles/peoples-commune-canteens-china\n\nChina proíbe consumo de animais selvagens (inglês):\nhttps://edition.cnn.com/2020/03/05/asia/china-coronavirus-wildlife-consumption-ban-intl-hnk/index.html\n\nBetter protecting wildlife good for all: http://global.chinadaily.com.cn/a/202002/24/WS5e534539a310128217279ca8.html\n\nFome na china (em inglês): https://www.jstor.org/stable/10.1086/452319?seq=1\n\nFome de 1958-1961 na China (wiki): https://pt.wikipedia.org/wiki/Fome_de_1958-1961_na_China\n\nO que o vírus faz com as células (em inglês): https://www.nytimes.com/interactive/2020/03/11/science/how-coronavirus-hijacks-your-cells.html\n\nLei da República Popular da China sobre a proteção da vida selvagem (em inglês): https://sherloc.unodc.org/cld/document/chn/1988/law_of_the_peoples_republic_of_china_on_the_protection_of_wildlife.html",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ePiRtMx6ulQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ePiRtMx6ulQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ePiRtMx6ulQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Plano Piloto",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/IrlovBBr0t19GT7a8yCCzcHEF9U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e8wC_KvbVXo"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T22:32:51.000Z",
+    "channelId": "UCpUOeYt0WxxHYgF__UgOWww",
+    "title": "O Avanço Mundial do Coronavírus",
+    "description": "Neste vídeo veremos como a Pandemia de Coronavirus (COVID-19) se espalhou pelo mundo.\n\n-OMS: https://www.who.int/emergencies/diseases/novel-coronavirus-2019\n-Relatórios da OMS:https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\nhttps://hub.jhu.edu/novel-coronavirus-information/\n-Universidade Johns Hopkins: https://hub.jhu.edu/novel-coronavirus-information/\n\nDiscord: https://discord.gg/dgp\n\nRedes Sociais:\n\n-Instagram: dgp_mundo7/\n-Meu Twitter: twitter.com/DoppelPlay\n-Facebook: fb.me/DGPMundo\n-Discord: https://discord.gg/dgp\nCríticas Construtivas são sempre bem vindas!\n\nMusicas :\n00:04 Plague Blossom- Plague Inc OST\n06:20 All in Your Head - Plague Inc OST\n10:15 Plague  Bloom - Plague Inc OST",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e8wC_KvbVXo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e8wC_KvbVXo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e8wC_KvbVXo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DGP Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DX3KJXRyO7zZCF7wppTMmyu2XmY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HYM6HrnWctU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T20:16:17.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Diário do coronavírus em Wuhan: a história de um casal em quarentena onde tudo começou",
+    "description": "Como é a vida em quarentena? Esta enfermeira em Wuhan foi infectada com o novo coronavírus e seu marido, um produtor de vídeos, fez registros da vida dos dois após o diagnóstico.\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HYM6HrnWctU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HYM6HrnWctU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HYM6HrnWctU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/2uGIvZ9rDa-QBGC_BkGEuBD6zuc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ofH775o5HUE"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T02:18:12.000Z",
+    "channelId": "UCP6L9TPS3pHccVRiDB_cvqQ",
+    "title": "A Igreja prostrada diante de um vírus? (Especial Covid-19, #1)",
+    "description": "Diante das medidas recentemente adotadas para minimizar os riscos de contágio pelo novo coronavírus, alguns fiéis têm-se perguntado: terá a Igreja perdido a fé? Estarão os nossos bispos sendo covardes, ao cancelarem Missas e privarem as almas do conforto dos sacramentos? A resposta do povo cristão, em crises como essa, não deveria ser a das gerações passadas, que bravamente alcançaram de Deus o fim da peste com rogações públicas? Neste vídeo, Pe. Paulo Ricardo explica por que a Igreja, sem deixar de ser Mãe valente, tem agido com sabedoria ao mesmo tempo previdente, sobrenatural e conforme aos ditames da racionalidade humana.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ofH775o5HUE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ofH775o5HUE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ofH775o5HUE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Padre Paulo Ricardo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-LJ_1fV7zh5BXx6rf9l3qhkvdVk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G7rTqS4hwHE"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-07T23:16:00.000Z",
+    "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+    "title": "Coronavírus: cientistas descobrem animal que pode ser hospedeiro do vírus",
+    "description": "É hora do nosso giro feito em parceira com a CCTV, TV estatal chinesa aliada do BandNews. A editora de internacional, Derla Cardoso, traz mais informações sobre o coronavírus.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G7rTqS4hwHE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G7rTqS4hwHE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G7rTqS4hwHE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Band Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YGc3lspvhvCGFS760RKWvtgHrzM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PPgcSYf8qQU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T16:36:20.000Z",
+    "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+    "title": "Coronavírus em Itália: entre a morte e a angústia, a esperança",
+    "description": "Itália está a ser abalada pela mortalidade da Covid-19. Numa guerra sem tréguas ao coronavírus, os italianos ainda tentam acreditar que \"vai ficar tudo bem\".…\nLEIA MAIS : https://pt.euronews.com/2020/03/20/coronavirus-em-italia-entre-a-morte-e-a-angustia-a-esperanca\n\neuronews: o canal de notícias mais visto na Europa \nSubscreva!  http://www.youtube.com/subscription_center?add_user=euronewspt\n\neuronews está disponível em 13 línguas: https://www.youtube.com/user/euronewsnetwork/channels\nEm português:\nSite: http://pt.euronews.com\nFacebook: https://www.facebook.com/euronews\nTwitter: http://twitter.com/euronewspt #-",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PPgcSYf8qQU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PPgcSYf8qQU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PPgcSYf8qQU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "euronews (em português)",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ChrOEOJ_7UAAjnvfWE3bHBY_wQ4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NiixEjvLEMQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-24T17:46:28.000Z",
+    "channelId": "UCO7x-pvgGMXHDutvtfDXllw",
+    "title": "As pessoas usam limão e NÃO sabem o que faz com sua saúde",
+    "description": "As pessoas usam limão e NÃO sabem o que isso faz com sua saúde\n\nÁUDIO / CRÉDITOS - A música de fundo é tirada de sites livre de royalties e / ou das fontes abaixo, conforme a licença de uso apropriada especificada abaixo - \"cdk - Sunday\" by cdk http://ccmixter.org/files/cdk/53755 2016 - Licensed under Creative Commons \n\nVÍDEO NOVO TODA QUARTA FEIRA \nSiga o Assim que faz :\n - Site - http://www.assimquefaz.com\n - Twiter :https://twitter.com/assimquefaz?lang=es \n- Facebook :https://www.facebook.com/AssimQueFaz/...\nPara receber  sempre notificações de video novo, é só clicar no sIninho que fica ao lado do botão de INCREVER .  \nAviso legal : As informações fornecidas neste canal e seus vídeos são apenas para fins gerais e NÃO devem ser considerados como conselhos profissionais.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NiixEjvLEMQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NiixEjvLEMQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NiixEjvLEMQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "assim que faz",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/QEvRazlPhl1mmrLRV33a4WxPDCk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "w5Z52cLs_ZY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-22T13:22:51.000Z",
+    "channelId": "UCxDFRhF3Y1A_Gd0-cF8gbqQ",
+    "title": "O COVID-19 é uma arma biológica?",
+    "description": "Absoluta Propaganda:\nhttp://absolutapropaganda.com.br/\nWhatsApp: 21 99862-8190\nFixo: 21 2513-3735\nE-mail: leovillela18@yahoo.com.br\n\nLeitura adicional:\nhttps://www.nature.com/articles/s41591-020-0820-9?utm_source=twitter&utm_medium=social&utm_content=organic&utm_campaign=NGMT_USG_JC01_GL_NRJournals\nhttp://www.centerforhealthsecurity.org/our-work/publications/coronaviruses\nhttps://www.forbes.com/sites/brucelee/2020/03/17/covid-19-coronavirus-did-not-come-from-a-lab-study-shows-natural-origins/#ceb9ccf3728c\nhttps://www.theguardian.com/world/2020/mar/18/russian-media-spreading-covid-19-disinformation\nhttp://www.xinhuanet.com/english/2020-02/20/c_138802487.htm\nhttps://thebulletin.org/2020/03/why-do-politicians-keep-breathing-life-into-the-false-conspiracy-theory-that-the-coronavirus-is-a-bioweapon/\nhttps://www.defenseone.com/technology/2020/03/iran-and-russian-media-push-bioweapon-conspiracies-amid-covid19-outbreak/163669/\nhttps://globalbiodefense.com/headlines/where-the-coronavirus-bioweapon-conspiracy-theories-really-come-from/\n\nVISITE A NOSSA LOJA: https://www.hojenomundomilitarstore.com.br/\r\n\r\n\"Seja Membro\"! Apoie o canal e aproveite lives exclusivas: https://www.youtube.com/channel/UCxDFRhF3Y1A_Gd0-cF8gbqQ/join\r\n\r\nQuer apoiar o canal? https://apoia.se/hojenomundomilitar\r\n\r\nGostou do vídeo? Então não se esqueça de curti-lo e de o compartilhar com os seus amigos! Obrigado!\r\n\r\n### REDES SOCIAIS ###\r\n - Twitter (@hoje_no) : https://twitter.com/hoje_no\r\n - Instagram (hojenomundomilitar): https://www.instagram.com/hojenomundomilitar/\r\n - Facebook Page: https://www.facebook.com/HojenoMundoMilitar/?ref=bookmarks\r\n - Facebook Group: https://www.facebook.com/groups/1598464527114606\r\n\r\nE-mail de contato: hojenomundomilitar@gmail.com\r\n\r\nHoje na Segunda Guerra Mundial: https://www.youtube.com/c/HojenaSegundaGuerraMundial\r\n\r\nHoje na História Mundial: https://www.youtube.com/channel/UCKu06MmGX1oGwf2j-s2ls9g\r\n\nMúsica:\r\nCrusade - Video Classica de Kevin MacLeod está licenciada sob uma licença Creative Commons Attribution (https://creativecommons.org/licenses/by/4.0/) \r\nOrigem: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100884 \r\nArtista: http://incompetech.com/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w5Z52cLs_ZY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w5Z52cLs_ZY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w5Z52cLs_ZY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Hoje no Mundo Militar",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ORlsu_uONPrAeKY1YMW5tUJJXJ8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GrG5z8sZFSA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T03:13:11.000Z",
+    "channelId": "UCP-Vg2PcmLiWpEdvMI1R35w",
+    "title": "Domingo Espetacular conta a história da primeira vítima da covid-19 no Brasil",
+    "description": "A epidemia de coronavírus chegou a um novo patamar no Brasil em 17 de março de 2020, a última terça. O dia marca a primeira morte pela doença no país. A vítima é Manoel Messias Freitas Filho, um porteiro aposentado de 62 anos. O repórter investigativo Leandro Santana conseguiu localizar a família de Seu Manoel, que vivia no Paraíso, um bairro com alta concentração de idosos em São Paulo. \n\nNosso Whatsapp: https://domingoespetacular.r7.com/whatsapp\r\nInscreva-se no canal Domingo Espetacular: http://r7.com/H2sU \r\nAssista às íntegras no PlayPlus: https://www.playplus.com\r\nFacebook: https://www.facebook.com/DomingoEspetacular/\r\nInstagram: https://www.instagram.com/domingoespetacular/\r\nTwitter: https://twitter.com/DomEspetacular\r\nSite oficial: https://recordtv.r7.com/domingo-espetacular\r\n\r\n\r\n#DomingoEspetacular #Coronavírus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GrG5z8sZFSA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GrG5z8sZFSA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GrG5z8sZFSA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Domingo Espetacular",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/GC_cU0-EXR_KhoeoZSJT15VCsUM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hiwJ2S0OsHE"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-12T18:21:53.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Coronavírus: por que há baixa incidência em crianças?",
+    "description": "Um bebê, nascido no dia 5 de fevereiro, é o paciente mais jovem infectado no surto que já matou mais de mil pessoas e infectou cerca de 40 mil (99% na China, embora casos tenham sido detectados em mais de 30 países e territórios).\n\nUm dos mais recentes estudos do surto foi publicado no Journal of the American Medical Association e analisa pacientes do hospital Jinyintan, na cidade de Wuhan, epicentro do surto.\n\nSegundo os dados analisados pelos pesquisadores, metade de todas as pessoas infectadas pelo vírus eram adultos com idade entre 40 e 59 anos. Somente 10% dos pacientes têm menos de 39 anos.\n\n\nLeia mais: https://www.bbc.com/portuguese/internacional-51460607\n\n\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hiwJ2S0OsHE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hiwJ2S0OsHE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hiwJ2S0OsHE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-qN8mwrXX1A7yyrSp7DTfL5M-xw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zF2pXXJIAGM"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T21:01:26.000Z",
+    "channelId": "UCSTlOTcyUmzvhQi6F8lFi5w",
+    "title": "Live Coronavírus de 20/03 - O que o Brasil precisa fazer nos próximos dias",
+    "description": "#atilalive\nAtualizações sobre por onde o vírus tem circulado, no que o pronunciamento do Ministro da Saúde implica e como deve avançar a pandemia no Brasil.\n\nMeu currículo:\nhttp://lattes.cnpq.br/4978322672579487\n\nPeixe Babel: @canalpeixebabel no Instagram e no Twitter\n\nPara saber mais e discutir notícias e artigos científicos:\nhttps://www.reddit.com/r/coronabr/\ntwiter.com/oatila\ninstagram.com/oatila\n\nEncaminhe fake news para:\n+55 19 99327-8829\n\nGrupo para seguir no telegram: t.me/corona_atila\n\nEstudo com a simulação:\nFerguson, N. M., Laydon, D., Nedjati-Gilani, G., Imai, N., Ainslie, K., Baguelin, M., ... & Dighe, A. Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand. https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf\n\nComentários de especistas:\nhttps://www.sciencemediacentre.org/expert-reaction-to-mrc-centre-for-global-infectious-disease-analysis-report-9-impact-of-non-pharmaceutical-interventions-npis-to-reduce-covid-19-mortality-and-healthcare-demand/\n\n\n\nArtigos citados:\n\nCheng, V. C., Lau, S. K., Woo, P. C., & Yuen, K. Y. (2007). Severe acute respiratory syndrome coronavirus as an agent of emerging and reemerging infection. Clinical microbiology reviews, 20(4), 660-694. https://doi.org/10.1128/CMR.00023-07\n\nMenachery, V. D., Yount Jr, B. L., Debbink, K., Agnihothram, S., Gralinski, L. E., Plante, J. A., ... & Randell, S. H. (2015). A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence. Nature medicine, 21(12), 1508. https://doi.org/10.1038/nm.3985",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zF2pXXJIAGM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zF2pXXJIAGM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zF2pXXJIAGM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Atila Iamarino",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nRn4mWYtfxvlb6Esj0hQZ6np-zs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VfT1IaMZX4A"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-06T17:48:57.000Z",
+    "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+    "title": "Morre médico chinês punido por alertar colegas sobre coronavírus",
+    "description": "O médico chinês que foi punido pelo governo por alertar colegas após os primeiros casos do novo coronavírus morreu. Li Wenliang, do Hospital Central de Wuhan, na China, tinha 34 anos, e foi contaminado pelo vírus. Ele estava internado desde 12 de janeiro. A BBC reportou que o médico enviou mensagens a colegas em 30 de dezembro, quando as autoridades de Wuhan ainda tentavam manter a situação sob controle. O oftalmologista recomendava aos demais profissionais que se protegessem para evitar a contaminação, enquanto o governo local não indicava qualquer medida de prevenção em hospitais.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VfT1IaMZX4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VfT1IaMZX4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VfT1IaMZX4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Record News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/h1H2zZwgeWeljmOt2NwWGA8-1zE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LOCesf8Tzl4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T00:53:11.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Os 4 momentos que marcaram a reação de Bolsonaro à crise do coronavírus",
+    "description": "Neste vídeo, a repórter Camilla Veras Mota lembra as principais frases do presidente brasileiro sobre a crise - que envolveram adjetivos como \"fantasia\" a \"histeria\" - até o anúncio de medidas acompanhado de sua equipe de ministros, em que disse não ter feito nada de errado ao ir cumprimentar apoiadores no ato de 15 de março.\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LOCesf8Tzl4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LOCesf8Tzl4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LOCesf8Tzl4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zsChP8vTqJYM0VyILR6N8zR7UqY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0C-LyVn8HSw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-02T23:35:52.000Z",
+    "channelId": "UCVxAirLqIXKP2ttE2-5DZ3Q",
+    "title": "Como o Coronavírus pode levar a Morte | IMEB",
+    "description": "Neste vídeo, o Dr. Renato Barra, médico do IMEB - Imagens Médicas de Brasília, esclarece os riscos de morte por coronavírus.\n\nApesar da maioria das pessoas infectadas com coronavírus apresentarem sintomas leves, o vírus também pode provocar sintomas mais graves e até levar ao óbito.\n\nAlguns fatores aumentam as chances de complicações que podem levar ao óbito por coronavírus, como maior idade do paciente, doenças prévias (como doenças cardiovasculares, diabetes, doença pulmonar obstrutiva crônica), além de pessoas do sexo masculino.\n\nNos casos de morte por coronavírus até o momento, a grande parte dos pacientes se encaixavam nesses fatores de risco apresentados e evoluíram para um quadro de pneumonia progressiva até desenvolverem insuficiência respiratória.\n\nApós isso, foram internados no hospital e encaminhados para a UTI, dependentes de oxigênio, até evoluírem para um quadro de Síndrome Respiratória Aguda Grave, insuficiência renal e, posteriormente, sendo levados ao óbito.\n\nAté o momento da gravação deste vídeo, a taxa de mortalidade do coronavírus era de cerca de 3,4% dos casos. Esse percentual, porém, é menor que outras infecções respiratórias conhecidas na história, como a da Síndrome Respiratória Aguda Grave - SARS (9,5%) e da Síndrome Respiratória do Oriente Médio - MERS, que chegou a uma taxa de mortalidade de 35%.\n\nPortanto, vale ressaltar que a taxa de mortalidade do coronavírus é baixa.\n\nPara mais informações, acompanhe a série de vídeos presentes no nosso canal, em que o Dr. Renato esclarece dúvidas e as principais perguntas sobre o coronavírus.\n\nLeia também o nosso artigo especial sobre o assunto, esclarecendo as principais dúvidas da população:\nCoronavírus: especialista esclarece tudo o que se sabe até agora - https://imeb.com.br/coronavirus-tudo-o-que-se-sabe-ate-agora/\n\n-----------------------------------------------------------------\n\n\nAcompanhe atualizações sobre saúde nossas redes sociais:\n\n\nSite: http://www.imeb.com.br\nInstagram: http://www.instagram.com/clinicaimeb\nFacebook: https://www.facebook.com/clinicaimeb\nhttps://youtu.be/0C-LyVn8HSw\n\n\n-----------------------------------------------------------------\n\n\nAssista também aos vídeos:\n\n\nSintomas da Gripe H1N1 | Gripe H1N1 | IMEB\nhttps://www.youtube.com/watch?v=oghYHZyUZ7Y&t=\n\n\nFebre Amarela Sintomas\nhttps://www.youtube.com/watch?v=m9YGzcGMTrY\n\n#IMEB #Coronavirus #MorteCoronavirus #Coronavirus2020 #CoronavirusNoBrasil #SobreCoronavirus #CasosCoronavirus #DF",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0C-LyVn8HSw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0C-LyVn8HSw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0C-LyVn8HSw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Clínica IMEB",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/tNkmpqslz7UU9RzAat8pUDGdbkQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "g1hV4jgUniI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T18:43:00.000Z",
+    "channelId": "UCQ-mdo78ry4nzEZ2HdafajQ",
+    "title": "CORONAVÍRUS e a sua IMUNIDADE. Isso é MUITO importante!",
+    "description": "🔻ACESSE O LINK PARA RECEBER CONTEÚDOS EXCLUSIVOS DO DR. SAMUEL: http://bit.ly/2kyLkvY\n\nComo está a sua IMUNIDADE? Como andam seus hábitos? Nesse vídeo extra, o Dr. Samuel Dalle Laste passa informações importantes sobre o novo Coronavírus e o que você deve considerar para tentar diminuir o risco de desenvolver os sintomas mais graves relacionados ao COVID-19.\n\n👍 Se você gostou do vídeo, CURTA, COMPARTILHE e ASSINE o canal!\n🔔 Clique no sininho para receber as notificações de novos vídeos!\n\nACOMPANHE O DR. SAMUEL NO INSTAGRAM:\nhttps://www.instagram.com/drsamueldallelaste/\n-----------\n#DrSamuelDalleLaste #Coronavirus #COVID19 #Imunidade",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g1hV4jgUniI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g1hV4jgUniI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g1hV4jgUniI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dr. Samuel Dalle Laste",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Nl6p8aKhdMoMJ2KwzZKXD6QphUU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "81ppA-wxUOg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T17:45:28.000Z",
+    "channelId": "UC-6xqzMBF2CXTImn_a4aCVg",
+    "title": "Saiba tudo sobre o novo coronavírus",
+    "description": "O GLOBO lançou um guia com informações sobre sintomas, formas de contágio e prevenção do coronavírus. O material foi preparado a partir de orientações de autoridades em saúde pública com o objetivo de divulgar informações confiáveis acerca da doença e evitar a propagação. Neste vídeo, reunimos as principais orientações de prevenção e sintomas do COVID-19. Uma cartilha em PDF também está disponível para download no site do jornal.\n\nASSINE O GLOBO: http://assineoglobo.globo.com/\nINSCREVA-SE NO CANAL: http://bit.ly/2BQvqB4 \n\nO SITE: https://www.oglobo.globo.com\nOS PODCASTS: https://oglobo.globo.com/podcast/\nO FACEBOOK: https://www.facebook.com/jornaloglobo\nO TWITTER: https://twitter.com/jornaloglobo\nO INSTAGRAM: https://www.instagram.com/jornaloglobo/\nAS NEWSLETTERS: https://oglobo.globo.com/newsletter/cardapio/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/81ppA-wxUOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/81ppA-wxUOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/81ppA-wxUOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jornal O Globo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/5UdNmaqA1OPKgbszygRnqZc1KVw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-HWdfLKxaak"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T05:23:39.000Z",
+    "channelId": "UCj0O6W8yDuLg3iraAXKgCrQ",
+    "title": "O VÍDEO \"11B 45 1T8\" PREVIU O CORONAVÍRUS??",
+    "description": "O VÍDEO \"11B 45 1T8\" PREVIU O CORONAVÍRUS??",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-HWdfLKxaak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-HWdfLKxaak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-HWdfLKxaak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Você Sabia?",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ZM4wMGSlIrcrjwKWAWUk5GoDQrM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "S1aEPClsmDM"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-06T23:23:03.000Z",
+    "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+    "title": "Coronavírus: médico que previu e alertou sobre surto morre com a doença",
+    "description": "O médico Li Wenliang, que alertou o mundo sobre o perigo do coronavírus antes do surto acontecer, morreu na China, vítima justamente da doença. E o número de mortos devido à transmissão do vírus já chega a 565.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/S1aEPClsmDM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/S1aEPClsmDM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/S1aEPClsmDM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Band Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-CdqvBZ5_UjhHXEDw__ce960AEw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UCbYfA4t0gs"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T02:03:48.000Z",
+    "channelId": "UC376n347Ob5Lwzq2WGzF1AA",
+    "title": "Espanha tem mais de mil mortes provocadas pelo novo coronavírus | SBT Brasil (20/03/20)",
+    "description": "Depois da Itália, outro país com número alarmante de mortes e de contaminações pela Covid-19 na Europa é a Espanha. O governo espanhol convocou milhares de médicos aposentados e estudantes de medicina para ajudar no combate à doença.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UCbYfA4t0gs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UCbYfA4t0gs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UCbYfA4t0gs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SBT Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YTuqYi5XVjmHnJ8xrvI3KDR7v7Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aKA3MkbKvI0"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T12:54:21.000Z",
+    "channelId": "UCQXqdHUIkO9ajR2wt_xjJ3w",
+    "title": "Porque é que o coronavírus - Covid-19 - apareceu na China?",
+    "description": "O coronavírus - covid-19 - tem como origem provável um mercado de animais vivos em Wuhan, na China.\n\nMuitos dos vírus que atacam o ser humano têm origem noutros animais. E alguns deles em animais selvagens.\n\nNa China, apesar de haver um movimento popular grande para banir o comércio de animais selvagens - alguns ameaçados de extinção - este comércio continua a acontecer.\n\nVídeo produzido por Qi News\nwww.qinews.pt\n\nEdição e narração:\nAntónio Castelo\n\nTexto traduzido e adaptado de:\nhttps://www.vox.com/videos/2020/3/6/21168006/coronavirus-covid19-china-pandemic\nhttps://www.youtube.com/watch?v=TPpoJGYlW54&t=1s\n\nFontes:\nhttps://wildaid.org/chinese-citizens-call-for-permanent-ban-on-wildlife-markets/\nhttps://www.nature.com/articles/d41586-020-00548-w?fbclid=IwAR1TaU8leMGzeMUzV0uZVIOBskJC2Zh4P7hixJfBEvwnsouHZGZnF4QTz_A\nhttps://www.nature.com/articles/s41591-020-0820-9\n\nCorrecções: Nos créditos, o link para o acesso ao vídeo com a versão original do texto deve ler-se https://www.youtube.com/watch?v=TPpoJGYlW54",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aKA3MkbKvI0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aKA3MkbKvI0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aKA3MkbKvI0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Qi News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/FV0aC4hT12Xs6insS4lmYYj9eH4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7tl9mwMfF3s"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T17:32:26.000Z",
+    "channelId": "UCn4M9vLHegNuqM8tnL872cA",
+    "title": "CORONAVÍRUS: O QUE NÃO CONTARAM PARA VOCÊ",
+    "description": "Link do artigo completo: https://cmr.asm.org/content/20/4/660\n\nPDF: https://cmr.asm.org/content/cmr/20/4/660.full.pdf",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7tl9mwMfF3s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7tl9mwMfF3s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7tl9mwMfF3s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Rodrigo Silva Arqueologia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/FSLJSmOoyHkjXjok4VySvwwWg8Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8zpwN4fPoFs"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T21:01:35.000Z",
+    "channelId": "UCamgdcs45ToPrIV7wmT7iYg",
+    "title": "Recorde de mortos na Itália por coronavírus | AFP",
+    "description": "A Itália registrou um recorde de mortes por causa do novo coronavírus. Já a Organização Mundial de Saúde afirmou que qualquer país pode ser devastado pelo vírus.\n\nSubscribe to AFP and activate your notifications to get the latest news 🔔\nhttps://www.youtube.com/channel/UCamgdcs45ToPrIV7wmT7iYg/?sub_confirmation=1",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8zpwN4fPoFs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8zpwN4fPoFs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8zpwN4fPoFs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "afpbr",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/a9GjSbGxWfzek81j4S9I_FbK5i8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mPk4J4mRbCA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T20:41:49.000Z",
+    "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+    "title": "Coronavírus: Ministério da Saúde realiza coletiva para atualizar números de casos",
+    "description": "O Ministério da Saúde realiza, na tarde deste sábado (21), entrevista coletiva com atualizações do coronavírus no Brasil.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mPk4J4mRbCA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mPk4J4mRbCA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mPk4J4mRbCA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Band Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nlD0nUIORAhGYHGbvtppJcdK7yw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VXvGs6kOmjA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T14:51:50.000Z",
+    "channelId": "UCoa-D_VfMkFrCYodrOC9-mA",
+    "title": "Bolsonaro quer isolamento apenas para grupo de risco",
+    "description": "Após o pronunciamento de terça-feira (24), o presidente criticou novamente o fechamento do comércio para conter o avanço do coronavírus.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VXvGs6kOmjA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VXvGs6kOmjA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VXvGs6kOmjA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Band Jornalismo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DPjMlifLhleLjRGg62p9cLxAd2w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uej51lycCX8"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T17:17:16.000Z",
+    "channelId": "UC-wcdrzucnlKGBjyEUaEWaQ",
+    "title": "A China e a culpa pelo coronavírus. E se em vez de Eduardo Bolsonaro fosse Eduardo Bananinha?",
+    "description": "A China e a culpa pelo coronavírus. E se em vez de Eduardo Bolsonaro fosse Eduardo Bananinha?\n\n\nInscreva-se no nosso canal:\n\nhttp://www.youtube.com/c/morningshow  \n\nEntre no nosso site:\n\nhttp://jovempanfm.com.br/\n\nFacebook:\n\nhttps://www.facebook.com/JpMorningShow\n\nSiga no Twitter:\n\nhttps://twitter.com/radiojovempan\n\nInstagram:\n\nhttps://www.instagram.com/radiojovempanoficial/\n\n\n#JovemPan #MorningShow",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uej51lycCX8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uej51lycCX8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uej51lycCX8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Morning Show",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/aKPXwrseCOlXyOyasuNsK9G79vc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6ND_17ChbcU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-23T03:40:25.000Z",
+    "channelId": "UCP-Vg2PcmLiWpEdvMI1R35w",
+    "title": "Ana Hickmann se isola com sintomas de coronavírus",
+    "description": "A apresentadora chorou ao compartilhar com seguidores que está com sintomas da covid-19. Ela não fez o teste, mas preferiu se isolar em casa, bem longe do marido e do filho. \n\nNosso Whatsapp: https://domingoespetacular.r7.com/whatsapp\r\nInscreva-se no canal Domingo Espetacular: http://r7.com/H2sU \r\nAssista às íntegras no PlayPlus: https://www.playplus.com\r\nFacebook: https://www.facebook.com/DomingoEspetacular/\r\nInstagram: https://www.instagram.com/domingoespetacular/\r\nTwitter: https://twitter.com/DomEspetacular\r\nSite oficial: https://recordtv.r7.com/domingo-espetacular\r\n\r\n\r\n#DomingoEspetacular #Coronavírus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6ND_17ChbcU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6ND_17ChbcU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6ND_17ChbcU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Domingo Espetacular",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AxAUNbssI-mh_-W6bCaisW4ZJfI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PVczjH61bRY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T00:51:15.000Z",
+    "channelId": "UCmpHPgeCBgvk_fDXZQKsnAA",
+    "title": "Ministério da Saúde promete 23 milhões de testes rápidos para o coronavírus",
+    "description": "A epidemia apresenta crescimento dos casos em todo o Brasil. É o que os técnicos chamam de \"espiral ascendente\", repetindo o histórico de outros países. Este cenário fez o Ministério da Saúde mudar de estratégia para a conter surtos, principalmente em cidades com mais de 500 mil habitantes. E o governo se prepara para disponibilizar quase 23 milhões de testes rápidos até 30 de março. Este tipo de teste será aplicado para garantir a segurança de médicos e agentes de saúde.\n\nNosso Whatsapp: https://jornaldarecord.r7.com/whatsapp\nInscreva-se no canal Jornal da Record:   http://r7.com/mYfx\nAssista às íntegras no PlayPlus:   https://www.playplus.com\nFacebook:   https://www.facebook.com/JornalDaRecord/\nInstagram:    https://www.instagram.com/jornaldarecord/ \nTwitter:    https://twitter.com/jornaldarecord\nSite oficial:    https://noticias.r7.com/jr-na-tv\n\n#JornaldaRecord #TestesRápidos #Coronavírus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PVczjH61bRY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PVczjH61bRY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PVczjH61bRY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jornal da Record",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/kK9PdlAN3n6XnDG0u2dkHb-4_4c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bOEMrIrELcI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T01:28:01.000Z",
+    "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+    "title": "Coronavírus: temor de Bolsonaro com economia contrasta com tamanho de pacote",
+    "description": "O presidente Jair Bolsonaro tem diariamente manifestado preocupação de que as medidas para conter a expansão do coronavírus causem um \"colapso da economia\". Apesar disso, economistas avaliam que o governo ainda não apresentou medidas suficientes para proteger a população e as empresas da retração da atividade. Saiba mais no vídeo com a repórter Mariana Schreiber\n\n\nCurtiu? Inscreva-se no canal da BBC News Brasil! E se quiser ler mais notícias, clique aqui:  www.bbc.co.uk/portuguese",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bOEMrIrELcI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bOEMrIrELcI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bOEMrIrELcI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Brasil",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Sv5aSfFdEo328DbTzLxlFiJ5ZCU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nr3LGSTbtUc"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-22T03:09:47.000Z",
+    "channelId": "UCuxfOdbKQy0tgGXcm9sjHiw",
+    "title": "A SITUAÇÃO É SÉRIA!",
+    "description": "https://www.rendabasica.org.br/\nLive do Átila: https://www.youtube.com/watch?v=zF2pXXJIAGM\nUma correção. O número de 57.341 mortes em decorrência da violência no Brasil foi publicado no ano de 2019, mas se refere ao número consolidado para o ano de 2018 no país.\n#vamospararobrasil #rendabasicaja",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nr3LGSTbtUc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nr3LGSTbtUc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nr3LGSTbtUc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Coisa de Nerd",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Nyr4l2Hl_eFWTBB3x7OXnUOg72k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "il-iQIIBMec"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-29T19:54:52.000Z",
+    "channelId": "UCqZN-NqgP7bhbctbyThSVUA",
+    "title": "Saiba quais são os sintomas do coronavírus e como a doença é transmitida",
+    "description": "O Ministério da Saúde confirmou três casos suspeitos de coronavírus localizados em Belo Horizonte, Porto Alegre e Curitiba e alertou que viagens para a China devem ser realizadas em casos de extrema necessidade. Já são 106 mortes na China, epicentro da doença. Confira na reportagem de Ingrid Griebel todas as informações sobre o vírus que tem deixado a população mundial em alerta. \n\nNosso Whatsapp: https://balancogeraltarde.r7.com/whatsapp\ne  https://balancogeralmanha.r7.com/whatsapp\nInscreva-se no canal Balanço Geral:   http://r7.com/KKyb\nAssista às íntegras no PlayPlus:   https://www.playplus.com\nFacebook:    https://www.facebook.com/BalancoGeral/\nInstagram:    https://www.instagram.com/balancogeral/\nTwitter:   https://twitter.com/balancogeral\nSite oficial:    https://recordtv.r7.com/balanco-geral\n\n#BalançoGeral #Coronavirus",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/il-iQIIBMec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/il-iQIIBMec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/il-iQIIBMec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Balanço Geral",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ouW3URKAV0cq3oEBubKtmH5QKXE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AGLuRKVTJYs"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T00:38:47.000Z",
+    "channelId": "UC3sMBA3BdnsKSVI0WB9yVWQ",
+    "title": "Lula faz pronunciamento à nação sobre coronavírus",
+    "description": "Inscreva-se para receber as melhores NOTÍCIAS POLÍTICAS do Brasil\nhttp://bit.ly/2FU0OlU\n\nSeja membro do Canal da Fórum no Youtube e ganhe benefícios: https://www.youtube.com/channel/UC3sMBA3BdnsKSVI0WB9yVWQ/join\n\nSeja sócio ou doe qualquer valor: https://revistaforum.com.br/apoie\n\nCOMPARTILHE ESSE VÍDEO\n+ \n\nSOBRE A REVISTA FÓRUM \n\nInspirada no Fórum Social Mundial, a Fórum foi lançada com a cobertura do primeiro evento, realizado em janeiro de 2001 em Porto Alegre. Foi lá na Porto Alegre daqueles que sonhavam um outro mundo possível que a Fórum nasceu. Não é a publicação oficial do FSM, mas a revista traz no seu DNA a força dos movimentos e a certeza de que é na multiplicidade de vozes que se faz um mundo melhor.\n\nO número zero foi lançado em abril daquele 2001 e, devido ao sucesso junto aos movimentos sociais brasileiros, tornou-se periódica ainda em setembro. Até dezembro de 2013, suas edições em papel tiveram circulação mensal de 20 a 25 mil exemplares e eram vendidas em banca. Desde janeiro de 2014, a Fórum é só digital.\n\nFórum traz, diariamente, matérias, reportagens e entrevistas que buscam uma visão de mundo diferente da presente nos grandes meios de comunicação tradicionais. Hoje é uma das maiores audiências no segmento jornalístico nacional.\n\n\n+ Notícias Exclusivas - https://revistaforum.com.br\n+ Siga a Fórum no Instagram - https://www.instagram.com/revistaforum/ @revistaforum",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AGLuRKVTJYs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AGLuRKVTJYs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AGLuRKVTJYs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Revista Fórum",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
+

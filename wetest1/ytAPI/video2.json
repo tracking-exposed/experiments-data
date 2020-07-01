@@ -1,0 +1,1664 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/l7yJqj50wl5aFD6ycyhCAlpqK1w\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "IT",
+ "pageInfo": {
+  "totalResults": 111,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/WTFUw4B8cLkbpxEhcDYUQrncPsI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TBuHqj-S9F4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T10:51:11.000Z",
+    "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+    "title": "Coronavirus: 6 buenas noticias sobre el nuevo virus covid-19  | BBC Mundo",
+    "description": "Suscríbete a BBC Mundo http://vid.io/xqOx\nLa epidemia causada por el nuevo coronavirus es grave y ha generado una emergencia sanitaria global. Pero no todo son malas noticias en la batalla contra este virus. \n\nSuscríbete al canal aquí 👉 https://bbc.in/2UHHVsu\n\n● Presentación y guion: Ana María Roura \n● Edición de video: Enric Botella\n● Editora: Natalia Pianzola\n-----------------------------------\n\nEste es el canal oficial de la BBC en español. Si te interesa la actualidad internacional y buscas una cobertura imparcial estás en el mejor lugar. \n\nAquí encontrarás videos sobre noticias y temas de actualidad en distintos formatos, desde videos explicativos y documentales hasta entrevistas. \n\nGracias por visitarnos. ¡Nos vemos!\n\n👉 Facebook https://bbc.in/2BxEUCt\n👉 Instagram https://bbc.in/2N3p7AF \n👉 Twitter https://bbc.in/32F72iZ\n\n#BBCMundo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TBuHqj-S9F4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TBuHqj-S9F4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TBuHqj-S9F4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/bTV88g1NmczdGZhA589ukTxQr2s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JCMYjez93pk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T06:11:27.000Z",
+    "channelId": "UC55-mxUj5Nj3niXFReG44OQ",
+    "title": "Cómo prepararte para una recesión económica",
+    "description": "📉 Entra de forma abierta a las primera 5 clases del curso de Finanzas personales de Platzi: https://platzi.com/l/aQZ5RcYu/\n----------------------------------------------------------------------\r\nTodo esto y más, en https://platzi.com\r\n\r\n\r\n\r\n¡Suscríbete a nosotros!\r\nFacebook: http://bit.ly/platzifb\r\nAquí, en YouTube: http://bit.ly/mejoryt",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JCMYjez93pk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JCMYjez93pk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JCMYjez93pk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Platzi",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/faEZSmyf1aNaqeE15lgqg2kfWLc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TxNwYce6WoM"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-10T23:24:01.000Z",
+    "channelId": "UCDUxOvbwu1bnyD7AucP0ESw",
+    "title": "Coronavirus: El virus cuenta con 3 fases y produce daños en todos los órganos | Telemundo",
+    "description": "Una experta explica paso a paso las fases del coronavirus y cómo va afectando a nuestros órganos hasta en muchos casos, ocasionar la muerte.\n\nSUSCRÍBETE: http://bit.ly/1HwWM9Y\n\nAl Rojo Vivo:\n“Al Rojo Vivo con María Celeste” es una revista noticiosa que, en una hora, lleva al televidente en un recorrido a través del mundo. Es una “paella informativa” que ofrece algo para todos los gustos: noticias locales e internacionales, entretenimiento, moda, entrevistas en vivo, investigaciones especiales, notas de interés humano, salud, alertas al consumidor y lo nuevo en tecnología.\n\nTelemundo App\nTelemundo - Capítulos Completos es tu destino digital para disfrutar la programación que te gusta! Mira episodios completos de tus shows favoritos de Telemundo, televisión en vivo y contenido exclusivo al descargar el app Telemundo - Capítulos Completos y entrar con tu cuenta de proveedor de TV.\n\nTelemundo\nEs una empresa de medios de primera categoría, líder en la industria en la producción y distribución de contenido en español de alta calidad a través de múltiples plataformas para hispanos en los Estados Unidos y alrededor del mundo. La cadena ofrece producciones dramáticas originales de Telemundo Studios – el productor #1 de contenido en español de horario estelar – así como contenido alternativo, películas de cine, especiales, noticias y eventos deportivos de primer nivel, alcanzando el 94% de los televidentes hispanos en los Estados Unidos en 210 mercados a través de 17 estaciones propias y 57 afiliadas de TV abierta. Telemundo también es propietaria de WKAQ, una estación de televisión local que sirve Puerto Rico. Telemundo es parte de NBCUniversal Telemundo Enterprises, una división de NBCUniversal, una de las compañías líderes en el mundo de los medios y entretenimiento. NBCUniversal es una subsidiaria de Comcast Corporation.\n\nFOLLOW US TWITTER: http://bit.ly/1FcNEf3\nLIKE US ON FACEBOOK: http://bit.ly/1xwNmKZ\n\nCoronavirus: El virus cuenta con 3 fases y produce daños en todos los órganos | Telemundo\nyoutube.com/c/alrojovivo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TxNwYce6WoM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TxNwYce6WoM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TxNwYce6WoM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Al Rojo Vivo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/VqVbvBBWvtu5qwbU3MEBXpfWtFE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m3hsaL4GZ4M"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T12:29:30.000Z",
+    "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+    "title": "Por qué es tan alta la mortalidad del coronavirus en Italia | BBC Mundo",
+    "description": "#BBCMundo #coronavirus\nItalia vive su peor crisis desde el fin de la segunda guerra mundial y se ha convertido en el país más golpeado por el coronavirus. El país europeo registra la mayor tasa de mortalidad si comparamos la cifra de casos detectados con la de fallecidos y es el que ha perdido a más personas. Muchos se preguntan cómo se explica que esto suceda en una país con un sistema de salud considerado como uno de los mejores del mundo. Te contamos las posibles respuestas en este video.  \n\nSuscríbete al canal aquí 👉 https://bbc.in/2UHHVsu\n\n● Investigación y presentación: Ana María Roura \n● Guion: Ana María Roura \n● Edición de video: Agustina Latourrette\n● Animación:  Tere Lari\n● Editora: Natalia Pianzola\n\n-----------------------------------\n\nEste es el canal oficial de la BBC en español. Si te interesa la actualidad internacional y buscas una cobertura imparcial estás en el mejor lugar. \n\nAquí encontrarás videos sobre noticias y temas de actualidad en distintos formatos, desde videos explicativos y documentales hasta entrevistas. \n\nGracias por visitarnos. ¡Nos vemos!\n\n👉 Facebook https://bbc.in/2BxEUCt\n👉 Instagram https://bbc.in/2N3p7AF \n👉 Twitter https://bbc.in/32F72iZ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m3hsaL4GZ4M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m3hsaL4GZ4M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m3hsaL4GZ4M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/PdCexmG5t7z0Gmxi5rrh4a4MqEg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-PUT0hZiZEw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T20:33:21.000Z",
+    "channelId": "UCa6V1UVOXN4wDm7RDQDoa6g",
+    "title": "Te Explico POR QUÉ estoy PREOCUPADO | [COVID-19]",
+    "description": "Quedate en casa.\nEste modelo muestra como evoluciona la cantidad de casos confirmados de Covid-19 en una población dada. Sirve para entender cuáles son algunas de las variables de infuencia y como con nuestros actos podemos frenar en avance la pandemia. No se consideran casos recuperados ni muertes, solamente los casos confirmados.\n\nInformación Importante de la OMS - LEER:\nhttps://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses\n\nInformación oficial en Argentina:\nhttps://www.argentina.gob.ar/salud/coronavirus-COVID-19\n\nReportes diarios casos COVID-19 en Argentina:\nhttps://www.argentina.gob.ar/coronavirus/informe-diario\n\nDatos y reportes oficiales del Ministerio de Sanidad de España:\nhttps://covid19.isciii.es/\n\n#TodosSomosResponsables #MeQuedoEnCasa",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-PUT0hZiZEw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-PUT0hZiZEw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-PUT0hZiZEw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "El Traductor de Ingeniería",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/uAF9H5vF2QnUFp-bAfZuXjwgvnE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CmKNrXymJzY"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-24T20:16:06.000Z",
+    "channelId": "UCYs9bcL8XO8GLX_ZPzccVFw",
+    "title": "Efecto Pirry | ¿Tiene algo que ver el pangolín con el coronavirus Covid-19?, por red+",
+    "description": "Una pandemia como la del coronavirus dejó 100 millones de muertos hace 100 años. ¿El coronavirus se convertirá en pandemia? ¿Tiene algo que ver el pangolín?\n\nPirry nos cuenta las razones por las que podrían estar relacionados.\n\n¡Síguenos y no te pierdas todos los contenidos que tenemos en nuestras redes!\n\nInstagram: https://www.instagram.com/redmastv\nFacebook: https://www.facebook.com/CanalREDMas/\nTwitter: https://twitter.com/RedMasTv\n\nY sigue el streaming vía http://www.redmas.com.co/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CmKNrXymJzY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CmKNrXymJzY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CmKNrXymJzY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Canal REDMÁS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/EK0u0fNbzm4YslrhZBE2I5XmVXE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4U564fHea9A"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T01:23:47.000Z",
+    "channelId": "UCUsm-fannqOY02PNN67C0KA",
+    "title": "¿Por qué surgen nuevos virus en China? | COVID-19",
+    "description": "Desde los años 70, China se ha visto envuelta en prácticas de consumo de animales silvestres. Eso ha dado pie a la transmisión de virus de esas especies a humanos; entre ellos está el Covid-19 y otros más como el SARS y MERS. \n\nNOTICIEROS TELEVISA\r\n\r\nSuscríbete aquí: http://bit.ly/2aXfDay\r\n\r\nSíguenos también en:\r\nFacebook: http://bit.ly/2faLJ2A\r\nTwitter: http://bit.ly/2fyP1cY\r\nInstagram: http://bit.ly/2fUXzPR\r\nMedium: http://bit.ly/2faPjtw\r\nGoogle+: http://bit.ly/2b6T1Al\r\n\r\nFORO\r\n\r\nSuscríbete aquí: http://bit.ly/2aXfDay\r\n\r\nSíguenos en:\r\nFacebook: http://bit.ly/2aEpOvE\r\nTwitter: http://bit.ly/2apvcm4\r\nMedium: http://bit.ly/2ay21wz\r\nGoogle+: http://bit.ly/2b6T1Al",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4U564fHea9A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4U564fHea9A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4U564fHea9A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Noticieros Televisa",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/gLONFRR0kNJ9dHzmEg1uoJlDkbg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ii0iiCbmLEg"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-09T19:54:23.000Z",
+    "channelId": "UCv6O3FzYuRv1-VGRNdT4_Yw",
+    "title": "【中文字幕】Desinformación y xenofobia en torno al coronavirus",
+    "description": "#coronavirus #nosoyunvirus #fakenews\nEn las últimas ha habido un huracán de información con respecto al coronavirus en China. Hay muchas fake news y se está propagando la paranoia en occidente y ha surgido a raíz de eso una ola creciente de xenofobia contra los chinos en el mundo. \nEl coronavirus no es un chiste ni es una excusa para ser racistas. Tomemos conciencia de que hay muchísimas personas sufriendo y luchando para salir adelante. \n\nPuedes ayudarme en Patreon para que pueda dedicarle más tiempo y hacer más videos\n► https://www.patreon.com/mandarinlab\n\nSuscríbete para más videos \n\nFacebook: http://facebook.com/mandarinLab\nInstagram: http://instagram.com/mandarin.lab\nTwitter: https://twitter.com/MandarinLab?lang=es",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ii0iiCbmLEg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ii0iiCbmLEg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ii0iiCbmLEg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mandarin Lab",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YaVkOrok3SbPaxJH7x3pLTTxLVk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xhRn0htZw2Q"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-08T18:19:37.000Z",
+    "channelId": "UCdwdFOhBP9CoAOlHDTmTxaw",
+    "title": "Coronavirus: cómo se propagó y qué puede pasar",
+    "description": "El surgimiento del Coronavirus en China llamó la atención el todo el mundo. Afectó a miles de personas y la OMS alertó sobre sus riesgos. Es que aún se desconoce cuál es su potencial. Hacia el futuro, ¿qué impacto tendría un problema de este tipo en la humanidad? \n\n🌎 Un Mundo Inmenso\nSingularidades de nuestro planeta.\n\n✅ ¡Suscríbete! https://bit.ly/2POYtLu\n\n🌟 ¡Hazte miembro! https://shorturl.at/hvPQR\n\nFuentes y créditos: https://pastebin.com/feWB4Bbf",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xhRn0htZw2Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xhRn0htZw2Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xhRn0htZw2Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Un Mundo Inmenso",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/3TDr3KEL_x12JS_h6k-9bykEIMQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ltlcmSWzALY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-22T13:47:25.000Z",
+    "channelId": "UC9vs8KujZ2kJ2hbg01fNRVw",
+    "title": "Coronavirus: Cronología de una pandemia",
+    "description": "Suscribite a Filo.News: https://www.youtube.com/c/FiloNewsOk?sub_confirmation=1\n\nLa pandemia del COVID-19 sigue avanzando y, hasta el momento, pocos países lograron frenarla. ¿Cómo llegó el mundo a sufrir cientos de miles de infectados, miles de muertos y una economía global paralizada a partir de un primer caso de coronavirus en una ciudad de China en diciembre de 2019?: el día a día del virus que puede cambiarlo todo.\n\n#Coronavirus #Covid19 #Pandemia #Cronología #Wuhan \n\nInformación y entretenimiento, en un solo lugar. Actualidad, noticias, espectáculos, deportes, todo al alcance de un clic. Conocé la verdad de todo lo que está pasando. Lo que nadie te cuenta está en #FiloNews\n\nFilo News\nMusicbed SyncID:\nMB01ELW0J5XU9QH\n\nSeguinos también en:\nWhatsApp: http://bit.ly/FiloNewsWhatsapp\nWEB: https://www.filo.news/\nFACEBOOK: https://www.facebook.com/filonews\nTWITTER: https://www.twitter.com/filonewsok\nINSTAGRAM: https://www.instagram.com/filonewsok",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ltlcmSWzALY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ltlcmSWzALY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ltlcmSWzALY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Filo News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/B9uLRWBzOu3Jl-iCZOO-tSyvp7A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KA5HcHP5K_A"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-11T16:50:27.000Z",
+    "channelId": "UCkuPobJMx7DPUdwlVo1TFfA",
+    "title": "10 Alimentos que No volverás a Comer Luego de Ver Esto",
+    "description": "Yo soy Drawblogs, Y en este video verás: 10 Alimentos Falsos que Podrias Estar Comiendo.\n\nDurante años, China ha sido famoso por la creación de productos como electrodomésticos falsos y de muy mala calidad. Sin embargo, en estos últimos años se ha descubierto que también están produciendo alimentos falsos usando plástico, cartón, cera, entre otros.\n\n Pero  lo más preocupante es que en sitios como eBay o Amazon, estos alimentos son vendidos sin ninguna restricción, y tal vez, incluso podría estar en nuestra mesa sin darnos cuenta.\n\nSi te ha gustado regalame tu LIKE :D\n\n*:*:*:*:*:*:*:*:*:*:* REDES SOCIALES *:*:*:*:*:*:*:*:\n►Facebook: https://www.facebook.com/DrawBlogs\n►Twitter: https://twitter.com/DrawBlogs\n►E-mail: drawblogsnetwork@gmail.com\n\n*:*:*:*:*:*:*:*: CANAL RECOMENDADO *:*:*:*:*:*:\n► What The Tops: https://www.youtube.com/channel/UCNDmFX0pZJJf54g8a_g0Hyg",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KA5HcHP5K_A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KA5HcHP5K_A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KA5HcHP5K_A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Shidory Drawblogs",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/H0mAeu3AZKjUqKIHEcYrPratdbM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Y36en98lbNw"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-28T20:16:55.000Z",
+    "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+    "title": "Coronavirus: por qué contraemos cada vez más enfermedades transmitidas por animales",
+    "description": "Suscríbete a BBC Mundo http://vid.io/xqOx\n#BBCMundo #coronavirus\nEn los últimos 50 años varias crisis sanitarias han estado relacionadas con enfermedades que se transmiten a los humanos a través de los animales. El VIH, el ébola, la gripe aviar, y ahora el COVID 19 son algunos ejemplos. ¿Por qué esta transmisión es cada vez más frecuente? ¿Cómo ocurre? Qué se puede hacer? Te lo contamos en este video.\n\nSuscríbete al canal aquí 👉 https://bbc.in/2UHHVsu\n\n● Guion y presentación: Ana María Roura\n● Edición de video: Natalia Pianzola\n-----------------------------------\n\nEste es el canal oficial de la BBC en español. Si te interesa la actualidad internacional y buscas una cobertura imparcial estás en el mejor lugar. \n\nAquí encontrarás videos sobre noticias y temas de actualidad en distintos formatos, desde videos explicativos y documentales hasta entrevistas. \n\nGracias por visitarnos. ¡Nos vemos!\n\n👉 Facebook https://bbc.in/2BxEUCt\n👉 Instagram https://bbc.in/2N3p7AF \n👉 Twitter https://bbc.in/32F72iZ\n\n#BBCMundo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y36en98lbNw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y36en98lbNw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y36en98lbNw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/3hSjB1X4bG9TDglZXMQDZs9Qe3o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gkoo5PbwO_E"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T18:45:14.000Z",
+    "channelId": "UCnsvJeZO4RigQ898WdDNoBw",
+    "title": "#CORONAVIRUS | VACUNA: Entramos en el laboratorio español que investiga la vacuna del COVID 19",
+    "description": "Así se trabaja en el Centro Nacional de Biotecnología del CSIC, donde los investigadores trabajan a destajo para conseguir una vacuna para el nuevo coronavirus, el SARS-CoV-2. El Gobierno ha anunciado este martes 4,5 millones de euros adicionales para el centro. Y acaban de recibir la autorización del para la sintetización completa del virus\n\nSuscríbete a nuestro canal: http://cort.as/yI0n\nVisita http://elpais.com\nMás vídeos de EL PAÍS: http://cort.as/YGC9\nLas noticias de esta semana: http://cort.as/-CwdZ\nSíguenos en Facebook: https://www.facebook.com/elpais,\nTwitter: https://twitter.com/el_pais#coronavirus #vacuna #investigación",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gkoo5PbwO_E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gkoo5PbwO_E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gkoo5PbwO_E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "EL PAIS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_F8E-oSM-mrz_paArbZmdSL26DM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yQXPGgh0WMk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T16:49:22.000Z",
+    "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+    "title": "Aislamiento, muerte y desesperación: \"Esto no es un juego\", dice un joven italiano enfermo",
+    "description": "Italia se ha convertido en el país más afectado del mundo por el coronavirus, superando las ya apabullantes cifras de China. Les contamos las historias de estas primeras semanas en \"Unreported Europe\"…\nMÁS INFORMACIÓN : https://es.euronews.com/2020/03/20/aislamiento-muerte-y-desesperacion-esto-no-es-un-juego-dice-un-joven-italiano-enfermo\n\neuronews: el canal de noticias más visto en Europa\n¡Abónese! http://www.youtube.com/subscription_center?add_user=euronewses\n\neuronews está disponible en 13 idiomas: https://www.youtube.com/user/euronewsnetwork/channels\n\nEn español\nSitio web: http://es.euronews.com\nFacebook: https://www.facebook.com/euronews\nTwitter: http://twitter.com/euronewses #-",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yQXPGgh0WMk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yQXPGgh0WMk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yQXPGgh0WMk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "euronews (en español)",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/sSiJA1xzsApQqDDWlJjk6Kmeejc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UE4iPLwJlF4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T03:32:24.000Z",
+    "channelId": "UCbVRb3cxKSqR0dXVAugMudQ",
+    "title": "¡ ARRUINARON SU CARA ! y ahora están IRRECONOCIBLES éstas FAMOSAS",
+    "description": "Éstas FAMOSAS se ARRUINARON la CARA pensando que se iban a ver BONITAS, pero los RESULTADOS fueron UN DESASTRE, y ahora así tienen que vivir.\nAunque nunca falta la famosa que niega sus cirugías, todos los fans, los medios y sus fotografías dicen lo contrario.\n\nAsí que en El Escaner de Los Famosos te mostramos el antes y después de las cirugías de éstas celebridades.\n\n#FamosasCirugias #Televisa #Tendencias",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UE4iPLwJlF4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UE4iPLwJlF4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UE4iPLwJlF4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "El Escaner de los Famosos",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/rJb78ZwEt27SqwvMt-DowVS5NYc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "89hivKtCV7o"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T18:47:49.000Z",
+    "channelId": "UCjOnLoWORUVm2L8ltJNVqag",
+    "title": "#VideoViral  Dr. Tony Morejon de #Peru nos cuenta la mentira del #Coronavirus COVID-19",
+    "description": "No al miedo - El Dr. Tony Morejon de #Peru nos cuenta que el #Coronavirus es una mentira y nos explica porque...\n\nFuente: https://www.facebook.com/tony.morejon.14 \n\n\nVisita nuestra Web 🌐 https://www.canalsurpatagonia.cl \n\n📲Escúchanos por:\n✅Radio Online ➡️ https://bit.ly/2Nafe77 \n✅RadioGarden ➡️ https://bit.ly/2y1J5V0\n✅tunein ➡️ https://bit.ly/2pbbsvz\n✅eltelón ➡️ https://bit.ly/2MvKVm0 \n✅emisoras➡️ https://bit.ly/2kAr5hF\n✅Raddios ➡️ https://bit.ly/2Omy4rs\n✅domiplay ➡️ https://bit.ly/2KkcHE6\n✅Online Radio Box  ➡️ https://bit.ly/2Y66kK6\n✅facebook ➡️ https://bit.ly/2O8PZBF \n\n📲Búscanos y Síguenos como @CanalSurPatagonia en:\n✅Facebook ➡️ https://facebook.com/CanalSurPatagonia\n✅Twitter ➡️ https://twitter.com/CanalSurPatagon\n✅Instagram ➡️ https://instagram.com/canal_sur_patag...\n✅Tumblr ➡️ https://canalsurpatagonia.tumblr.com\n✅Periscope ➡️ https://pscp.tv/CanalSurPatagon\n✅Youtube ➡️ http://www.youtube.com/c/CanalSurPata...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/89hivKtCV7o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/89hivKtCV7o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/89hivKtCV7o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Canal Sur Patagonia",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/a-ake_NVTLZAvw0peDvM52rplFo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8wRJUVkSqZg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-15T09:14:20.000Z",
+    "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
+    "title": "El origen del virus: Así partió el COVID-19 en China",
+    "description": "Confirmada la tercera etapa del brote de COVID-19 en Chile es importante aclarar mitos y verdades. Por eso nos fuimos al origen del Coronavirus: un rústico mercado en China donde se contagió el paciente cero.\n- Suscríbete a nuestro canal de YouTube https://bit.ly/2Xm4Utd\n- Síguenos en nuestro Facebook https://www.facebook.com/meganoticiascl/\n- Síguenos en nuestro Instagram https://www.instagram.com/meganoticiascl/\n- Síguenos en nuestro Twitter https://twitter.com/meganoticiascl\n- Más información en http://www.meganoticias.cl",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8wRJUVkSqZg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8wRJUVkSqZg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8wRJUVkSqZg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Meganoticias",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/u9Am6sordvRSO8K8xnkfx2485n4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AhJpNEfIFYo"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-04T14:11:32.000Z",
+    "channelId": "UCCdzRlx-LUYXqRTXFMvXPzw",
+    "title": "El nuevo coronavirus explicado por un virólogo - (COVID-19)",
+    "description": "Entrevista realizada el 31 de enero de 2020.\n\nEl virólogo Juan Ayllón Barasoain, director del Área de Medicina Preventiva y Salud Pública de la Universidad de Burgos, nos cuenta lo que sabemos del nuevo coronavirus (denominado COVID19 posteriormente a esta entrevista), pone en perspectiva su alcance, expone los posibles escenarios futuros y explica por qué no hace falta que cunda el pánico y el alarmismo exagerado.\n\nJuan Ayllón Barasoain ha trabajado investigando y enseñando bioquímica y virología. Ha trabajado en el \"National Institutes of Health\" (Bethesda, EEUU) y el Hospital Monte Sinaí (Mount Sinai School of Medicine; New York, EEUU). Actualmente es director del Área de Medicina Preventiva y Salud Pública de la Universidad de Burgos.\n\nPara más divulgación científica, suscríbete al canal:\nhttps://www.youtube.com/ubuinvestiga\n\nSíguenos en:\nTWITTER: https://twitter.com/UBUInvestiga\nFACEBOOK: https://www.facebook.com/ubuinvestiga\nINSTAGRAM: https://www.instagram.com/ubuinvestiga/\nBLOG UBUinvestiga: http://ubuinvestiga.ubu.es/\n\n#Ciencia #Coronavirus #China #Virus #Virólogo #Wuhan #COVID19",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AhJpNEfIFYo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AhJpNEfIFYo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AhJpNEfIFYo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "UBUinvestiga",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/02lpEIsjhR_4Gg7lim22qxdP_3g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NSes7TI_Pkk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T06:42:45.000Z",
+    "channelId": "UC2mtXUpAYLYJIZ2deSPhlqw",
+    "title": "Alexánder Chuchalin, neumólogo: \"El coronavirus puede provocar un brusco colapso inmunológico\"",
+    "description": "¿Cuáles son las recomendaciones principales contra el covid-19 para los ciudadanos de a pie? Conozca la opinión de uno de los neumólogos más reconocidos de Europa en 'Entrevista' de RT.\n\nSuscríbete a nuestro canal de eventos en vivo: https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ\r\n\r\nRT en Twitter: https://twitter.com/ActualidadRT\r\nRT en Facebook: https://www.facebook.com/ActualidadRT\r\nRT en Vkontakte: http://vk.com/actualidadrt\r\n\r\nVea nuestra señal en vivo: http://actualidad.rt.com/en_vivo\r\n\r\nRT EN ESPAÑOL: DESDE RUSIA CON INFORMACIÓN\r\n\r\n#RTenEspañol",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NSes7TI_Pkk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NSes7TI_Pkk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NSes7TI_Pkk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "RT en Español",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/HSAKKepdErh1eImsyQwyepR0CaY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SVQpEiOWIhE"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-27T04:37:13.000Z",
+    "channelId": "UCZVmadzXQgMRg1kxmwKrGDA",
+    "title": "¡El Coronavirus en 5 minutos! - Wuhan/China Virus (Animación)",
+    "description": "Tal vez has escuchado muchas noticias sobre este virus, pero... Realmente... ¿Sabes qué es el Coronavirus?, ¿Sabes como infecta a los seres humanos?. No te pierdas este increíble vídeo animado donde te explicamos todo con detalles y de forma fácil y entretenida.\n\n¡No olvides suscribirte y visitar mi canal!\n\nEDICIÓN Y GRABACIÓN POR\n- JC Brothers Inc\n\n*********************************\nSUSCRÍBETE: www.youtube.com/c/JuanCanoMD \n**********************************\nRECOMENDADOS DE LA SEMANA!\n**********************************\n¿Conoces otra bacteria importante en el ser humano?\nStaphylocococcus aureus: https://youtu.be/c_L5fZQsYYg\nEscherichia coli: https://youtu.be/W29oLiVUtTA\n\n¿Sabes que son los ciervos zombie?\nhttps://youtu.be/tBAyiYxHA4o\n\n¿Estás desayunando adecuadamente?\nhttps://youtu.be/W4RctUNyxi4\n\n¿Quieres saber sobre inmunología?\nPrueba de ELISA: https://youtu.be/Z3qIfIm6eZ0\nHipersensibilidad: https://youtu.be/osNPZuHru5M\n\n¿Sabes qué Síndrome puede dejar a una persona con parálisis?\nSíndrome Medular Medial: https://youtu.be/l3hL6VX4UGo\n\n¿Conoces los tipos de cáncer que se pueden curar?\nhttps://youtu.be/V9CCOW7UHlQ\n**********************************\nBIBLIOGRAFÍA Y REFERENCIAS\n\n1. CDC\n- Centers of Disease Control and Prevention. 2020. Retrieved from  https://www.cdc.gov/coronavirus/2019-nCoV/index.html\n\n2. WHO\n- World Health Organization. 2020. Retrieven from https://www.who.int/health-topics/coronavirus#tab=tab_1\n\nLOS ARTÍCULOS CIENTÍFICOS GRATUITOS EN ESTE MOMENTO\nNEJM: https://www.nejm.org/coronavirus\nThe Lancet: https://www.thelancet.com/coronavirus\nJama: https://jamanetwork.com/journals/jama/pages/coronavirus-alert\n\n3. Coronavirus en niños\nLu X, Zhang L, Du H, Zhang J, Li YY, Qu J, Zhang W, Wang Y, Bao S, Li Y, Wu C,\nLiu H, Liu D, Shao J, Peng X, Yang Y, Liu Z, Xiang Y, Zhang F, Silva RM,\nPinkerton KE, Shen K, Xiao H, Xu S, Wong GWK; Chinese Pediatric Novel Coronavirus\nStudy Team. SARS-CoV-2 Infection in Children. N Engl J Med. 2020 Mar 18. doi:\n10.1056/NEJMc2005073. [Epub ahead of print] PubMed PMID: 32187458.\n\n4. Estabilidad del Coronavirus en Superficies:\n- van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN,\nTamin A, Harcourt JL, Thornburg NJ, Gerber SI, Lloyd-Smith JO, de Wit E, Munster \nVJ. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N\nEngl J Med. 2020 Mar 17. doi: 10.1056/NEJMc2004973. [Epub ahead of print] PubMed \nPMID: 32182409.\n\n5. Telemedicina para COVID-19\n- Hollander JE, Carr BG. Virtually Perfect? Telemedicine for Covid-19. N Engl J \nMed. 2020 Mar 11. doi: 10.1056/NEJMp2003539. [Epub ahead of print] PubMed PMID:\n32160451.\n\n6. Casos de transmisión asintomática\n- Liu YC, Liao CH, Chang CF, Chou CC, Lin YR. A Locally Transmitted Case of\nSARS-CoV-2 Infection in Taiwan. N Engl J Med. 2020 Mar 12;382(11):1070-1072. doi:\n10.1056/NEJMc2001573. Epub 2020 Feb 12. PubMed PMID: 32050059.\n\n- Bai Y, Yao L, Wei T, Tian F, Jin DY, Chen L, Wang M. Presumed Asymptomatic\nCarrier Transmission of COVID-19. JAMA. 2020 Feb 21. doi: 10.1001/jama.2020.2565.\n[Epub ahead of print] PubMed PMID: 32083643; PubMed Central PMCID: PMC7042844.\n\n- Yeo C, Kaushal S, Danson Y. Enteric involvement of coronaviruses: is fecal-oral transmission of SARS-CoV-2 possible?. The Lancet. 2020 Apr 01. DOI:https://doi.org/10.1016/S2468-1253(20)30048-0\n\n- Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, Zimmer T,\nThiel V, Janke C, Guggemos W, Seilmaier M, Drosten C, Vollmar P, Zwirglmaier K,\nZange S, Wölfel R, Hoelscher M. Transmission of 2019-nCoV Infection from an\nAsymptomatic Contact in Germany. N Engl J Med. 2020 Mar 5;382(10):970-971. doi:\n10.1056/NEJMc2001468. Epub 2020 Jan 30. PubMed PMID: 32003551.\n\n7. Impacto y características del Coronavirus\n- Munster VJ, Koopmans M, van Doremalen N, van Riel D, de Wit E. A Novel\nCoronavirus Emerging in China - Key Questions for Impact Assessment. N Engl J\nMed. 2020 Feb 20;382(8):692-694. doi: 10.1056/NEJMp2000929. Epub 2020 Jan 24.\nPubMed PMID: 31978293.\n\n- Johns Hopkins University. 2020. Retrieved from DOI:https://doi.org/10.1016/S2213-2600(20)30134-X\n\n8. ¿Quiénes deben usar el tapabocas?\n- Feng S, Shen C, Nan X, Song W, Fan M, Cowling B. Rational use of face masks in the COVID-19 pandemic. THe Lancet. 2020 Mar. DOI:https://doi.org/10.1016/S2213-2600(20)30134-X",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SVQpEiOWIhE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SVQpEiOWIhE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SVQpEiOWIhE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Juan Cano MD",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/T8sh3E-OJv1odGcfV9qo3OJqADM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tCMLOV_0P4k"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T14:59:53.000Z",
+    "channelId": "UCQQn5yWShcFfjmE0YwGjkhQ",
+    "title": "la VERDAD sobre el coronavirus - China - Italia - ¿Por qué tanto escándalo? - COVID19",
+    "description": "El COVID 19 es un virus con una mortalidad baja. Sin embargo, países enteros han entrado en recesos económicos, eventos de talla mundial se han cancelado, no hay máscaras n95 , máscaras n100 o p100 disponibles en amazon. Los tapabocas se están agotando. Las grandes ciudades de europa y estados unidos tienen a los infectados en cuarentena.\n\nPor que tanto alboroto con el coronavirus? Cual es la verdad detrás de todo esto? Vamos a morir por coronavirus? El coronavirus es una pandemia? Cómo puedo prevenir la infección por coronavirus?\n\nLas respuestas a todas estas preguntas en este video.\n\nJabón antibacterial (económico), los de marca purell subieron de precio en amazon: https://amzn.to/39FErO1\n\nLas máscaras clínicas N95 y N100 normales se agotaron en amazon. Aun quedan unas que se utilizan en otras industrias pero tienen filtros P100: https://amzn.to/33e7FB1 o https://amzn.to/338tbHj\n\nAdquiere un termómetro para detectar rápidamente la fiebre: https://amzn.to/32N5kwT",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tCMLOV_0P4k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tCMLOV_0P4k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tCMLOV_0P4k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tuvi Digital",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/soibPGrrpxt5hC6j3EgEpF9W5mw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yS88WHZVR4M"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T00:13:40.000Z",
+    "channelId": "UCDUxOvbwu1bnyD7AucP0ESw",
+    "title": "Coronavirus: Experto recomienda medicamentos para combatir el virus | Al Rojo Vivo | Telemundo",
+    "description": "Un experto en salud hace una seria advertencia sobre el ibuprofeno y revela cuáles son los mejores medicamentos para combatir el coronavirus.\n\nSUSCRÍBETE: http://bit.ly/1HwWM9Y\n\nAl Rojo Vivo:\n“Al Rojo Vivo con María Celeste” es una revista noticiosa que, en una hora, lleva al televidente en un recorrido a través del mundo. Es una “paella informativa” que ofrece algo para todos los gustos: noticias locales e internacionales, entretenimiento, moda, entrevistas en vivo, investigaciones especiales, notas de interés humano, salud, alertas al consumidor y lo nuevo en tecnología.\n\nTelemundo App\nTelemundo - Capítulos Completos es tu destino digital para disfrutar la programación que te gusta! Mira episodios completos de tus shows favoritos de Telemundo, televisión en vivo y contenido exclusivo al descargar el app Telemundo - Capítulos Completos y entrar con tu cuenta de proveedor de TV.\n\nTelemundo\nEs una empresa de medios de primera categoría, líder en la industria en la producción y distribución de contenido en español de alta calidad a través de múltiples plataformas para hispanos en los Estados Unidos y alrededor del mundo. La cadena ofrece producciones dramáticas originales de Telemundo Studios – el productor #1 de contenido en español de horario estelar – así como contenido alternativo, películas de cine, especiales, noticias y eventos deportivos de primer nivel, alcanzando el 94% de los televidentes hispanos en los Estados Unidos en 210 mercados a través de 17 estaciones propias y 57 afiliadas de TV abierta. Telemundo también es propietaria de WKAQ, una estación de televisión local que sirve Puerto Rico. Telemundo es parte de NBCUniversal Telemundo Enterprises, una división de NBCUniversal, una de las compañías líderes en el mundo de los medios y entretenimiento. NBCUniversal es una subsidiaria de Comcast Corporation.\n\nFOLLOW US TWITTER: http://bit.ly/1FcNEf3\nLIKE US ON FACEBOOK: http://bit.ly/1xwNmKZ\n\nCoronavirus: Experto recomienda medicamentos para combatir el virus | Al Rojo Vivo | Telemundo\nyoutube.com/c/alrojovivo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yS88WHZVR4M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yS88WHZVR4M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yS88WHZVR4M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Al Rojo Vivo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/D7fJv9vCMHvOl9hJvRKnxR8SPVk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GU67Z63wOJ4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T15:43:40.000Z",
+    "channelId": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+    "title": "CORONAVIRUS: Cómo es el COVID-19 por dentro, cómo opera en el cuerpo humano y cómo se transmite",
+    "description": "Guillermo Lobo recoge las explicaciones de los especialistas sobre cómo es el coronavirus por dentro y cómo ataca al organismo. \n¿Qué le hace el coronavirus al cuerpo? Mientras estudian contrarreloj el comportamiento del COVID19, los científicos advierten sobre el modo en que el COVID-19 entra al cuerpo humano, cómo infecta y ataca las células y cómo puede afectar otros órganos además de los pulmones. \nCreen que el nuevo Covid-19 entra a los tejidos humanos a través de una proteína en su superficie. \nLas partículas de coronavirus tienen proteínas en forma de puntas que sobresalen de su superficie, y estas puntas se adhieren a las membranas de las células, permitiendo que el material genético del virus ingrese en la célula humana. Son espigas que funcionan como una llave que busca una cerradura: esa cerradura es la FURINA. Hay furina en los pulmones y en el hígado. Allí, cuando la llave encuentra a su cerradura, es cuando el coronavirus coloniza la célula y le advierte: \"Llegué, ahora quiero que trabajes para mí. No cumplas tu función habitual. Ahora tu trabajo es ayudarme a multiplicar y generar el virus\". \"Secuestra el metabolismo de la célula\" y en la práctica le dice: ‘No cumplas tu función habitual. Ahora tu trabajo es ayudarme a multiplicar y generar el virus’”.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GU67Z63wOJ4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GU67Z63wOJ4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GU67Z63wOJ4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Todo Noticias",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-Mgr_I_CbtgZwgn5tHF6mowM94Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WKkkyLM0BYs"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-06T10:45:53.000Z",
+    "channelId": "UC1IYhBFQbBWIxirTRbcfIUw",
+    "title": "Frank Cuesta, sobre el origen del COVID-19: “En agosto ya estaba pasando algo”",
+    "description": "La entrevista completa a Frank Cuesta, en este enlace: \n\nhttps://youtu.be/rihV1trNiDc\n\r\nSuscríbete a nuestro canal: https://www.youtube.com/channel/UC1IYhBFQbBWIxirTRbcfIUw?sub_confirmation=1\r\nMás información en https://www.libertaddigital.com/, https://tv.libertaddigital.com/ y http://www.esradio.fm/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WKkkyLM0BYs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WKkkyLM0BYs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WKkkyLM0BYs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "esRadiovideos",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/oj-cxaBF0p4hgrfcWxm6fHLEkSU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "53w0-PcTkkw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T06:07:31.000Z",
+    "channelId": "UCUsm-fannqOY02PNN67C0KA",
+    "title": "Trump: coronavirus es un virus chino I China acusa a EU de infiltrarles el coronavirus - En Punto",
+    "description": "En países como Singapur, Japón, Francia y Estados Unidos se duplica el número de contagios; analistas usan la ‘tasa de duplicación’ para evaluar cómo las medidas gubernamentales impactan en la evolución de contagios por covid-19\r\n\r\nSuscríbete aquí: http://bit.ly/2aXfDay\r\n\r\nSíguenos también en:\r\nFacebook: http://bit.ly/2faLJ2A\r\nTwitter: http://bit.ly/2fyP1cY\r\nInstagram: http://bit.ly/2fUXzPR\r\nMedium: http://bit.ly/2faPjtw\r\nGoogle+: http://bit.ly/2b6T1Al",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/53w0-PcTkkw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/53w0-PcTkkw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/53w0-PcTkkw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Noticieros Televisa",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/PeaGX3UarEfMPWuvjbpoUQjuoxw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ztt_6BppwHs"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-16T23:15:00.000Z",
+    "channelId": "UC4oQAvXFuNlKivYjUynQKTA",
+    "title": "Patarroyo habla sobre descubrimientos alrededor del coronavirus en Colombia (Covid-19) | Al Ataque",
+    "description": "Un mes después de su primera entrevista, el científico Manuel Elkin Patarroyo explica los nuevos descubrimientos sobre el coronavirus que está paralizando al mundo.\n\n📍Encuentre todos los capítulos de Al Ataque con Salud Hernández aquí📍 \nhttps://www.semana.com/seccion/semana-tv/al-ataque/566\r\n\n#CoronavirusEnColombia #ManuelElkinPatarroyo #Coronavirus\n\nºSuscríbase gratis a Semana TV en Youtube  https://bit.ly/2Smoy8T  \nºActive la campana \"🔔\" para recibir notificaciones\nºSuscríbase a nuestra revista en https://store.semana.com/\nºVisita: https://www.semana.com\nºRevista Semana en YouTube: http://bit.ly/2KnAeDP \nºFacebook: https://www.facebook.com/RevistaSemana \nºTwitter: https://twitter.com/RevistaSemana\n\nTemas relacionados:\nManuel Elkin Patarroyo\nPatarroyo\nCoronavirus\nCoronavirus en Colombia\nCasos de Coronavirus\nCasos de Coronavirus en Colombia\nInfectados por coronavirus\nMapa del coronavirus\nRecomendaciones del coronavirus\nCovi-19\nCoronavirus en Bogotá",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ztt_6BppwHs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ztt_6BppwHs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ztt_6BppwHs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Revista Semana",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/x91Sw8gtS8Eg3OQxYu7s6Eu9G3w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "s42NMxiY06M"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T01:24:03.000Z",
+    "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+    "title": "Cómo saber si tengo un resfrío, gripe o coronavirus - #T13TeExplica",
+    "description": "Más informaciones en » http://T13.cl\n\nSíguenos en nuestras redes sociales:\n\nFacebook https://www.facebook.com/pg/teletrece\nTwitter https://twitter.com/t13\nInstagram https://www.instagram.com/teletrece/\n\n#Noticias #Chile #T13",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s42NMxiY06M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s42NMxiY06M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s42NMxiY06M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "T13",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/QOVhDRtjFe9rMbf0EJf0VttFOVI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Eo9LCJWEZmc"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-22T18:14:31.000Z",
+    "channelId": "UCUsm-fannqOY02PNN67C0KA",
+    "title": "Coronavirus: ¿Cómo actúa el COVID-19 en nuestro cuerpo? - Las Noticias",
+    "description": "Así es como actúa el coronavirus COVID-19 en nuestro cuerpo hasta provocarnos pulmonía.\n\r\nSuscríbete aquí: http://bit.ly/2aXfDay\r\n\r\nSíguenos en:\r\nFacebook: http://bit.ly/2aEpOvE\r\nTwitter: http://bit.ly/2apvcm4\r\nMedium: http://bit.ly/2ay21wz\r\nGoogle+: http://bit.ly/2b6T1Al",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Eo9LCJWEZmc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Eo9LCJWEZmc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Eo9LCJWEZmc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Noticieros Televisa",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/BVZwavdWRd7jpFOqo9eIhHapHak\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B_Gzc2Z7uQY"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-03T18:32:33.000Z",
+    "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+    "title": "Coronavirus: qué puedes hacer para protegerte y evitar el contagio",
+    "description": "Suscríbete a BBC Mundo http://vid.io/xqOx\nCon más de 17.000 personas infectadas en China y más de 360 muertos, se agudiza la preocupación por frenar el avance del coronavirus. Una de las recomendaciones de la Organización Mundial de la Salud para evitar la trasmisión del virus es lavarse las manos. Parece sencillo, pero para que resulte efectivo, hay que saber cómo hacerlo. En este video te lo mostramos paso por paso, y compartimos otras recomendaciones útiles para evitar el contagio del coronavirus. \nSuscríbete al canal aquí 👉 https://bbc.in/2UHHVsu\n\n● Guion y presentación: Laura Plitt\n● Edición de video: Inma Gil\n● Editora: Natalia Pianzola\n-----------------------------------\n\nEste es el canal oficial de la BBC en español. Si te interesa la actualidad internacional y buscas una cobertura imparcial estás en el mejor lugar. \n\nAquí encontrarás videos sobre noticias y temas de actualidad en distintos formatos, desde videos explicativos y documentales hasta entrevistas. \n\nGracias por visitarnos. ¡Nos vemos!\n\n👉 Facebook https://bbc.in/2BxEUCt\n👉 Instagram https://bbc.in/2N3p7AF \n👉 Twitter https://bbc.in/32F72iZ\n\n#Coronavirus #Salud #BBCMundo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B_Gzc2Z7uQY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B_Gzc2Z7uQY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B_Gzc2Z7uQY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/pFEo6tjaHumP5lPFgqyaNB0z13U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DPK7SZN6PuY"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-27T18:08:32.000Z",
+    "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+    "title": "Un científico belga afirma que existe un tratamiento barato y eficaz contra los coronavirus",
+    "description": "El profesor Marc Van Ranst, virólogo de la universidad KU Leuven, demostró que la cloroquina actúa contra el SARS, otro coronavirus. Ahora se está probando en China…\nMÁS INFORMACIÓN : https://es.euronews.com/2020/02/27/un-cientifico-belga-afirma-que-existe-un-tratamiento-barato-y-eficaz-contra-los-coronaviru\n\n¡Suscríbete a nuestro canal! https://www.youtube.com/c/euronewses?sub_confirmation=1\nEuronews Señal en directo: https://www.youtube.com/c/euronewses/live",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DPK7SZN6PuY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DPK7SZN6PuY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DPK7SZN6PuY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "euronews (en español)",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/BeHSLSkgaejXtkR1ufYMMyhFCVU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ebsuTlDGuco"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-24T21:18:25.000Z",
+    "channelId": "UCFjyldxYXPpvfPXsV2SMasA",
+    "title": "BUENAS NOTICIAS SOBRE EL CORONAVIRUS",
+    "description": "No todo es malo con el Coronavirus. En esta ocasión te presentamos noticias buenas y esperanzadoras para la población y el sector de la salud.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ebsuTlDGuco/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ebsuTlDGuco/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ebsuTlDGuco/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Medicable",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YCXxpK8GVy0m-V88jge9DoLpsLA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZFFxiScDp7k"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T16:36:47.000Z",
+    "channelId": "UCE6Nokyc-_OVy_U52q_7kEQ",
+    "title": "CORONAVIRUS: Cómo FORTALECER Tu Sistema Inmunológico 🦠",
+    "description": "Nos encontramos actualmente ante una situación de alarma sanitaria por la actual pandemia del coronavirus, mejor conocido como COVID-19. ➡️ necesitas Consulta médica privada con mi Equipo en Keval+: http://bit.ly/2Tt6qbv \n\nEn este vídeo te hablo de todas las estrategias que puedes usar para mejorar la actividad  de tu sistema inmunológico. Es importante conocer, que mejorar tu sistema inmunes requiere de herramientas que favorezcan el correcto equilibrio del resto de sistemas (intestinal, hormonal, nervioso, hepático, etc). \n\nEn ese sentido, mejorar el metabolismo, tu nutrición,el deporte, el descanso o la correcta suplementación son la herramienta coadyuvante perfecta en estos momentos, donde TODO SUMA\n\nAgradecimiento al personal sanitario 02:35\nEl COVID-19 03:42\nFactores de riesgo 05:43\n¿Qué hacer para prevenir? 08:07\nUna posible cura 08:44\nHerramientas 16:31 \nVitaminas 17:40\nMinerales 20:15\nOtros Micronutrientes 24:17\n1er. Macronutriente: Las grasas 28:43\n2do. Macronutriente: La Proteína 30:59\n3er. Macronutriente: Los Carbohidratos 37:06\nEquilibro emocional 50:15\nDeporte 53:05 \nOtros principios activos 58:25\nConclusiones finales 01:03:46\n\n➡️ Suscríbete para más consejos médicos en Youtube: https://goo.gl/VTD7mt\n\n➡️ Comparte este vídeo con tus amigos: https://youtu.be/ZFFxiScDp7k\n\nSi tienes alguna duda, o tema que quieras compartir para que haga un vídeo sobre eso, utiliza #drhernandez en los comentarios. #coronavirus #covid19 #sistemainmunologico",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZFFxiScDp7k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZFFxiScDp7k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZFFxiScDp7k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dr. Hernández",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yNDtGSizeeq-kuzsAULgInspf2o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XJuFpVj487k"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-29T19:02:23.000Z",
+    "channelId": "UCumniud__xReCcffZ6-_IJQ",
+    "title": "Alimentos para tener súper defensas",
+    "description": "La clave para proteger su salud y la de su familia está en la comida. Por eso, en este video le diremos cuáles son los mejores alimentos para fortalecer el sistema inmunológico.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XJuFpVj487k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XJuFpVj487k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XJuFpVj487k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Doctor TV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/p4It-298VKZ5iWq7RNp8Zwo6myg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SmxJzOgsirY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T23:46:33.000Z",
+    "channelId": "UC3_NsGU5g64DbfiDCpkpGGQ",
+    "title": "¿Cómo prevenir el Coronavirus (Covid-19)? - Dr. Alonso Vega",
+    "description": "Te explicamos como prevenir el Coronavirus y mantenerte saludable. No olvides compartir!\n\nContáctenos a través de nuestras redes sociales o sitio web:\nFacebook: fb.me/bibliatienerazon \nInstagram: instagram.com/labibliatienerazon\nWeb: labibliatienerazon.org\n\n#Coronavirus #Dios #labibliatienerazon #Covid19 #Salud #tusaludytusalvacion",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SmxJzOgsirY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SmxJzOgsirY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SmxJzOgsirY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "La Biblia Tiene Razón",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1mV63CJ5SJj7wUP2AXV4kAG527Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vq6HC4aVMJ0"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-09T22:59:35.000Z",
+    "channelId": "UCYa19OmQKQtZ8johTXnQVXA",
+    "title": "Las MENTIRAS del CORONAVIRUS que muchos ESTÁN CREYENDO / La verdad del coronavirus, no creas todo",
+    "description": "Las MENTIRAS del CORONAVIRUS que muchos ESTÁN CREYENDO / La verdad del coronavirus, no creas todo\n\nA medida que la epidemia por el nuevo coronavirus covid-19 se ha ido extendiendo, también lo ha hecho la desinformación. En el video desmentimos varios datos.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vq6HC4aVMJ0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vq6HC4aVMJ0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vq6HC4aVMJ0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "La Nación Costa Rica",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/xyaEf8HNIfvmJMCtXq9eKQ1aN88\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HB2YU9vlIU4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T11:47:39.000Z",
+    "channelId": "UC9ohLcxGUDGVIp69s26swuw",
+    "title": "CORONAVIRUS, MISERABLES y TESTIMONIOS PROFESIONALES",
+    "description": "☣️  CORONAVIRUS Y LOS MISERABLES: Pongo DOS TESTIMONIOS en vídeo de profesionales que han salido en redes sociales explicando las ideas que intentaba transmitir en mi anterior vídeo.  En él defendía al Dr. Jesús Candel (Spiriman) en su entrevista en el programa \"Sálvame\" de Telecinco.  Explico los dos tipos de miserables y canallas que nos encontramos en esta crisis aquí en España. Entre otros. Supongo que podrá hacerse extensivo a algunos otros países hispanoamericanos o de otros sitios.\n\n★Vídeos que he realizado sobre el coronavirus ( COVID-19)\n* 7º VÍDEO: ALARMISMO, SANITARIOS CONTAGIADOS, CONFINAMIENTO Y TESTIMONIOS (CORONAVIRUS)\nhttps://youtu.be/tzLocOMwgCc\n* 6ºVÍDEO: CORONAVIRUS, MISERABLES y TESTIMONIOS PROFESIONALES\nhttps://youtu.be/HB2YU9vlIU4\n* 5ºVÍDEO: CORONAVIRUS Y SPIRIMAN (Médico de Familia de IBIZA le responde) \nhttps://youtu.be/txMv_D31bmQ\n* 4ºVÍDEO: CORONAVIRUS: QUÉ ESTÁ PASANDO (Reflexiones de un médico de familia) \nhttps://youtu.be/_HTTf0esbQk\n* 3ºVÍDEO: CORONAVIRUS: PELIGROS, MENTIRAS Y VERDADES (reflexiones de un médico de familia)\nhttps://youtu.be/xxHZR7ZbeSg\n* 2ºVÍDEO: El CORONAVIRUS ya está AQUÍ  (COVID-19)\nhttps://youtu.be/ho5RAkGnRsA\n* 1ºVÍDEO: Qué pasa con el CORONAVIRUS (2019nCoV)\nhttps://youtu.be/qr9NODju4gU\n\n\n★ NUEVO VÍDEO AQUÍ► https://www.youtube.com/watch?v=NUYtHLBV6S0&list=UU9ohLcxGUDGVIp69s26swuw\n\n★ SUSCRÍBETE►https://www.youtube.com/user/alsanagust/videos?sub_confirmation=1\n\n★ BIBLIOGRAFÍA.\n\nhttps://www.albertosanagustin.com/p/recursos.html\n\n★  Los vídeos de este canal son solo informativos y divulgativos. De ningún modo pretenden sustituir el consejo médico directo. Si tienes o crees tener alguna síntoma, signo o enfermedad descrito en estos vídeos, siempre debes consultar a tu médico de referencia. Nada puede sustituir la relación directa médico-paciente.\n\n★ CONTACTA CONMIGO★\n\nBLOG ► https://www.albertosanagustin.com\nINSTAGRAM ► https://www.instagram.com/alsanagust\nFACEBOOK ► https://www.facebook.com/alsanagust/\nTWITTER ► https://twitter.com/alsanagust\n\nDr. Alberto Sanagustín\n@alsanagust #alsanagust",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HB2YU9vlIU4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HB2YU9vlIU4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HB2YU9vlIU4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Alberto Sanagustín",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/qt0Vc28PRtfgaJ07j1xvFm6srZY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RZF1vMKNFE8"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T16:14:30.000Z",
+    "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
+    "title": "¿Cómo se originó el #Coronavirus?",
+    "description": "Momento emitido el viernes 13 de marzo de 2020 en Los ángeles de la mañana.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RZF1vMKNFE8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RZF1vMKNFE8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RZF1vMKNFE8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "eltrece",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/iabvagIMapBbhxNgCeLY0cusI6A\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8UDPGYUV4sE"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-04T02:45:34.000Z",
+    "channelId": "UCZ1FSwVmNPhpHjHIbqMglzA",
+    "title": "Coronavirus - ¿Qué pasa en tú cuerpo al infectarte?",
+    "description": "La infección por #coronavirus (COVID-19) puede llegar a ser muy grave, ocasionando en algunos casos la muerte. Este #virus toma el control de las células que infecta y las obliga a producir más copias de virus, lo que repite el proceso y acelera aun más la infección.\nEl sistema inmunológico del cuerpo libra una intensa batalla para eliminar al virus, sin embargo, no es una tarea facil.\nEn este video te explico al detalle, todo lo que ocurre en nuestros cuerpos cuando es detectada una infección por Coronavirus, además, te muestro de manera sencilla, las etapas por las que va transcurriendo la proliferación viral, primero desde la incubación, hasta llegar a la fase de infección y replicacion.\n\n\nMapa en tiempo real de los casos detectados, fallecidos y recuperados:\nhttps://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 -------------------------------------------------------------------------------------------------------------------------------------------------------  Consultas, dudas o sugerencias, ponte en contacto conmigo: \n\n--Twitter https://twitter.com/MedicoYoutuber \n--Telegram https://t.me/MedicoYoutuber \n--Whatsapp https://chat.whatsapp.com/E4hF1S6nZSxGwylVK8FU3X \n--Whatsapp +53 58 932118 \n\nPara contribuciones, donaciones o si deseas apoyar este proyecto: \n(o puedes invitarme a una cerveza LoL :) \n\n--PayPal https://www.paypal.me/medicinasaludyvida",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8UDPGYUV4sE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8UDPGYUV4sE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8UDPGYUV4sE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "¡ Medicina, Salud y Vida !",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/p3a1RzGAxtCYLxLuC3HVXrJonMM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ssv-IDzvzUo"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T00:27:14.000Z",
+    "channelId": "UC2mtXUpAYLYJIZ2deSPhlqw",
+    "title": "Denís Protsenko, médico jefe del hospital de Moscú especializado en el covid-19 - Entrevista en RT",
+    "description": "\"Únicamente los grupos de alto riesgo necesitan hacer la prueba del coronavirus\", asegura en 'Entrevista', de RT, Denís Protsenko, médico jefe del hospital de Moscú especializado en el covid-19, la enfermedad causada por el coronavirus. ¿Cuál es la situación actual en Rusia? ¿Debería cerrarse Moscú? ¿Es verdad que el coronavirus es idéntico al VIH? Véalo en RT.\n\nSuscríbete a nuestro canal de eventos en vivo: https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ\r\n\r\nRT en Twitter: https://twitter.com/ActualidadRT\r\nRT en Facebook: https://www.facebook.com/ActualidadRT\r\nRT en Vkontakte: http://vk.com/actualidadrt\r\n\r\nVea nuestra señal en vivo: http://actualidad.rt.com/en_vivo\r\n\r\nRT EN ESPAÑOL: DESDE RUSIA CON INFORMACIÓN\r\n\r\n#RTenEspañol",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ssv-IDzvzUo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ssv-IDzvzUo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ssv-IDzvzUo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "RT en Español",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/La62OdmIXhIxlA8mmwNGpqpRlLM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GqNeHqQ7qs4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T04:33:21.000Z",
+    "channelId": "UCRwA1NUcUnwsly35ikGhp0A",
+    "title": "Por qué comer ajo no te ayudará a prevenir el coronavirus | Noticias Telemundo",
+    "description": "Video oficial de Noticias Telemundo. En esta crisis sanitaria recibimos a diario mucha información sobre la pandemia pero hay que diferenciar entre los mitos y realidades de la enfermedad. Aquí les contamos algunos de ellos.\n\nSUSCRÍBETE: http://bit.ly/1JI1uXV\n \nNoticias\nEste es el canal en Youtube de la división de noticias de la cadena Telemundo en los Estados Unidos. El \"Noticiero Telemundo”, presentado entre semana por José Díaz-Balart -y fines de semana por Julio Vaqueiro- es el programa insignia de la división y la fuente de información más confiable de la comunidad hispana en los Estados Unidos. El programa “Enfoque con José Díaz-Balart” y los eventos especiales de la cadena, forman parte del compromiso de Telemundo para llevar a los hispanos información política y social que pueda guiarlos en los Estados Unidos. El galardonado equipo de corresponsales y colaboradores de Noticias, ofrece las últimas noticias, entrevistas con personajes claves, análisis y comentarios sobre el acontecer nacional e internacional.\n\nTelemundo App\nTelemundo - Capítulos Completos es tu destino digital para disfrutar la programación que te gusta! Mira episodios completos de tus shows favoritos de Telemundo, televisión en vivo y contenido exclusivo al descargar el app Telemundo - Capítulos Completos y entrar con tu cuenta de proveedor de TV.\n \nTelemundo\nEs una empresa de medios de primera categoría, líder en la industria en la producción y distribución de contenido en español de alta calidad a través de múltiples plataformas para hispanos en los Estados Unidos y alrededor del mundo. La cadena ofrece producciones dramáticas originales de Telemundo Studios – el productor #1 de contenido en español de horario estelar – así como contenido alternativo, películas de cine, especiales, noticias y eventos deportivos de primer nivel, alcanzando el 94% de los televidentes hispanos en los Estados Unidos en 210 mercados a través de 17 estaciones propias y 57 afiliadas de TV abierta. Telemundo también es propietaria de WKAQ, una estación de televisión local que sirve Puerto Rico. Telemundo es parte de NBCUniversal Telemundo Enterprises, una división de NBCUniversal, una de las compañías líderes en el mundo de los medios y entretenimiento. NBCUniversal es una subsidiaria de Comcast Corporation.\n \nSÍGUENOS EN TWITTER: http://bit.ly/1OLjUGl\nDANOS LIKE EN FACEBOOK: http://on.fb.me/1VXiWwo\n\nPor qué comer ajo no te ayudará a prevenir el coronavirus | Noticias Telemundo\nyoutube.com/c/NoticiasTelemundo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GqNeHqQ7qs4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GqNeHqQ7qs4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GqNeHqQ7qs4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Noticias Telemundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/hguj5bNy1riRH9HEvMABYnpW2jk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sJ49HkgFylc"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T17:22:24.000Z",
+    "channelId": "UCGXbLrVe8vnkiFv7q2vYv3w",
+    "title": "La experiencia de un enfermo de coronavirus",
+    "description": "Javier Negre entrevista a un paciente que ha dado positivo en coronavirus nos cuenta su experiencia personal desde el cuarto donde está pasando la cuarentena.\n\n¿Quieres más historias? \nSuscríbete a nuestro canal ► https://goo.gl/L2MPk1 \n \nVisita ElMundo: https://www.elmundo.es\nTodos nuestros vídeos: https://goo.gl/r9Vzu8\n#coronavirus #estadodealarma #sintomas\nSíguenos en las redes sociales:\nEn Facebook: https://www.facebook.com/elmundo/ \nEn Twitter: https://twitter.com/elmundoes\nEn Instagram: https://www.instagram.com/elmundo_es",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sJ49HkgFylc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sJ49HkgFylc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sJ49HkgFylc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "El Mundo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/hZdsRFXe6nRph12OnjukyhaZaB0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m9pp-JoLRgg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-10T16:26:04.000Z",
+    "channelId": "UCBZbAaQvG6lVEwFpoiJSW5g",
+    "title": "“CORONAVIRUS, FALSA PANDEMIA”, MÉDICO MONTERIANO",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m9pp-JoLRgg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m9pp-JoLRgg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m9pp-JoLRgg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Canal Montería",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/mUePDxiejugS0naqnQgPMRw9ROg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Vjh1lb4ZQvg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T22:51:40.000Z",
+    "channelId": "UC-bk3CDvTwt2TqPHykduhcQ",
+    "title": "La cura del coronavirus ya está aquí: Mhoni Vidente",
+    "description": "La carta del Juicio indica un final, en este caso del coronavirus que genera la Covid-19, Mhoni asegura que la vacuna estará lista y se sabrá en todo el mundo.\n¡Síguenos en nuestras REDES SOCIALES! \n►Twitter: https://twitter.com/UnoNoticias\n►Facebook: https://www.facebook.com/UnoTVNoticias\n►Instagram: https://www.instagram.com/unotv_/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Vjh1lb4ZQvg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Vjh1lb4ZQvg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Vjh1lb4ZQvg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "UnoTV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-C0PzInZ2g7HThkLvFp-mQ8qV4M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "J_6lp4dm_Mk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T11:32:45.000Z",
+    "channelId": "UChxBpKPtcx36tnNgCxUPEYQ",
+    "title": "¿Cómo ataca el coronavirus al cuerpo?",
+    "description": "Conversamos con el Dr. Juan Pablo Rodríguez, quien explica la forma en la que el coronavirus afecta a nuestro organismo. \n\nDr. Juan Pablo Rodríguez, infectólogo: \"Este virus puede progresar y atacar otros órganos\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J_6lp4dm_Mk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J_6lp4dm_Mk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J_6lp4dm_Mk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "La Revista Al Día Bolivisión",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/CzczeUKuqPJXOxHnh-NrJtY3lf8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "vlzxSleRnmg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-06T18:36:37.000Z",
+    "channelId": "UCVTx7AHcRM8auQ68PLDwrjA",
+    "title": "Coronavirus Covid-19: Claves para entender la enfermedad y protegerse - Clínica Alemana",
+    "description": "El coronavirus es un virus que infecta a las personas causando diversas enfermedades que van desde el resfriado común hasta el SRAS (síndrome respiratorio agudo severo). Los primeros casos se reportaron en Wuhan, China, a fines de 2019.\n\nhttps://www.clinicaalemana.cl/coronavirus\n\n¿Cuáles son los síntomas?\n• Rinorrea\n• Dolor de garganta\n• Fiebre sobre 38°\n• Tos\n• Malestar general\nEn la mayoría de los casos es leve, pero podría agravarse llegando a una neumonía. El periodo de incubación es de 14 días.\n\n¿Quiénes podrían contagiarse?\nLa transmisión de persona a persona es por gotitas y contacto. Se encuentran más expuestos quienes viajen a países y zonas con casos confirmados o brotes activos y que tengan contacto cercano con enfermos. Debe ser confirmado con test de laboratorio.\nMás del 80% de los casos han sido leves y la tasa de mortalidad es del 2,3%.\n\n¿Cuál es la población de riesgo?\nAdultos mayores, enfermos crónicos o quienes reciben tratamientos que disminuyen sus defensas.\n\n¿Cómo se previene?\nLavarse las manos con agua y jabón con frecuencia, o usar alcohol gel.\n  Cubrirse la boca y la nariz con el codo o un pañuelo desechable al toser o estornudar.\n  Evitar tocarse los ojos, la nariz y la boca si las manos no están limpias.\n  Evitar compartir platos, vasos, ropa de cama y otros objetos de la casa si estás enfermo.\n  Evitar contacto con cualquier persona que esté enferma.\n  Limpiar y desinfectar las superficies que toques con frecuencia.\n  Guardar reposo en caso de enfermedad.\n¿Existe tratamiento?\nEl tratamiento es sintomático para controlar la fiebre y el malestar. Los casos severos son asistidos con medidas de soporte como la ventilación mecánica. Los antibióticos no son efectivos.\n¿Cuándo consultar?\nSi presentas los síntomas, viajaste recientemente al extranjero o existe la posibilidad que te hayas expuesto al virus. Antes de ir a un centro de salud, debes llamar a tu médico tratante o utilizar los canales de información dispuestos, para seguir las medidas de protocolo.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vlzxSleRnmg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vlzxSleRnmg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vlzxSleRnmg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Clínica Alemana",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_n6YHdCNccy1o0iCSzU8Bk2-McQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MPh5HkYSwzg"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T21:53:25.000Z",
+    "channelId": "UCDUxOvbwu1bnyD7AucP0ESw",
+    "title": "Coronavirus: Expertos revelan el tiempo que dura el virus en varias superficies | Telemundo",
+    "description": "Según una prestigiosa revista médica, el contagio del coronavirus se puede transmitir a través de las gotas liberadas de infectados y las horas que puede estar activo en una superficie sorprendió a muchos.\n\nSUSCRÍBETE: http://bit.ly/1HwWM9Y\n\nAl Rojo Vivo:\n“Al Rojo Vivo con María Celeste” es una revista noticiosa que, en una hora, lleva al televidente en un recorrido a través del mundo. Es una “paella informativa” que ofrece algo para todos los gustos: noticias locales e internacionales, entretenimiento, moda, entrevistas en vivo, investigaciones especiales, notas de interés humano, salud, alertas al consumidor y lo nuevo en tecnología.\n\nTelemundo App\nTelemundo - Capítulos Completos es tu destino digital para disfrutar la programación que te gusta! Mira episodios completos de tus shows favoritos de Telemundo, televisión en vivo y contenido exclusivo al descargar el app Telemundo - Capítulos Completos y entrar con tu cuenta de proveedor de TV.\n\nTelemundo\nEs una empresa de medios de primera categoría, líder en la industria en la producción y distribución de contenido en español de alta calidad a través de múltiples plataformas para hispanos en los Estados Unidos y alrededor del mundo. La cadena ofrece producciones dramáticas originales de Telemundo Studios – el productor #1 de contenido en español de horario estelar – así como contenido alternativo, películas de cine, especiales, noticias y eventos deportivos de primer nivel, alcanzando el 94% de los televidentes hispanos en los Estados Unidos en 210 mercados a través de 17 estaciones propias y 57 afiliadas de TV abierta. Telemundo también es propietaria de WKAQ, una estación de televisión local que sirve Puerto Rico. Telemundo es parte de NBCUniversal Telemundo Enterprises, una división de NBCUniversal, una de las compañías líderes en el mundo de los medios y entretenimiento. NBCUniversal es una subsidiaria de Comcast Corporation.\n\nFOLLOW US TWITTER: http://bit.ly/1FcNEf3\nLIKE US ON FACEBOOK: http://bit.ly/1xwNmKZ\n\nCoronavirus: Expertos revelan el tiempo que dura el virus en varias superficies | Telemundo\nyoutube.com/c/alrojovivo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MPh5HkYSwzg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MPh5HkYSwzg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MPh5HkYSwzg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Al Rojo Vivo",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-31j1H0fqC99q_Zp-QR-lqa0UUw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0FYuAr8jC50"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T05:55:48.000Z",
+    "channelId": "UCUsm-fannqOY02PNN67C0KA",
+    "title": "Las reacciones de otros países ante el coronavirus - Tercer Grado",
+    "description": "Leopoldo Gómez, Denise Maerker, Leo Zuckermann, Raymundo Riva Palacio, René Delgado, Sergio Sarmiento y Genaro Lozano analizan la reacción de AMLO y los demás actores de la política mexicana ante el brote de coronavirus.\n\nSuscríbete aquí: http://bit.ly/2aXfDay\r\n\r\nSíguenos también en:\r\nFacebook: http://bit.ly/2faLJ2A\r\nTwitter: http://bit.ly/2fyP1cY\r\nInstagram: http://bit.ly/2fUXzPR\r\nMedium: http://bit.ly/2faPjtw\r\nGoogle+: http://bit.ly/2b6T1Al",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0FYuAr8jC50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0FYuAr8jC50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0FYuAr8jC50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Noticieros Televisa",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/PF-qvySkObiCpT1nVppF05A329Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_1091G64p5c"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T00:36:03.000Z",
+    "channelId": "UChxGASjdNEYHhVKpl667Huw",
+    "title": "China aprueba la PRIMERA VACUNA contra el CORONAVIRUS - Telefe Noticias",
+    "description": "Las autoridades de China dieron luz verde esta semana para que se inicien las primeras pruebas clínicas en humanos de una vacuna contra el coronavirus. \n\n\n\n\n▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼-▼\n▸▸Mirá las noticias del día en video: https://www.youtube.com/playlist?list=PLoBPA_Ju4ei4NHQWLBbDHcVOsFPVCiBNw \n\n▶ Lo más copado de tecnología y gaming ➠ https://www.youtube.com/playlist?list=PLoBPA_Ju4ei5aip2dp2Tv0SSerjhN5XkC\n\n▶ ¿Qué se preguntan hoy las mujeres? Mirá → https://www.youtube.com/playlist?list=PLoBPA_Ju4ei6RoFNo4VuC7NH6vKTvgiyS\n\n▶ Todas las semanas, 3 videos registrados en cámaras de seguridad, acá → https://www.youtube.com/playlist?list=PLoBPA_Ju4ei6Fajs0AIFOTR7lxJsBjvBQ\n\n▸▸Seguí informándote en https://telefenoticias.com.ar/ \n▸ Lo más destacado de Telefe Noticias en vivo ➤ https://www.youtube.com/watch?v=np9ds9HqCx4&list=PLoBPA_Ju4ei7j4JkbW9H2bYzyUbQbm0Gz\n\n▶ Los mejores informes especiales de nuestros periodistas: https://www.youtube.com/watch?v=k9G5XBkjk3Y&list=PLoBPA_Ju4ei4IN3l3vNuSpb4TghdK0fkG\n\n⫸ Nos vemos también en Twitter https://twitter.com/telefenoticias \n⫸ Y en Instagram https://www.instagram.com/telefenoticias/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_1091G64p5c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_1091G64p5c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_1091G64p5c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Telefe Noticias",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/pFpU2peMXoQCRTH-2j-W8yTO7Xo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mn1AHfZlA8w"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T13:50:34.000Z",
+    "channelId": "UCmsucNA3Wh0MB9XXfvbR9lA",
+    "title": "Se filtra audio de Médica española a su familia sobre Coronavirus",
+    "description": "Se mueve por toda España un audio enviado por una doctora a su grupo familiar sobre el coronavirus, en el que da datos sobre el origen, la transmisión y los síntomas del nuevo brote COVID-19.  La persona que habla en la grabación es Marta Bernardino, una anestesista del Hospital Universitario Fundación Alcorcón (Madrid) que en un artículo publicado en la web Anestesiar, especializada en información para profesionales de la anestesia, explica que grabó el audio en su coche después de asistir a una sesión informativa el pasado 27 de febrero. #Coronavirus\n\nFuente: Maldita.es",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mn1AHfZlA8w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mn1AHfZlA8w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mn1AHfZlA8w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jóvenes Líderes",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/mNtfU4wJ4BY37Rsl3VT2srFHBKM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cNgOmnGsofY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T18:52:54.000Z",
+    "channelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+    "title": "México marca su propio ritmo por el coronavirus",
+    "description": "México suma 367 casos confirmados de Covid-19 (cuatro fallecidos) y entra en la fase 2 de la pandemia al registrar los cinco primeros contagios comunitarios, no importados. El gobierno de López Obrador se rehúsa a aplicar medidas drásticas, como el confinamiento, para evitar dañar la economía del país y a los más desfavorecidos. Seis de cada diez mexicanos trabajan en la informalidad.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cNgOmnGsofY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cNgOmnGsofY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cNgOmnGsofY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DW Español",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
+
+

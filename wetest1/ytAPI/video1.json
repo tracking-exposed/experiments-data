@@ -1,0 +1,1663 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/-CUHXWy9Ab6YdtjWWr8Z6kubEN8\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "IT",
+ "pageInfo": {
+  "totalResults": 92,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/HRLTb6Fap1eyWmzPPkFqnY5F_os\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0u3xH5MN12k"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-24T09:26:09.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：牛津教授指世衛無能力監督全球 歐美將加速邊緣化－ BBC News 中文",
+    "description": "六年前，全球化與發展專家伊恩·戈爾丁（Ian Goldin）預測，下一次經濟崩潰將由全球大流行病引起。他接受BBC HARDtalk採訪，分析了目前肺炎疫情引發全球危機的深層次原因。他指出，新冠病毒對於經濟的影響可能等同於2008年的金融危機。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0u3xH5MN12k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0u3xH5MN12k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0u3xH5MN12k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/kqE7-FerETcNbdxx2i16_Pqd-ao\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "q-tR_7_HNHg"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-08T10:36:20.000Z",
+    "channelId": "UCqyGxjIqjLFCkeZex3C1jIg",
+    "title": "口罩能重复利用吗？真相都在这里！【养生堂 防护专题】",
+    "description": "► 欢迎订阅：http://bit.ly/30629ho\n►养生堂疫情防控特别节目：https://bit.ly/3bi5Ohj\n► Facebook：https://bit.ly/2ElNLt9\n►本期介绍：《养生堂》节目采用演播室访谈结合专题片的方式，以“传播养生之道、传授养生之术”为宗旨，秉承传统医学理论，根据中国传统养生学“天人合一”的指导思想，系统介绍中国传统养生文化、同时有针对性的介绍实用养生方法。\n欢迎订阅北京卫视BTV官方频道\n遇见天坛：https://bit.ly/2zjg4F7\n上新了故宫：http://bit.ly/2ZFVxcw\n跨界喜剧王第四季：https://bit.ly/31S72LN \n每日文娱播报：https://bit.ly/2ZkS3gu（每天给你最足料的八卦）\n跨界喜剧王第一季 完整版：https://bit.ly/2NyQhBp\n跨界喜剧王第二季 完整版：https://bit.ly/2MvizN8\n跨界喜剧王第三季 完整版：https://bit.ly/2HrDDzY",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q-tR_7_HNHg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q-tR_7_HNHg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q-tR_7_HNHg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "北京卫视电视综艺频道",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/tETQWn3UwJ1hhPwD68uBmaGEdzw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EhDzvTvVyko"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-24T05:52:26.000Z",
+    "channelId": "UCqdR2j_W3QRyw5nc-0Ku-0A",
+    "title": "狡猾病毒不斷變異 比人還聰明？！大自然沒有完美病毒！謠傳除非來自…【台灣啟示錄】20200223｜洪培翔",
+    "description": "就在華昌國宅解除封街之後的一個月，因為新增病例不斷的持續下降，WHO也將台灣從旅遊警示區當中給除名，不過當年有專家提醒，SARS的病毒可能不會完全消失，在秋冬之際有可能會捲土重來，而非常奇怪的是這隻病毒，它就這樣消失了，也沒有再回來過，當年研發出來的疫苗，最後也派不上用場了。而有關於SARS病毒當年快閃的原因，到現在依舊是眾說紛紜，沒有想到就在大家已經淡忘它了。十七年之後，這隻病毒竟然捲土重來，而且變得更難對付。在電子顯微鏡下的突出物看起來像皇冠，所以這類的病毒就被叫做是冠狀病毒，事實上，冠狀病毒有一個特性就是善變，這是因為它的基因是RNA，RNA在複製過程當中特別容易出差錯，所以它會不斷的變異出新的病毒。冠狀病毒之父賴教授告訴我們，經過他的研究，他發現新冠病毒很有可能就是當年SARS病毒的兄弟姊妹，不過它變得更加狡猾、更加的聰明，你還記得嗎？當年SARS病毒入侵到人體之後，會立刻引發發燒症狀，所以可以當作是一個重要的篩檢標準，我們也就可以找到病毒藏在誰的身上，立刻把它揪出來，不要讓它繼續擴散下去，但是新冠病毒在經過不斷的變異之後，變得更加狡猾，它藏起來並且改變它的攻擊路徑，它會偷偷的跳過人體的上呼吸道 ，直接進到體內，不會引發咳嗽也不會發燒，讓你在完全沒有提防戒備的情況之下，挑選了一個它最喜歡的器官，然後直接發起了攻擊。\n\n請鎖定每周日晚間23:00，東森新聞台--51頻道，台灣啟示錄！\n\n《台灣啟示錄Youtube官方頻道》\nhttps://www.youtube.com/user/ettvapocalypse\n\n#台灣啟示錄 #洪培翔 #東森新聞 #新冠病毒 #台灣 #SARS #萬華 #華昌國宅 #WHO #病毒 #科學 #流行病 #電影 #疫苗 #防疫人員",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EhDzvTvVyko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EhDzvTvVyko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EhDzvTvVyko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "台灣啟示錄",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/0MAwi2dUTN7ho981_TCR5VSJgxw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "k7k7iQKhYFg"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-07T08:53:25.000Z",
+    "channelId": "UCGGrblndNzi86WY5lJkQJiA",
+    "title": "冠狀病毒的崛起 ▶ 萬年二軍仔如何上一軍刷數據的",
+    "description": "冠狀病毒其實一開始並不厲害\n那它是什麼時候才變強的呢?\n\n--\n參考資料:\nhttps://en.wikipedia.org/wiki/Myxomat...\nhttps://en.wikipedia.org/wiki/Smallpox\nhttps://en.wikipedia.org/wiki/Syphilis\nhttps://pansci.asia/archives/154836\n神與物遊:巧奪天工的智慧\n\n成為VIP訂閱戶 每月台幣30元起 享有不同的專屬粉絲福利ㄊ\nhttps://tinyurl.com/y2b43ap2\n\n臉書:\nhttps://www.facebook.com/cheapAOE/\ndiscord群組:\nhttps://discord.gg/ymNuMVg \ncheap遊戲副頻道:\nhttps://tinyurl.com/y3hfw7du",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k7k7iQKhYFg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k7k7iQKhYFg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k7k7iQKhYFg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "cheap",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yYTAIawj8Qkel1pmaPKeFvbIsao\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NEmAB7UUGHY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T16:28:43.000Z",
+    "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+    "title": "美中俄三國大戰！武漢肺炎、石油戰爭 川普直嗆「中國病毒」背後…【關鍵時刻】20200317-4 劉寶傑 黃世聰 姚惠珍 妲夏 吳嘉隆 王定宇",
+    "description": "川普救經濟用盡大絕仍無效 只能低頭祈禱等老天爺幫忙！？\n川普過橋抽板還砍俄羅斯一刀！？ 普丁逮到機會發動「石油戰爭」！！\n美國扶植戰略產業頁岩油打俄 普丁布局半年跟川普比誰戰到最後！？\n強悍是為了「保護自己」 在台俄羅斯人：我們是超級大國應該得到尊重！！\n世界三巨頭普丁、川普、習近平「各懷鬼胎」 石油「價格大戰」美國這次麻煩大了！？\n「日頭赤炎炎 隨人顧性命」 海外醫療產線挪回美國 全球化、區域聯盟瀕「瓦解」！？\n\n《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans\n《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7\n\n#劉寶傑 #新聞萬象內幕追擊 #週一至週五看寶傑的關鍵時刻",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NEmAB7UUGHY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NEmAB7UUGHY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NEmAB7UUGHY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "關鍵時刻",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/exLCN4GGJjAXGl2OaIM-ET_Qd-U\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RyNfweT_Jv4"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T04:07:04.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：意大利死亡人數激增 棺材排滿教堂－ BBC News 中文",
+    "description": "「我們仍在努力，確保最大限度地給予死者尊嚴。」\n\n意大利北部塞拉瓦萊斯克里維亞火葬場的一個小教堂內，幾十具棺材緊密排放，當地公墓的工作人員試圖為每個逝者提供適當的殯葬服務，但隨著死亡人數的增加，這個願望很難達成。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RyNfweT_Jv4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RyNfweT_Jv4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RyNfweT_Jv4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/r16EI4-9T4ZhkNTDT_IxVJbxmc0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tDpitRBUrB8"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-30T10:15:41.000Z",
+    "channelId": "UCJ06BguWKS5GJsEue7u79PQ",
+    "title": "如何区分感冒、流感和新型冠状病毒肺炎？普通腹泻与新型冠状病毒肺炎腹泻如何区分？——防控疫情特别节目 | 《名医话养生》Doctor's regimen 20200130 【东方卫视官方频道】",
+    "description": "【欢迎订阅中国东方卫视官方频道China DragonTV Official: https://bit.ly/2SYQHRG】\n《名医话养生》YouTube更新时间：每周一到周五\n\n防控疫情特别节目2：如何区分感冒、流感和新型冠状病毒肺炎？普通腹泻与新型冠状病毒肺炎腹泻如何区分？ | 《名医话养生》Doctor's regimen 20200130 【东方卫视官方频道】\n\n《名医话养生 》是一档大型日播健康科普节目，以倡导科学养生，服务大众健康为宗旨，回应民生热点、破除健康谣言、细解养生知识、提供便民指南，成为社会大众可以信赖的“荧屏家庭医生”。名医话养生，健康新旅程。\n\n♥♥ 欢迎订阅东方卫视其他官方频道 ♥♥\n★ 欢迎订阅SMG上海电视台官方频道:http://bit.ly/ShanghaiTV\n☆最精彩的华语剧集－订阅SMG电视剧频道:http://bit.ly/SMGdrama\n\n◆◆ 更多官方信息 欢迎关注我们社交网络页面 ◆◆\n★Facebook: https://www.facebook.com/smgdragontv \n☆Twitter: https://twitter.com/SMGKankanews\n★极限挑战Go Fighting Facebook: https://www.facebook.com/SMGGoFig\n\n◆ 热播『纪录片』推荐\n《这就是中国》超清完整版：http://bit.ly/2ACnYdR\n《梦想改造家6》超清完整版：http://bit.ly/2jYCeIJ\n《本草中华2》超清完整版：http://bit.ly/2MkWIce\n《未来邀请函》超清完整版：https://bit.ly/2KqJWrw\n《人间世2》超清完整版：https://bit.ly/2SvigkX\n《巡逻现场实录·前传》超清完整版：https://bit.ly/2IeNWsH\n《巡逻现场实录2018》超清完整版：http://bit.ly/2RpoYfQ\n《闪亮的名字》超清完整版：https://bit.ly/2SzwuRU\n《诗书画》超清完整版：https://bit.ly/2GTzMhh\n\n◆ 『最新综艺』推荐\n《我们的歌》超清完整版：http://bit.ly/2BDPk3t\n《老总来了》超清完整版：http://bit.ly/35leQY2\n《我们在行动4》超清完整版：http://bit.ly/2rTeo4A\n《中国达人秀6》超清完整版：https://bit.ly/2Koaub1\n《梦想改造家6》超清完整版：http://bit.ly/2jYCeIJ\n《花样新世界》超清完整版：http://bit.ly/2NPylnG\n《闪亮的名字2》超清完整版：http://bit.ly/2MdCIXZ\n《好房帮帮忙》超清完整版：http://bit.ly/2XGiHiU\n【欢乐小剧场 特辑】完整版：https://bit.ly/2TLcyQz\n\n◆ 『真人秀』推荐\n《极限挑战》第五季 超清完整版：https://bit.ly/2ujZqTj\n《极限挑战》第四季 超清完整版：https://bit.ly/2NtE4KW\n《极限挑战》第一季 超清完整版：http://bit.ly/2rvDbJo\n《极限挑战》第二季 超清完整版: http://bit.ly/2rvO3qE\n《极限挑战》第三季 超清完整版：http://bit.ly/2naXPLw\n《旅途的花样》Flowers On Trip高清完整版：http://bit.ly/2Dy1gDa\n《花样姐姐2》Sisters Over Flowers II 超清完整版：http://bit.ly/2naxJbK\n\n◆ 『喜剧』推荐\n《寻找喜剧人》超清完整版：https://bit.ly/2uV8sqb\n《欢乐喜剧人5》超清完整版：http://bit.ly/2sye4Fx\n《欢乐喜剧人5》超清完整版：http://bit.ly/2sye4Fx\n《笑傲江湖4》超清完整版：http://bit.ly/2X2CWDa\n《笑傲江湖3》超清完整版：http://bit.ly/2GeIyCa\n《欢乐喜剧人4》超清完整版：http://bit.ly/2D6wbJS\n《今夜现场秀》超清完整版：http://bit.ly/2GfLnmB\n《今夜百乐门》超清完整版: http://bit.ly/2FcrmvU\n《笑声传奇》超清小品：http://bit.ly/2GeMYct\n\n◆ 『其他』推荐\n《人生加减法》整片超清完整版：https://bit.ly/2V9Q9MO\n《中国新相亲2》超清完整版：http://bit.ly/2GsJkyY\n《妈妈咪呀6》超清完整版：http://bit.ly/2SAHH8M\n《我们在行动3》超清完整版：http://bit.ly/2SNOjMi\n《没想到吧》 超清完整版：https://bit.ly/2SRLUR4\n《喝彩中华2》超清完整版：http://bit.ly/2QBl4LI\n《中国新相亲》超清完整版：http://bit.ly/2FUFECw\n《中国式相亲》超清完整版：http://bit.ly/2n96Oh4\n《天籁之战》The Next 超清完整版：http://bit.ly/2n9cub2\n《天籁之战2》The Next II 超清完整版: http://bit.ly/2DErJDe\n《金星秀》The Jinxing Show 超清完整版：http://bit.ly/2n9U60R\n《梦想改造家4》 Dream of Decoration IV 超清完整版：http://bit.ly/2n9edwY\"",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tDpitRBUrB8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tDpitRBUrB8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tDpitRBUrB8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "中国东方卫视官方频道China DragonTV Official",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/DshsSCcxBWhsZTMz16u5HyQ7UtM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BGtdCSF3SEw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T03:27:19.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "🎯大起底！FBI曾約談「美軍是毒源」的傳言者；真正病毒來自德國？武漢墓地外排大隊，中南醫生：街上毒源多；中國快篩檢疫錯率80%！川習通話，中共態度轉：同舟共濟；美再加關稅 | 新聞拍案驚奇 大宇",
+    "description": "💎起底！女兵0號病人傳言者 曾謠傳有炸彈被FBI約談 0:54\n💎甩鍋遇阻 美議員提議：禁中共外交部翻牆 2:15\n💎川習通話後中共轉軟 要跟美國「同舟共濟」3:44\n💎海軍秀肌肉 關稅又上路 美國防疫與施壓兩不誤 5:24\n💎默克爾武漢投毒！病毒來自德國“很靠譜” 6:15\n💎神秘香港上市公司股市“露餡” 中共早在去年就研發疫苗 8:36\n💎查爾斯王子確診 英國政府防疫：兵不厭詐 10:58\n💎摩納哥國王確診 普京進醫院0距離慰問感染者 12:36\n💎美軍感染人數增 海上航母也有 但無礙軍事行動 13:45\n💎「病毒獵手」利普金 哈佛校長夫婦 均確診 14:57\n💎美援華隔離服疑遭倒賣 大陸快篩試劑錯誤率80% 15:51\n💎中南醫生揭重要消息 武漢治疫開始自費 最高40萬 18:09\n💎中國一季經濟史上最慘 越南哈薩克開禁糧食出口 19:45\n\n-\r\n⭕️加入會員： http://bit.ly/JoinDayu\r\n⭕️年費會員： http://bit.ly/JoinDayuYL\r\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\r\n-\r\n支持「大宇 新聞拍案驚奇」：\r\n接受捐款網址：http://bit.ly/DayuTime \r\n-\r\n\r\n爆料郵箱： xwpajq@gmail.com\r\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\r\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\r\n\r\n-\r\n臉書：https://www.facebook.com/DayuShow\r\n推特：https://twitter.com/xwpajq\r\n追蹤部落格：http://bit.ly/2v56mYw\r\n\r\n更多視頻：\r\n新聞拍案驚奇 武漢肺炎 👉\r\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\r\n\r\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\r\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\r\n-\r\nCredits:\r\nshutterstock Images:  https://shutr.bz/2u8Zdp8\r\nMusic:  Audioblocks.com,  epidemicsound.com\r\nStock Video:  Videoblocks.com\r\n-\r\n© All Rights Reserved.\n#病毒起源 #大陸快篩試劑錯誤率高 #同舟共濟",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BGtdCSF3SEw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BGtdCSF3SEw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BGtdCSF3SEw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/ys1QGvE9xeGrEqcqPe8Rax5oLBM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YP6kAlKEmUM"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T15:06:53.000Z",
+    "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+    "title": "確診3天翻一倍快如子彈！ 紐約急缺呼吸器讓川普不再喊「中國病毒」！？ 【關鍵時刻】20200325-1 劉寶傑 李正皓 黃世聰 林靜儀 姚惠珍",
+    "description": "確診3天翻一倍快如子彈！ 紐約急缺呼吸器讓川普不再喊「中國病毒」！？\n世界中心好像被放棄了？ 「呼吸器要3萬只給400台」紐約州長痛罵川普！ \n「每千人就有1人染病」紐約成武肺風暴核心 軍車開上街頭難救大蘋果！\n大都會歌劇院變像裁員、華爾街淪一片死寂 川普改口「不說中國肺炎」！\n特斯拉捐千台呼吸器竟從中國掃購 紐約疫情告急釋放300囚犯「防疫」？ \n救人命還是救經濟？美國冷清到結冰 川普怕了：再封下去恐摧毀國家！？\n武肺煞不住美國恐有2300萬人失業 川普怕了喊「復活節要重啟經濟」！？\n沒那麼簡單！？川普宣布戰時狀態趕製呼吸器 下場遠不如台灣國家隊！？\n慘了！早就沒製造業？川普要企業趕製呼吸器 特斯拉從中國買來交差！？\n比想像的窮？美國1500萬小企業剩15天現金 民眾一輩子被債務追著跑…\n川普連救命呼吸器都不夠！台灣連夜拚國家隊 林靜儀：美應來討論看看！\n美國企業轉製呼吸器效果杯水車薪 台灣黑手中的黑手還會「遠端遙控」！\n工具機大老闆親自組裝完成防疫產線 林靜儀：還好沒有全部移出台灣！\n一場世界大戰「點滴都要省」 雄獅與晶華老闆對話只有三個字「活下去」！\n9天增加三成台灣已有4800人無薪假 業者呼救「經濟陳時中在哪裡？」…\n不敢出門連米其林都拚外帶 餐飲業2月營收腰斬、大搶外賣商機突圍！\n加強夜間防疫！夜店、舞廳、KTV停業2週 知名餐廳喊「休業至疫情結束」！\n封城16天…確診、死亡數仍居高不下 義首長集體崩潰怒嗆「給我回家」！\n「敢開畢業轟趴，我帶火焰槍去抓人」 義大利市長氣到紛紛對民眾開嗆！\n民眾怒吼「為何要為蠢貨付出代價」 義大利疫情嚴峻連八旬醫師都上陣！\n5名台灣學生爆英國校園群聚感染… 林靜儀：「佛系防疫」醫療能量不夠！\n繼華機師再增長榮空姐確診 林靜儀：航空業首次遇全面疫情未有應對！\n\n《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans\n《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7\n\n#劉寶傑 #新聞萬象內幕追擊 #美國#紐約#川普#大陸#中國#習近平#疫情#防疫#台灣#義大利#英國#航空業#經濟",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YP6kAlKEmUM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YP6kAlKEmUM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YP6kAlKEmUM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "關鍵時刻",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/4HyOlQD4Zn86_zlrK9Asl2DDfEk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mm2w29e62bM"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T09:29:48.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：俄羅斯封關 逾百移民工人困莫斯科機場－ BBC News 中文",
+    "description": "俄羅斯為防止新冠病毒傳播關閉邊境後，數百來自中亞的移民工人被困莫斯科機場。\n\n或由於工作許可即將到期，或由於疫情而中止工作，許多人正試圖回家。\n\n被困機場數天後，這些移民工人的所在國家正試圖組織包機接公民回家。\n\nBBC駐莫斯科記者雷恩斯福德報導\n影片製作：阿卜杜拉索洛夫\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mm2w29e62bM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mm2w29e62bM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mm2w29e62bM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/RqjD0x-WWdwu8KhTAjydO6RgqVo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IyeUGuXYuVU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-24T05:37:22.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：英國首相約翰遜電視講話「你們必須待在家裡」－ BBC News 中文",
+    "description": "英國首相鮑里斯·約翰遜週一發表電視講話，宣佈採取一系列嚴格抗疫措施，要求所有英國公民居家隔離。\n\n當日晚間開始，人們只能出於以下四種原因出門：\n購買生活必須品\n有醫療需求\n每日出門進行一種運動\n無法在家工作或絕對必要情況下的上下班通勤\n\n約翰遜在講話中表示，如果公民不遵守政府的新指令，將面臨罰款處罰。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IyeUGuXYuVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IyeUGuXYuVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IyeUGuXYuVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/90x7IKc5KGVxnNvx0R1DNpHeQZE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f6SOu9cq4OU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-15T03:26:37.000Z",
+    "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+    "title": "川普緊急命令！美國人歐洲大逃亡？似曾相似武漢出逃3 0版！【2020聚焦關鍵】周末播出版 20200314-4 劉寶傑 黃文華 黃世聰 林昆鋒 黃創夏 邱明玉 周百謙",
+    "description": "川普緊急命令！美國人歐洲大逃亡？似曾相似武漢出逃3.0版！\n斷航防疫 歐陸機場瘋搶機票 美國人2萬美金拼出回家路！\n不檢疫鬆散防疫！拜登撿到槍！川普翻桌認輸牌局重新再開？\n順時中成了美國仙丹？讓川普great again？大檢疫重掌民心！\n500億美金防疫！台灣GDP七成！川普不惜自打臉 展連任決心！\n川普500億防疫比降息有用！美股火爆上揚1985點！創歷史紀錄！\n\n川普攘外安內開打？不爽美軍帶病毒到武漢說法！密招中國大使！\n中國甩鍋卸責！美中角力 川普開嘲諷：我們都知道病毒哪來的！\n美中角力 台灣不缺席！白宮網站請願書 驚現陳時中替換譚德塞？\n美中都有壓力！武肺病毒出生地 黃：中國高層授意洗白！啟動大外宣 \n\n黑色蝴蝶效應！陳時中看不到疫情終點！超前部署申根區警示三級！\n申根區到台通通隔離14天！陳時中重手 全因歐洲3例境外移入！\n守久必失！台灣超前部署 目標轉向美國！加州紐約華盛頓二級警示！\n英國防疫嚇壞台灣?60%染病 就能群體免疫?果真英國研究不可信！\n\n《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans\n《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7\n\n#劉寶傑 #新聞萬象內幕追擊 #週一至週五看寶傑的關鍵時刻",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f6SOu9cq4OU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f6SOu9cq4OU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f6SOu9cq4OU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "關鍵時刻",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/IEZN3RXQ5i89cHtbNO61ZqnSgBs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ix5uwV_P4CQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T07:46:56.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：吃蒜防感染？吃冰淇淋助長病毒？BBC揭真相－ BBC News 中文｜BBC 事實核查",
+    "description": "新冠肺炎疫情肆虐令市民人心惶惶。網上出現各種有關新冠肺炎的謠言流傳，包括一些虛假的健康資訊。BBC事實核查為大家解謎。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ix5uwV_P4CQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ix5uwV_P4CQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ix5uwV_P4CQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/aYJ9a7mc-BRjRPilIL6LmSazwnA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "x_u152u8bRQ"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T05:22:17.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "💥一家4口驚現華南海鮮市場，住43天，無防護、沒感染！狙擊手戒備、公安駐民宅，記錄習近平武漢行；為何3.10方艙全關；港女11月症狀似武肺，疑與家中陸客包裹有關；蝗軍逼近雲南 | 新聞拍案驚奇 大宇",
+    "description": "💎習近平武漢行 官媒發詭異「墓碑照」01:06\n💎習近平先到「火神山」 或實為「職工療養院」02:27\n💎迎接習 武漢地毯式消毒 狙擊手高空佈防 03:33\n💎習訪東湖社區 公安進駐萬家守陽台 刪照片 05:52\n💎習來訪公安嚴防口號 到訪社區特供「愛心菜」09:04\n💎3.10武漢方艙全關 信息封閉背後運作是謎 11:49\n💎病毒擴至100多國 意大利確診破萬 朝鮮180士兵死 15:10\n💎港人疑11月包裹藏病毒 華南市場還有人住卻未感染 17:22\n💎美國確診近1000例 加拿大傳首例死亡 19:58\n💎大陸還面臨蝗蟲和草地貪夜蛾威脅 20:41\n\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.\n#習近平 #歐洲疫情 #蝗蟲威脅",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x_u152u8bRQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x_u152u8bRQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x_u152u8bRQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/vWP3Zd4yHdbpub9R1jY_2Fx8l1c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NWahuKZSnnY"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T23:00:05.000Z",
+    "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+    "title": "【關鍵時刻】20200312 節目播出版（有字幕）｜劉寶傑",
+    "description": "【關鍵時刻】20200312分集大綱：\n\n(00:00:10)Part1:美股斷頭「華爾街金牛倒地」 川普瘋狂信心喊話挽不回「武肺大逃殺」！？ 【關鍵時刻】20200312-1 劉寶傑 黃世聰 吳子嘉 李正皓 陳東豪 姚惠珍\n\n(00:29:46)Part2:武肺疫情下的生死爭霸 普丁「趁你虛要你命」用石油戰要川普老命！？ 【關鍵時刻】20200312-2 劉寶傑 黃世聰 吳子嘉 吳嘉隆 姚惠珍\n\n(00:44:42)Part3:奈良「神鹿」逛大街、京都飯店破盤千元有找 武肺讓日本觀光變「慘業」！ 【關鍵時刻】20200312-3 劉寶傑 李正皓\n\n(00:49:06)Part4:阿拉伯、俄羅斯普丁聯手砍向川普！？火力全開「增產」激起另一波「石油戰爭」！！ 【關鍵時刻】20200312-4 劉寶傑 李正皓 黃世聰 吳子嘉 陳東豪 王瑞德 林靜儀\n\n(01:25:42)Part5:美國砍「金雞母」30天歐洲禁航令！？義大利救護車到醫院卻滿到進不去！？ 【關鍵時刻】20200312-5 劉寶傑 黃世聰 林靜儀 吳嘉隆\n\n(01:39:25)Part6:中國出現「天空藍」成反指標！？ 空氣清新汙染不見「復工率」堪憂…！？ 【關鍵時刻】20200312-6 劉寶傑 黃世聰\n\n《關鍵時刻》粉絲團：https://www.facebook.com/CTimefans\n《關鍵時刻》頻道訂閱：https://bit.ly/2OlcnV7\n\n#劉寶傑 #關鍵時刻 #東森新聞",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NWahuKZSnnY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NWahuKZSnnY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NWahuKZSnnY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "關鍵時刻",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/_Kuj6XRJ9KfAcKoo9rPkBJRRIrA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yNCEqTqRR_w"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-13T08:20:16.000Z",
+    "channelId": "UCiYZw0h6hA5ENlPhTZFTHTA",
+    "title": "可愛動畫告訴你武漢肺炎 2019新型冠狀病毒為何可怕？《VS MEDIA》",
+    "description": "#原創授權 ✔維思維Weisway👉https://reurl.cc/dO5Ez \r\n\r\n#怎麼把病毒畫得這麼可愛\r\n#這四點就大大預防呀\r\n\r\n🆚創作者全面徵稿中 ▶https://goo.gl/ISUxJs\r\n🆚按讚VS MEDIA臉書 ▶ https://goo.gl/9jdXjA",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yNCEqTqRR_w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yNCEqTqRR_w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yNCEqTqRR_w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "VS MEDIA Taiwan",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/fzwlpSB04QGiKBvK5VFoqafxevI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RHIjoHnrhNI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-10T07:23:19.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：世衛代表接受BBC專訪「中國為其他國家贏得時間」－ BBC News 中文",
+    "description": "中國是新冠病毒疫情最早爆發的國家。一方面，當局採取「封城」措施，新的感染數字和死亡人數不斷減少。但另一方面，中國也因在疫情爆發早期試圖掩蓋信息、讓醫生噤聲而飽受詬病。\n\n質疑者認為，如果當局更加開放，是否可以更有效地阻止這種疾病的傳播。\n\nBBC記者沙磊（John Sudworth）專訪世衛組織駐華代表高力（Gauden Galea），詢問他有關中國和世衛組織在疫情應對方面的角色。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RHIjoHnrhNI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RHIjoHnrhNI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RHIjoHnrhNI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YOTg6WrrC7qEb1kSZNlFsObioog\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "niufbJl8iC8"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T12:31:55.000Z",
+    "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
+    "title": "新冠病毒突變 外界憂影響藥物、疫苗研發 20200318 公視晚間新聞",
+    "description": "更多新聞與互動請上：\n公視新聞網 ( http://news.pts.org.tw )\n公視新聞網粉絲專頁 ( https://www.facebook.com/pnnpts/ )\nPNN公視新聞議題中心 ( http://pnn.pts.org.tw/ )\nP#新聞實驗室 (http://newslab.pts.org.tw)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/niufbJl8iC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/niufbJl8iC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/niufbJl8iC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "公視新聞網",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/EBfSfRhpTknrCgeGj5KKX4Dw9Ys\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UBYPkjs9ve4"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-29T06:14:41.000Z",
+    "channelId": "UCZqsvi6uhFrbsJcAmcZudcQ",
+    "title": "【美國人不怕疫情？😷】為什麼美國人都不戴口罩？聊聊美國人怎麼看新型冠狀病毒",
+    "description": "最近看到台灣朋友的IG限時覺得很感動，謝謝大家努力防護\n立下了好榜樣～\n我們祝福你和全家人身體健康❤️保重喔！\n追蹤我的IG  ➭ www.instagram.com/hailey_jane/ \nFB專頁  ➭ www.facebook.com/haileymocaixi \n影片授權 ➭ haileyadam@pressplay.cc",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UBYPkjs9ve4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UBYPkjs9ve4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UBYPkjs9ve4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "莫彩曦Hailey",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/YSzx5qWMX80dMCpb8VjTWwk_wPo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QH680p8Aor0"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T09:30:21.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情微紀錄片：武漢「封城」之後－ BBC News 中文",
+    "description": "湖北武漢是新冠疫情的爆發地。為了遏制疫情擴散，這座擁有超過1000萬人口的城市從1月23日以來，已經被封鎖整整50天。期間有近5萬人感染，2400人死亡。\n\n兩名本地居民在「封城」後，不約而同地決定用鏡頭記錄自己的生活。對他們來說，最壞的情況似乎已經過去，但新冠病毒開始在全球範圍內蔓延。他們的經歷告訴我們該如何度過難關？\n\nBBC中文與《Our World》節目合作推出微紀錄片《封城之後》，帶你走近這座「孤島」中普通人的生活。\n\n導演：娜塔莉亞·左（Natalia Zuo）；視頻素材提供：林文華、蔡開海、二更視頻、串串（Chuanchuan）\n\n聯合製片：汪宜青、簡·麥克馬倫（Jane McMullen）\n\n監製：張晧宇、薇薇安·吳（Vivian Wu）、本·艾倫（Ben Allen）\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QH680p8Aor0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QH680p8Aor0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QH680p8Aor0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/fwuISnFnx4_l6-OS2gAK8Y0sSdY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "s3-d8blfcjI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-17T04:42:34.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "🔥病毒恐有奪命亞型！2秒變青煙？再探移動焚燒爐，焚人嗎？武漢4千人隔離營，再爆社區感染，多地解了又封，小湯山重啓，有華人回國如歷險，醫生親歷政治清洗患者；伊朗21萬人發病 | 新聞拍案驚奇 大宇",
+    "description": "💎讚方艙醫院歌曲封「鬼歌」 清艙行動定時定點 1:29\n💎武漢4千人集中營 病毒有奪命亞型 揭黑幕：隨意出院 阻檢測 3:14\n💎出方艙九成帶病毒？輕者發病不讓說 重者死亡 6:23\n💎武漢再現社區感染 湖北多地解了又封 8:15\n💎北京重啓小湯山 哈爾濱5車人送隔離 10:01\n💎確診上報官員下台 變成變相鼓勵瞞報 11:18\n💎華人海外只看微信抖音 有人回國被隔離 條件差 12:08\n💎出院是謎死亡人數也是謎 湖北萬人坑與移動焚屍爐 14:03\n💎美律師提告故意拖延防疫 控武漢P4洩漏 18:19\n💎美議員起草法案反制中共 川普發推稱「中國病毒」 19:30\n💎美國籲避免10人以上聚集 伊朗21萬人發病 ISIS也怕病毒 20:47\n\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.\n#小湯山重啓 #移動焚燒爐 #武漢4千人隔離營",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s3-d8blfcjI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s3-d8blfcjI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s3-d8blfcjI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yI0vSOzR9k8aLP-Chs1cPEJR3M4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iX0ilDtZu6w"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-03T10:36:54.000Z",
+    "channelId": "UC07-dOwgza1IguKA86jqxNA",
+    "title": "COVID-19病毒是如何传播的？我们如何自我防范？",
+    "description": "2019冠状病毒病（COVID-19）是由首次传入人类的新冠状病毒引起的传染病。它主要通过感染者说话、咳嗽或打喷嚏时产生的飞沫在人与人之间传播。观看此简短动画，以了解有关2019冠状病毒病的更多信息以及如何如何自我防范",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iX0ilDtZu6w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iX0ilDtZu6w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iX0ilDtZu6w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "World Health Organization (WHO)",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/6sFSXewE7WE1SdfXZMNyibH4AOc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ZDFe-loITh0"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-25T09:13:29.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：美國青年無視勸喻海灘狂歡 特朗普「他們覺得自己所向無敵」－ BBC News 中文",
+    "description": "新冠疫情全球大爆發，美國形勢也不容樂觀。 春假期間，仍有大批美國學生湧入邁阿密歡度假期，無懼美國疾病控制與預防中心對於新冠病毒發出的警告。\n\n為避免病毒傳播，美國醫療部門早前呼籲民眾應十人及以上聚會。邁阿密的餐廳及酒吧已縮短每日營業時間，部分海灘也已對公眾關閉。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZDFe-loITh0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZDFe-loITh0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZDFe-loITh0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/grxq4ehpZyrh1akhXZmvfh6HbOE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_m_KCEBQv3s"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-12T06:14:36.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "🈲遼寧爆甲肝疫情，可控！石正麗「否定」美國製造病毒；新冠病毒非人造證據找到？華南市場住4人吃什麼？揭世衛譚德塞老底；日本防疫國家發錢；曝中共網軍反美教科書；武漢北京等地疫情真相 |新聞拍案驚奇 大宇",
+    "description": "💎石正麗稱新冠病毒基因位點 找到自然界類似產物 0:46\n💎石仍認為病毒來自野生動物 同時“否決”美國製造說 3:41\n💎石首次公開“闢謠” 是內賈德指控病毒來自實驗室同天 6:58\n💎石正麗預言還會有“新新冠” 是大概率事件 8:03\n💎華南市場四口人 住43天疑點多  10:21\n💎中共全網刪“發哨人”爆料 引發大陸網民反彈 12:00\n💎世衛定「大流行」 譚德塞等人被揭老底 14:53\n💎意大利等西方國家中招 胡錫進「得意」遭反諷 17:14\n💎伊朗第一副總統確診 日本防疫給民眾的補償措施 18:16\n💎美國確診破千 華裔醫生解析美強大危機應對能力 21:00\n💎中共網軍反美「教科書」曝光 23:34\n💎武漢上海重慶北京 多地醫院人滿為患 24:48\n💎遼寧爆發甲肝流行病 當局稱「可防可控」 26:09\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_m_KCEBQv3s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_m_KCEBQv3s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_m_KCEBQv3s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Jkn3kgdl9sBpo4WHQvJcpyD49iI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HR5yYFY4AEk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T08:22:34.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：英國酒坊變搓手液工房 店主發貨分文不收－ BBC News 中文",
+    "description": "新冠肺炎疫情下，大眾提高衛生防護意識，消毒用品供不應求，包括酒精搓手液。英國布里斯托城一間琴酒酒坊運用店內的原料，製作酒精搓手液，以提高當地供應。\n\n不過酒坊店主不希望以此方法謀利，他讓顧客以捐錢給慈善機構交換搓手液，目前已為當地一家病童醫院籌得800英鎊。\n\n News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HR5yYFY4AEk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HR5yYFY4AEk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HR5yYFY4AEk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/dsydA6sI1OkqL3_E8Sjc3abza_o\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "E46_veB0DPU"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-28T10:15:07.000Z",
+    "channelId": "UCSs4A6HYKmHA2MG_0z-F0xw",
+    "title": "“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？",
+    "description": "【加入会员链接】https://www.youtube.com/channel/UCSs4A6HYKmHA2MG_0z-F0xw/join\n【订阅频道链接】https://www.youtube.com/李永乐老师\n------------------------------------------------\n视频内容：\n20世纪初，人们发现了一种比细菌还要小的病原体：病毒。病毒由蛋白质外壳和遗传物质组成，必须寄生在细胞里才能表现出生命特征。病毒可以一次次欺骗细胞，最终将自己的遗传物质送到寄主细胞核里。病毒可以在细胞中潜伏很久，在某个时刻突然爆发，寄主就会死亡。人们已经发现了七种冠状病毒，其中有三种可以引起严重疾病，即SARS、MERS和新型冠状病毒，它们都会引起免疫系统的强烈反应，产生细胞因子风暴，大量的白细胞和组织液充斥肺部，造成呼吸困难和死亡。免疫反应既不能太弱，也不能太强，平衡的免疫力才是最好的免疫力。面对病毒，人们的反应与免疫系统一样，毫不在意或者过分恐慌都是不对的，平静的等一段时间，疫情一定会被消灭。\n------------------------------------------------\n火热视频推荐：\n李永乐老师品书：《从一到无穷大》\nhttps://youtu.be/yPTKL8R67RA\n\n外星人如何发现地球？李永乐老师【2019诺贝尔物理学奖解读】\nhttps://youtu.be/dAPJaryxQkA\n\n房贷合同要变了！LPR利率和固定利率哪个合算？会影响房价走势吗?\nhttps://youtu.be/Z2JpBQn455E\n\n【经济泡沫1/4】一朵花换一栋楼？\nhttps://youtu.be/PXseMoyGKzY\n\n外星人存在吗？人类为什么看不到外星文明？\nhttps://youtu.be/Mwa0_nE9H7A\n------------------------------------------------\n\n大家有什么想看的内容，可以在下方留言！",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E46_veB0DPU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E46_veB0DPU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E46_veB0DPU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "李永乐老师",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9I_5U52tAd_6zQbAW_xaiuC2y3Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "27RbJzsEOgw"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-20T15:16:09.000Z",
+    "channelId": "UCHsKlGM7IXNnQqA6S8mEmBQ",
+    "title": "驚！武肺病毒傳染還看血型？「這血型」中鏢機會高 美國不倒、它就不倒！全美最強軍火商「洛克希德馬丁」-【這！不是新聞 精華篇】20200320-6",
+    "description": "蝦米？WHO指定武肺唯一解藥「瑞德西韋」僅50%有效？\n驚！武肺病毒傳染還看血型？「這血型」中鏢機會高 美國不倒、它就不倒！全美最強軍火商「洛克希德馬丁」\n\n#瑞德西韋 #血型 #陳斐娟\n#王任賢 #謝晨彥 #邱明玉 #施孝瑋 #蔡明彰 #潘懷宗 #賴憲政 #李山卓\r\n週一至週五2100至2300\r\n東森財經新聞CH57、YouTube 為您發掘事件真相\r\n\r\n\r\n這！不是新聞 FB傳送門：https://www.facebook.com/ArielOnShow/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/27RbJzsEOgw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/27RbJzsEOgw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/27RbJzsEOgw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "這!不是新聞",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/eeUjTD8gx1X1lxRm9SqXZ_f7DLw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "O4qKPw0_l_w"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-21T09:32:44.000Z",
+    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+    "title": "「像肺塞滿玻璃」 英確診女狂咳拍片籲別鐵齒！－民視新聞",
+    "description": "【民視即時新聞】全球確診武漢肺炎的人數已經突破27萬5000人，死亡病例也超過1萬1000例，到底得到武漢肺炎會出現什麼症狀，根據患者現身說法，最普遍的是乾咳，最初幾天還會出現發燒、疲倦、身體疼痛等等症狀，嚴重的人則得仰賴呼吸器。他們用痛苦的經驗呼籲大家，千萬不要鐵齒、要好好保護自己。",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O4qKPw0_l_w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O4qKPw0_l_w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O4qKPw0_l_w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "民視新聞網 Formosa TV News network",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/RXXNYiCNFw8wU1ayvggsL_CzEzg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FZ8kIUzDySM"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T03:04:55.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "💥中國7個雷區隨時踩爆更大疫情！武漢再設300醫站，醫護回援，連5天社區感染；P4王延軼封居里夫人；NBA球星揭病毒最恐怖之處；川普撥錢五千億給國民，日期定；軍醫船開進紐約 |新聞拍案驚奇 大宇",
+    "description": "💎打臉官方數據 習近平「承認」瞞報. 01:08\n💎回國避難餐費五千！海歸航班座立即空空如也 02:42\n💎日本回國同胞拒收 法國海歸被嘲「回去投毒」05:06\n💎湖北幾乎零病例 卻加強交通圍堵 06:41\n💎武漢連5天社區感染 廣東醫護再支援 設300康復醫站 08:42\n💎錦州已清零卻大建方艙 哈爾濱人指防疫更嚴了！ 10:03\n💎通往“感謝”黨的路上 有7個防疫雷區等你闖 10:36\n💎NBA球星找到病毒最恐怖之處 12:44\n💎武漢3.21起全面復工 半數市民被指山窮水盡 14:15\n💎中共要求：獄警與病毒共存亡 16:35\n💎P4所王延軼 被某文章封「中國居里夫人」17:14\n💎袁國勇發文認定武漢是毒源 撤文疑遭政治壓力 18:48\n💎美國將實現醫療用品超級量產 發錢5千億日期已定 20:00\n💎紐約州長拒絕封城 要媒體業繼續工作 軍醫艦艇進港 21:12\n💎美國權威研究院公布：病毒在人體外存活時間 22:24\n💎大陸正進行兵員摸底 鼓勵男學生參軍 23:00\n\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.\n#習近平 #回國避難 #7個雷區",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FZ8kIUzDySM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FZ8kIUzDySM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FZ8kIUzDySM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/GnrWPhgsaf7rBpDuItDj7c88YDs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OeeGU5EJUF8"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-18T11:18:48.000Z",
+    "channelId": "UCJU_mEOzlhdKAAUyt08NGog",
+    "title": "冠狀病毒傻傻分不清？黃瑽寧的「武漢 肺炎」故事時間｜親子天下",
+    "description": "（註：WHO 2/12宣布將病毒正式命名為：SARS-CoV-2，造成的疾病為：COVID-19）\n【親子天下-病毒教室】小孩都能懂的 2019新型冠狀病毒 動畫解說版！（記得開字幕喔）\n「為什麼今年這麼晚開學？」面對2019冠狀病毒的出現，對社會帶來衝擊與改變，該如何讓孩子們明白？★ 立即訂閱親子天下YouTube，看更多精彩故事！： https://cplink.co/aokHX5fY ★\n\n親子天下X人氣小兒科醫師 #黃瑽寧 的首部病毒動畫，由黃醫生親自配音，用最淺顯易懂的語言，解說 #武漢肺炎 發生的來龍去脈，了解冠狀病毒究竟是什麼樣的病毒，用最正確的知識來對抗未知的疾病。\n\n*黃醫生小提醒：由於疫情瞬息萬變，防疫方式會根據政策改變，若居家檢疫及居家隔離民眾出現發燒及呼吸道症狀，請撥打1922全國防疫專線，千萬別自行就醫喔！\n\n黃瑽寧醫生居家防疫tips解說：https://youtu.be/VDwnciWlK44\n完整的武漢肺炎家校防疫指南：https://cplink.co/tWVZFqxN\n📍 訂閱「黃瑽寧醫師健康講堂」Youtube頻道：https://cplink.co/nCRqbcL7\n\n#口罩\n🛎歡迎大家一起編輯不同語言的字幕，讓更多人看到好內容♥️\n步驟：(1)點選影片右下方三個點 (2)按鈕「新增翻譯」 (3)編輯完字幕，右上方「提交協力翻譯」，就完成囉！\n\n【顧問：黃瑽寧｜腳本企劃：邱筱雯、施雲心、林欣靜、邱紹雯｜插畫：施雲心｜剪輯：邱筱雯】\n...................................................................\r\n✔ 訂閱親子天下YouTube頻道：https://cplink.co/aokHX5fY \n✔ 親子天下官網：https://cplink.co/103epuyo \n✔ 親子天下粉專：http://on.fb.me/1Kkng6j \n✔ 親子天下Shopping：https://cplink.co/2z71hMR2 \n✔ 親子天下Shopping粉專：http://on.fb.me/2dpFvHK",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OeeGU5EJUF8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OeeGU5EJUF8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OeeGU5EJUF8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "親子天下",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/k2XPL_CQkh_OTGnPRq3_2LXp3rg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "zuy8uxqIeWI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-13T10:53:14.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "「滴血」的紅木：從塞內加爾到中國，西非紅木走私和生態災難調查－ BBC News 中文",
+    "description": "紅木是地球上被販賣最多的野生物種之一。當被割傷時，它會流出血紅色的汁液。\n\n在搬空非洲多地紅木後，中國的貿易商們將目光投向了非洲大陸西部。\n\n在西非的塞內加爾，砍伐或出口紅木是違法行為。然而，BBC《非洲之眼》節目（BBC Africa Eye）卻在當地目睹了這種珍稀木材是如何以驚人的速度被砍伐與走私，從塞內加爾卡薩芒斯的森林，到鄰國岡比亞的港口，最終到達目的地中國。\n\n一年來，BBC《非洲之眼》節目同記者烏瑪魯·弗法納（Umaru Fofana）一直在調查這宗價值百萬美元的紅木貿易。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zuy8uxqIeWI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zuy8uxqIeWI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zuy8uxqIeWI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/cgkPDhW-w3pSZ0s49en3IGIjQD4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SolooLUXKW0"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T07:42:17.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：喝牛尿抗疫？印度教信徒親身嘗試－ BBC News 中文",
+    "description": "新冠肺炎疫情席捲全球，有印度教信徒認為喝牛尿可以對抗肺炎，同時淨化身心靈。他們堅信牛尿能消滅細菌，一直以來都有用牛尿作為家中的消毒劑。不過新型冠狀病毒是一種病毒，並非細菌。而專家表示沒有證據顯示牛尿可以抗疫。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SolooLUXKW0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SolooLUXKW0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SolooLUXKW0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/zaB-V8c7Qx31lQLRevB9d-MxZsQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HmV6Wv3W02o"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-03T08:47:04.000Z",
+    "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+    "title": "肺炎疫情：約翰遜警告新冠肺炎或在英國「大爆發」 － BBC News 中文",
+    "description": "新型冠狀病毒COVID-19疫情在中國以外擴散，英國政府將於星期二（3月3日）公佈進一步應對策略，當中可能包括學校停課、取消大型活動、徵召國民保健服務（NHS）退休醫療人員執勤等措施。首相約翰遜（Boris Johnson）警告，疫情可能在英國境內「非常顯著」地擴散。\n\n英國截至星期一（2日）已有39人確診感染新型冠狀病毒。與此同時，中國深圳市衛生健康委員會稱，一名從英國倫敦經香港返回深圳的男子確診感染新冠肺炎，列為境外輸入病例，其在英國布里斯托工作地點有兩名同事出現咳嗽發熱症狀。\n\n歐盟則把冠狀病毒風險水平從「中等」提升至「高」。\n\n約翰遜星期一接受BBC政治事務總編勞拉·昆斯伯格（Laura Kuenssberg）專訪時說，病毒在英國境內進一步傳播已是「迫在眉睫」。\n\nBBC News 中文: https://www.bbc.com/zhongwen\n訂閱BBC News 中文 YouTube：http://bit.ly/1wkHh5T\nBBC News 中文 Facebook - https://www.facebook.com/bbcchinese\nBBC News 中文 Twitter - https://twitter.com/bbcchinese\nBBC News 中文 Instagram - https://www.instagram.com/bbcchinese/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HmV6Wv3W02o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HmV6Wv3W02o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HmV6Wv3W02o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BBC News 中文",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/WkGh1Pkkri3IXw1untO1MuqMNpc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "USfaQjYAODk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-26T13:17:51.000Z",
+    "channelId": "UCfIbForcbE83cxm8MScOTlQ",
+    "title": "3 measures the US has to do right now to defeat the Coronavirus",
+    "description": "In order to defeat the Coronavirus the US needs to correctly implement:\n\n1. Testing\n2. Quarantine\n3. Social Distancing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/USfaQjYAODk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/USfaQjYAODk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/USfaQjYAODk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Jerry Kowal 我是郭杰瑞",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/nRJAcX7LTx0HEhwxRixA1b_XYKE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_eY6k908ibE"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-10T14:55:18.000Z",
+    "channelId": "UCHsKlGM7IXNnQqA6S8mEmBQ",
+    "title": "新冠肺炎與解放軍有關？FBI下令通緝共軍女中尉 禍害起源？武漢P4實驗室遭爆未建「病毒回收功能」？-【這！不是新聞 精華篇】20200210-3",
+    "description": "意外？暗殺？調查武肺關鍵期 病毒權威猝死不單純？！\n新冠肺炎與解放軍有關？FBI下令通緝共軍女中尉 禍害起源？武漢P4實驗室遭爆未建「病毒回收功能」？\n\n#解放軍 #普拉瑪 #陳斐娟\n#黃玉成 #潘彥宏 #蔡明彰 #潘懷宗 #謝晨彥 #朱學恒 #李秉穎 #王尚智\r\n週一至週五2100至2300\r\n東森財經新聞CH57、YouTube 為您發掘事件真相\r\n\r\n\r\n這！不是新聞 FB傳送門：https://www.facebook.com/ArielOnShow/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_eY6k908ibE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_eY6k908ibE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_eY6k908ibE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "這!不是新聞",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/AAhTyeBgMyROG9kpbxkEdYzozg0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "a_GW2hrlnAk"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-29T14:34:42.000Z",
+    "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+    "title": "【十點不一樣】防肺炎患者遺體釋出病毒　英國人這樣做",
+    "description": "#武漢肺炎 #英國防疫措施 #研發疫苗 \n●訂閱【TVBSNEWS】開起小鈴鐺，最新資訊馬上接收👉http://bit.ly/2flUkiY\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://bit.ly/2tUs3tm\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://bit.ly/2QOEFLI\n●下載【TVBS新聞APP】最即時！  立即下載👉http://bit.ly/2ch35Gb\n●【TVBS新聞網】👉https://bit.ly/35O5Vyc",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a_GW2hrlnAk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a_GW2hrlnAk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a_GW2hrlnAk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TVBS NEWS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/48sW1-2psIMqamYYkNjLjwcxDBY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "_DtDAXVF4EM"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-29T13:08:30.000Z",
+    "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+    "title": "最新》為武漢肺炎製造疫苗 澳洲科學家成功邁出第一步",
+    "description": "對抗武漢肺炎，世界各國都在想辦法，而澳洲科學家29日宣布，他們成功在實驗室複製了「新型冠狀病毒」，可望對未來「武漢肺炎」防疫有突破性進展。\n\n【全新東森新聞APP】一手掌握全世界→https://goo.gl/Ui51Xe\n\n#澳洲 #疫苗 #新型冠狀病毒",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_DtDAXVF4EM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_DtDAXVF4EM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_DtDAXVF4EM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "東森新聞 CH51",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/1KFY09zd-CBIaphmDrxHPWwNVVY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "J8AuKrk557g"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-14T06:43:02.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "🚨鄭州毒王1人害4萬人；川普接觸病毒確診者，或將檢疫，美國宣緊急狀態出大招；一個詞害慘美疾控主任；習近平武漢狙擊手瞄警察；湖北公安大抓捕，國歌成抗議曲；貴州初中開學即封校 | 新聞拍案驚奇 大宇",
+    "description": "💎病毒死者誤診流感 「一個詞」害了美疾控主任 1:34\n💎美軍帶毒到武漢 還是被投毒？ 7:02\n💎趙立堅無異向美國下戰書 外媒批中共瞞報耽誤世界 11:26\n💎重症康復走路都喘 內部文件：11.17就有病例 13:14\n💎伊朗現「萬人坑」 石灰撒墓地 13:55\n💎美國進緊急狀態 撥500億 學貸免息 大購原油 15:32\n💎川普看重祈禱 2017曾現奇蹟 靈媒說中2020瘟疫 16:13\n💎巴西總統未感染 川普接觸過確診者 將接受檢疫 18:01\n💎陸復工或激活疫情鏈 鞭炮慶解封不戴口罩 有人倒地 18:44\n💎貴州某校開學即封校 鄭州毒王證潛伏患者更可怕 19:37\n💎湖北孝感抗議持續 習訪武漢自帶狙擊瞄警察 20:38\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J8AuKrk557g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J8AuKrk557g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J8AuKrk557g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/Fup-MSZ1TPtSn4TF2NxQvADSge4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "w_XNzw_iXvU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T03:20:09.000Z",
+    "channelId": "UCOLfSutoyLeSggX7oLbrBDQ",
+    "title": "🥊見人抓人見車扣車，武漢要5天滅疫！患者跑步出院「陽壽」被篡改；美國出五千億給國民發錢！千禧代是抗疫主力；首例疫苗試種者喊棒；白宮預防術；川普叫定中國病毒；Uber梅西停業 |新聞拍案驚奇 大宇",
+    "description": "💎「回國避難」的浪漫約定 是可以廝守的承諾嗎？ 1:00\n💎回國學生滯留機場 父母久等終未見面 1:51  \n💎大陸疫情緩解 全要謝“兩字秘訣” 2:27\n💎武漢5天衝刺！陽性出院改陰性 北京企業確診不報 4:40\n💎義大利封城與武漢大不同 效果初顯 7:10\n💎英國不惜全民染病？最新措施趨嚴 8:38\n💎美國疫苗首例臨床試驗 志願者：好棒！ 10:40\n💎只有“兩頁紙”的美國國家防疫指南 別小看！ 11:38\n💎「千禧一代」成美國人口主力 防疫要靠他們 13:43\n💎美國保持基礎行業運作 或限國內旅行 14:34\n💎美國疫情45天內到峰值 Uber梅西全停業 15:15\n💎紐約市或開限居民出門 “舊金山經驗”可參考 15:55\n💎川普政府將寄錢給美國人 經濟刺激投萬億美元 16:54\n💎川普堅稱「中國病毒」 稱美國兵投毒是信息造假 18:57\n\n-\n⭕️加入會員： http://bit.ly/JoinDayu\n⭕️年費會員： http://bit.ly/JoinDayuYL\n訂閱每日視頻 + 按小鈴鐺🔔： http://bit.ly/PAJQsub\n-\n支持「大宇 新聞拍案驚奇」：\n接受捐款網址：http://bit.ly/DayuTime \n-\n\n爆料郵箱： xwpajq@gmail.com\n爆料中，請盡量多提供一些說明文字，便於工作人員查看。我們每天都收到大量的各類郵件，容易濾過，或者沒有採用您的資料，還請大家不要介意。\n再次提醒一下，大家給我們發信，請不要發網上重複的消息，請發您自己掌握的有關實情，而且儘量寫好事件發生的時間地點，最好再附上幾句簡介，讓我們知道發生了什麼。只有一張照片，或者是視頻，我們沒辦法確認，不好報導。請您一定保證自身安全的前提下，再發送有關信息，安全第一！\n\n-\n臉書：https://www.facebook.com/DayuShow\n推特：https://twitter.com/xwpajq\n追蹤部落格：http://bit.ly/2v56mYw\n\n更多視頻：\n新聞拍案驚奇 武漢肺炎 👉\nhttps://www.youtube.com/watch?v=-77z_SE2ab8&list=PLzxjNt9AHGy3GYAqrRSv14El4IfxHXtO_\n\n大宇推薦！新聞拍案驚奇 精彩視頻  👉\nhttps://www.youtube.com/playlist?list=PLzxjNt9AHGy31yVmgBEN8jYxk_cZy63NK\n-\nCredits:\nshutterstock Images:  https://shutr.bz/2u8Zdp8\nMusic:  Audioblocks.com,  epidemicsound.com\nStock Video:  Videoblocks.com\n-\n© All Rights Reserved.\n#回國避難 #中國病毒 #川普",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w_XNzw_iXvU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w_XNzw_iXvU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w_XNzw_iXvU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新聞拍案驚奇 大宇",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/roYBxp996wHqAHHvwGpNSEbyJUk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YAa041ZDjOg"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-11T11:05:13.000Z",
+    "channelId": "UC6jEF1orhgER1Nsc174FwTg",
+    "title": "COVID-19 (冠状病毒) – Chinese version",
+    "description": "ENGLISH VERSION: https://www.youtube.com/watch?v=Ma07a6svw5w\n\nLearn more about COVID-19 https://www.elsevier.com/connect/coronavirus-information-center\n\n#coronavirus #immunology #china #3d4medical #elsevier #physiology #virus #immunity",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YAa041ZDjOg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YAa041ZDjOg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YAa041ZDjOg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "3D4Medical",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/dwCXt5GUJHhI2mqDUlhlaWwGByM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LPOpdbwiaiY"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-20T09:01:55.000Z",
+    "channelId": "UC07-dOwgza1IguKA86jqxNA",
+    "title": "世卫组织：有关冠状病毒的问答",
+    "description": "什么是冠状病毒？它们源自何处？我如何保护自己？针对这些问题，世界卫生组织给出了答案。\n\n更多信息请浏览：https://www.who.int/topics/coronavirus_infections/zh/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LPOpdbwiaiY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LPOpdbwiaiY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LPOpdbwiaiY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "World Health Organization (WHO)",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/hex3EHG4HPUqA9I0bzCwYcL4p1c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bxZ2z-UCJjI"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-19T00:47:30.000Z",
+    "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+    "title": "明起英國全境停課 倫敦可能「封城」 | 華視新聞 20200319",
+    "description": "歐洲疫情急轉直下時，英國首相強森一週前說，只要英國六、七成的人口感染新冠病毒，產生抗體，打算以群體感染的方式來保護免疫力較差的人。因此他不打算讓學校停課，讓商店關門，讓倫敦封城。\n\n全球疫情 即時追蹤》http://bit.ly/CTS_COVID19\r\n華視APP升級囉 立即體驗》http://bit.ly/CTS_APP",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bxZ2z-UCJjI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bxZ2z-UCJjI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bxZ2z-UCJjI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "中華電視公司",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/9zvXm45BJGG-3APhYj_vZdaruCA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "riRZ__8MF7c"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-18T13:57:27.000Z",
+    "channelId": "UCtny2KonB-pEFSxEzq94WAA",
+    "title": "英国开始全国家里蹲的第一天，伦敦终于开始变空了...",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/riRZ__8MF7c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/riRZ__8MF7c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/riRZ__8MF7c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "英国那些事儿",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/s4AAz8eyyLU8cggSFEbfCGt5rIU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Mnrf8izRfkA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T06:00:56.000Z",
+    "channelId": "UCi4AGjvmSMB9Nn6oyFPYPeQ",
+    "title": "武漢肺炎：漢陽數個小區再爆大規模感染",
+    "description": "💪捍衛未來，用行動支持新唐人 👉 http://bit.ly/ntdtvfriends\n￼🛎 請「訂閱」我們，並「按下」小鈴鐺，就能隨時收到最新報導！\n=================================\n⭐️ 新唐人亞太電視YouTube 24小時直播 👉http://bit.ly/2Zzazyb\n⭐️ 按讚加入官方FB 👉http://www.facebook.com/ntdtv.com.tw\n⭐️ 新唐人亞太電視台官網 👉http://www.ntdtv.com.tw/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mnrf8izRfkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mnrf8izRfkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mnrf8izRfkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "新唐人亞太電視台NTDAPTV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/yq7Voik195LGqTsavunnSA6ufYg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KbEbPv3n23Q"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-10T13:48:58.000Z",
+    "channelId": "UCUj9oqtKhwSfM6YWD3qyMnQ",
+    "title": "美稱「武漢病毒」遭批卑劣 血淋淋影片揭湖北人心酸！-江中博 徐俊相《57爆新聞》精選篇 網路獨播版",
+    "description": "封城48天「首度親赴」…「習近平」終於飛抵武漢視察！\n外出遭擋、找不到工作 疫情趨緩下湖北人卻「還在痛苦」！\n雪上加霜！ 大陸東北再爆「A型肝炎」下一個風暴再起？\n看到黑影就開槍…陸學校逼吃「大鍋藥」提升免疫力？\n\n財經專家 阮慕驊\n康寧大學副校長 馬西屏\n資深媒體人 黃創夏\n資深媒體人 江中博\n品豐大中華投顧董事長 蔡彰鍠(豐勝)\n\n更多精彩內容每周一至周五晚上19:00\n請鎖定57東森財經新聞台－57爆新聞\n\n鎖定東森財經台57頻道《57爆新聞》\n→https://bit.ly/2uBSbXv\n\n#57爆新聞 #徐俊相 #江中博",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KbEbPv3n23Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KbEbPv3n23Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KbEbPv3n23Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "57爆新聞",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/lb1q3t8RbZ33jEmo4cSEZ93ULF8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rOrqp2S73KU"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-16T20:48:36.000Z",
+    "channelId": "UCPMqbkR35zZV1ysWGXJPW-w",
+    "title": "「影子」訪武漢？「正國級老領導」憂心如焚？趙立堅被喊「下作」，變風向2大原因，4000人方艙再起，疫情今夏不可能結束，「第二輪爆發」肯定無疑，三駕馬車死火【新聞看點 李沐陽03.16】",
+    "description": "🎯加入YouTube會員： https://bit.ly/2w8XeSG   🎯年費會員(節目網站)： http://bit.ly/InsightPlans\r\n【徵文】請寫下武漢肺炎疫情對您和家人生活、工作的影響，寫下您的感受，用文字記錄這一段歷史。字數在500以內，體裁不限，歡迎投稿。同時歡迎大家爆料，包括視頻、圖片和文字說明。請發送到郵箱：xwkd2017@gmail.com。我們將選擇合適的作品，在節目中與大家分享。#武漢肺炎 #新冠肺炎 #習近平\r\n4萬多人白宮聯署 要YouTube解釋「黃標審查」\r\nhttps://www.epochtimes.com/b5/20/2/26/n11897803.htm\r\n\r\n白宮聯署地址：https://petitions.whitehouse.gov/petition/request-youtube-explain-why-youtubers-are-censored-or-no-ads-yellow-icons-coronavirus-topic\r\n------\r\n🎯加入會員： https://bit.ly/2w8XeSG\r\n🎯年費會員： http://bit.ly/InsightPlans\r\n歡迎訂閱 + 按小鈴鐺 🔔： https://bit.ly/xwkdSUB\r\n🙏 請捐助【新聞看點】： https://donorbox.org/newsinsight\r\n\r\n📧 爆料： xwkd2017@gmail.com\r\n\r\n🌏大紀元【新聞看點】：https://bit.ly/2OsMXqR\r\n臉書： https://www.facebook.com/djy.news\r\n------\r\nCredits:\r\nshutterstock Images:  https://shutr.bz/2u8Zdp8\r\nMusic:  Audioblocks.com,  epidemicsound.com\r\nStock Video:  Videoblocks.com\r\n© All Rights Reserved.\r\n-\r\n©️ 版權所有\r\n\r\n#新聞看點 #李沐陽 #新聞 #時事 #評論 #解讀",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rOrqp2S73KU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rOrqp2S73KU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rOrqp2S73KU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "大紀元 — 新聞看點",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/5cLoDK2DUGYQCLH0l3pPTi0625c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aBR3IuSMlOk"
+   },
+   "snippet": {
+    "publishedAt": "2020-02-05T13:19:17.000Z",
+    "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+    "title": "國內生技取得武漢肺炎病毒基因疫苗研發中",
+    "description": "武漢肺炎疫情，全球持續延燒，由於新型冠狀病毒，突變率高，傳播速度快，就怕衍變成季節性傳染病，各國都急著研發疫苗。國內一間生技公司，掌握病毒基因，將透過基因重組等方式，找出有效數據後，研發出疫苗，最快明年展開人體臨床試驗。不少民眾都表示，台灣的醫療相當先進，對自家人有信心，期盼能過順利研發疫苗。",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aBR3IuSMlOk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aBR3IuSMlOk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aBR3IuSMlOk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "台視新聞 TTV NEWS",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/sSylUuIjinHRN6AlbXxmD6F4Wzk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "39kuCQYUNBc"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-14T13:21:06.000Z",
+    "channelId": "UCURes72wqcEpid6EKNXWfxw",
+    "title": "八点最热报 14/03/2020 轻微症状无需求医 英国\"疯狂\"抗疫策略引争议",
+    "description": "面对新冠肺炎疫情，英国政府出台的“群体免疫政策”引起各方争议。医药权威杂志《柳叶刀》主编甚至猛烈抨击，英国政府是在拿公众的安危玩“轮盘赌注”，是个重大的错误。\n\nThis primetime news programme delivers the latest in current affairs, international top stories & human interest, with input from professionals in the field.\n\nTX Details ：\nLIVE Every Mon - Sun, 8pm\n@ Astro AEC [301] & Astro AEC HD [306]\n\n[Visit Astro AEC’s Official Web Pages]\nHomepage: http://www.hotspot.com.my\nAstro AEC Facebook: https://www.facebook.com/astroaec\n2000 Prime Talk Facebook: https://www.facebook.com/aecprimetalk",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/39kuCQYUNBc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/39kuCQYUNBc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/39kuCQYUNBc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Astro 本地圈",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/KM28Nuy94hVPCijTK5o1cN_Yatk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TIQ6YmJ9lkA"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-15T03:12:52.000Z",
+    "channelId": "UCa6ERCDt3GzkvLye32ar89w",
+    "title": "意大利加入一帶一路帶來的厄運； 台灣成為西方成功防疫典範的關鍵就在這一條；中共說香港“最壞”，正是中共諷刺的“最壞”的糟粕，拯救了香港（江峰漫談20200314第136期）",
+    "description": "#義大利 加入一帶一路，運氣糟透了；正是中共眼中的「壞」，救了#香港 和 #台灣 。//////\n會員網站订阅网址：https://www.jfengtime.com/pages/subscription\nPaypal捐款帳號：https://paypal.me/jfengtime  因為我們是符合美國联邦501(c)(3)的非營利機構，美國的朋友，您的捐款可以獲得聯邦抵稅。\n感謝很多朋友們成為我的會員，如果您有任何疑問可以發郵件給我：contact@jfengtime.com ，我會讓網站技術人員去解決。\n                                                    *********\n有思考深度、有時空緯度、有人性溫度-----江峰時刻。\n含三個欄目：\n歷史上的今天：講出歷史真相，道出生命冷暖。\n江峰漫談：蹭熱點，不蹭熱鬧；看新聞，更看門道。\n川普推推推：通過推特總統，了解美國，了解正常人類秩序，一起為未來的中國尋找智慧和久違的神性。\n\n江峰TG：https://t.me/jiangfengtimegroup\n江峰FB: https://www.facebook.com/JiangFengTime/\n江峰Twitter: https://twitter.com/realjiangfeng\n（本頻道擁有所有內容版權，未經允許不得轉載）",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TIQ6YmJ9lkA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TIQ6YmJ9lkA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TIQ6YmJ9lkA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "江峰时刻",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/GdQpEydEm0AT5K6lsolubviIZ1k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "B1KgBx8s5Lk"
+   },
+   "snippet": {
+    "publishedAt": "2020-03-11T06:38:12.000Z",
+    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+    "title": "國家隊傳出好消息! 武漢肺炎疫苗最快5月出爐..國衛院也宣布僅花19天就研發合成瑞德西韋│【LIVE大現場】20200311│三立新聞台",
+    "description": "➲Telegram頻道歡迎加入 https://t.me/SETLIVENEWS\r\n➲新聞HD直播三立LIVE新聞 https://youtu.be/4ZVUmEUFwaY\r\n➲前進新台灣 前進哩來共 https://reurl.cc/6egpy\r\n➲從台灣看世界時事不漏接  https://goo.gl/djuiiU\r\n➲台灣亮起來 https://goo.gl/p1dU3c\r\n➲政論第一品牌 新台灣加油 https://goo.gl/Hthr3e\r\n➲驚爆新聞線 爆內幕追真相 https://goo.gl/qnrjSt\r\n➲美食趣遊必看54Free食代  https://goo.gl/bSdR3e\r\n➲雲端秘檔揭秘辛解碼真相  https://goo.gl/vi3Gzd",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/B1KgBx8s5Lk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/B1KgBx8s5Lk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/B1KgBx8s5Lk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "三立LIVE新聞",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
+
