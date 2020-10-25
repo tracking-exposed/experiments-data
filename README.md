@@ -1,17 +1,6 @@
-## https://facebook.tracking.exposed
-## public repository of datasets
+## Tracking Exposed published datasets
 
-The dataset here published aim to show the potential outcome of an analysis done with [fbtrex](https://facebook.tracking.exposed), they are published only because:
+* Tracking Exposed is a list of browser extention that scrape effects of personalization to study impact of algorithms.
+* In this repository we release dataset collected via our methodologies, in each directory a dedicated README should point you to a page where the exact methodology is reported.
 
-  * we made profiles on our own, without associate it with any real person
-  * we were following public profiles and official mainstream newspaper
-
-The data collected by fbtrex are NOT published, because they are protected:
-
-  * only the supporter using fbtrex has complete decision on the data provided
-  * if analysis are done over the global dataset, the subject can't be "the users" but only phenomenas, and the users are anonymized in the process
-  * the protection has not the same accuracy of personal data, because they are public posts in the hand of facebook in the first place
-
-## documentation
-
-In every subdirectory you'll find a README.md explaining a basic documentation of the test.
+The data collected by the browser extension are not automatically published and they are periodically deleted if not downloaded from the data owner.
