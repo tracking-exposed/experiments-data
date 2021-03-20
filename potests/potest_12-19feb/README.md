@@ -1,18 +1,17 @@
-### Dataset
-the file (coming from [not-long-term-supported-url](https://pornhub.tracking.exposed/api/v2/file/research-home.csv) )
-```bash
-search_homes.csv
-``` 
-contains different videos that were present in the homepages of 16 different logged in users on PH, the file 
-```bash
-search_homes_clean.csv
-```
+### Raw Dataset
+
+The file `search_homes.csv.gz` it is a compressed dataset; it is originally large 60Mb, and it contains different videos that were present in the homepages of 16 different logged in users on PH, collected daily between the 12th and the 19th of February 2021.
+
+`search_homes_clean.csv`
+
 is the dataset without errors, same numbers of unique homepages and same geolocalization.
 
-### Cleaning
+### Clean Dataset
+
+By using the python notebook:
 
 ```bash
 cleaning_potrex_19feb.ipynb
 ``` 
-python script to clean the dataset, comments inside
 
+It would produce the "\_clean.csv" version of the dataset, check the comments in the python notebook
