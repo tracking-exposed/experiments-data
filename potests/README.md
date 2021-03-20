@@ -14,17 +14,20 @@ We consider how the recommending system might change according to users’ gende
 
 Results are then analysed based on affordances of the platform such as categories, accounts (e.g. verified, channel, user), rating, and views. Further qualitative analysis might underline potential mismatches between imagery as linguistically constructed and video content, as well as if content varies according to gender, sexual orientations, and profiling methods (i.e. accounts vs. guest browsing). Based on this analysis, we will discuss the if and how algorithmic suggestions might reiterate a heteronormative perspective on sexual desire and sexuality typical of a heterosexual, white, and hegemonic masculinity.
 
+*the two following datasets, belongs to the abstract above*
 
-*the two datasets below, belongs to the research above illustrated*
-
-## 📁 potest\_12-19feb/[search_homes_clean.csv 18Mb](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_12-19feb/search_homes_clean.csv)
+## 📁 potest\_12-19feb/[search_homes_clean.csv — 18Mb](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_12-19feb/search_homes_clean.csv)
 
 The first collection for research is quite remarkable because, at the end of February, PornHub removed, from the homepage layout, the section 'Recommended Category for You,' so you can see samples of data that aren't here anymore.
 
-## 📁 potest\_3-12mar/[search_homes_clean_14032020.csv 35Mb](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_3-12mar/search_homes_clean_14032020.csv)
+* [600 homes 11th February 2021](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_12-19feb/600-home-11February21.json.gz) is the log produced by the first consequential access made for preliminary scoping the platform. 34 Mb JSON, compressed to 4Mb.
 
-Second collection. The data wasn't used in the paper, because of the surprising change in the homepage layout at the end of February.
+## 📁 potest\_3-12mar/[search_homes_clean_14032020.csv — 35Mb](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_3-12mar/search_homes_clean_14032020.csv)
+
+Second collection. The data wasn't used in the paper because of the surprising change we spot in the homepage layout at the end of February.
 Comparing data of different nature always lead to more complexities, so we didn't consider them yet.
+
+* [1000 homes 2nd March 2021](https://github.com/tracking-exposed/experiments-data/blob/master/potests/potest_3-12mar/1000-home-02March21.json.gz) is the second log, produced by thousand of consequential access to pornhub. This was a repetition of the 600 collections, one month later, same delay between access, but 1000 and lasting more than 3 hours. (the format is slightly reduced, 1.2Mb compressed)
 
 ---
 
