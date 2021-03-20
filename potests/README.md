@@ -2,14 +2,7 @@
 
 # Heteronormativity and pornography: an algorithmic analysis of PornHub — Abstract
 
-Ilir Rama, University of Milan 
-Lucia Bainotti, University of Turin
-Alessandro Gandini, University of Milan
-Giulia Giorgi, University of Milan
-Silvia Semenzin, University of Milan
-Claudio Agosti, Tracking Exposed 
-Giulia Corona, Tracking Exposed 
-Salvatore Romano, Tracking Exposed 
+Ilir Rama, Alessandro Gandini, Giulia Giorgi, Silvia Semenzin (_University of Milan_); Lucia Bainotti (_University of Turin_); Claudio Agosti, Giulia Corona, Salvatore Romano (_Tracking Exposed_).
 
 ---
 
